@@ -21,8 +21,8 @@ create_discrete_legend <- function() {
     theme_void() +
     theme(
       legend.position = "bottom",
-      legend.title = element_text(family = "Lato Regular", size = 12, face = "bold", color = "#524F4C"),
-      legend.text = element_text(family = "Lato Regular", size = 12),
+      legend.title = element_text(family = "Lato Regular", size = 8, face = "bold", color = "#524F4C"),
+      legend.text = element_text(family = "Lato Regular", size = 8),
       legend.key.size = unit(0.5, "cm")  # Adjust the size of the legend squares
     )
   
