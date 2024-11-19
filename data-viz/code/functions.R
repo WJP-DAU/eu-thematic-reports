@@ -42,37 +42,57 @@ resetDirs <- function(){
 }
 
  
-saveIT <- function(chart, static = F, figid, w, h) {
-  if (static == FALSE){
-   ggsave(
-     plot   = chart,
-     file   = 
-       file.path(
-       path2EU,
-       paste0(
-         "EU-S Data/reports/eu-thematic-reports/data-viz/output/charts/",
-         str_match(figid, "R[^F]"), "/",
-         figid, ".svg"
-       ),
-       fsep = "/"
-     ),
-     width  = w, 
-     height = h,
-     units  = "mm",
-     dpi    = 72,
-     device = "svg"
-   )
-  }
-  else{
+saveIT <- function(chart, static = FALSE, figid, w, h, svg = TRUE) {
+  if (svg == TRUE) {
+    if (static == FALSE){
+      ggsave(
+        plot   = chart,
+        file   = 
+          file.path(
+            path2EU,
+            paste0(
+              "EU-S Data/reports/eu-thematic-reports/data-viz/output/charts/",
+              str_match(figid, "R[^F]"), "/",
+              figid, ".svg"
+            ),
+            fsep = "/"
+          ),
+        width  = w, 
+        height = h,
+        units  = "mm",
+        dpi    = 72,
+        device = "svg"
+      )
+    }
+    else{
+      ggsave(
+        plot   = chart,
+        file   = 
+          file.path(
+            path2EU,
+            paste0(
+              "EU-S Data/reports/eu-thematic-reports/final-charts/no-tooltip/",
+              str_match(figid, "R[^F]"), "/",
+              figid, ".svg"
+            ),
+            fsep = "/"
+          ),
+        width  = w, 
+        height = h,
+        units  = "mm",
+        dpi    = 72,
+        device = "svg"
+      )
+    }
+  } else {
     ggsave(
       plot   = chart,
       file   = 
         file.path(
           path2EU,
           paste0(
-            "EU-S Data/reports/eu-thematic-reports/final-charts/no-tooltip/",
-            str_match(figid, "R[^F]"), "/",
-            figid, ".svg"
+            "EU-S Data/reports/eu-thematic-reports/final-charts/png/",
+            figid, ".png"
           ),
           fsep = "/"
         ),
@@ -80,10 +100,10 @@ saveIT <- function(chart, static = F, figid, w, h) {
       height = h,
       units  = "mm",
       dpi    = 72,
-      device = "svg"
+      device = "png"
     )
   }
- } 
+} 
 
 getInsets <- function(targets){
   lapply(targets, 
@@ -198,8 +218,8 @@ callVisualizer <- function(figid) {
   saveIT(
     chart = chart,
     figid = figid,
-    w = 189.7883,
-    h = h
+    w     = 189.7883,
+    h     = h
   )
   
   # Save static charts
@@ -207,9 +227,20 @@ callVisualizer <- function(figid) {
     chart  = chart_static,
     static = T,
     figid  = figid,
-    w = 189.7883,
-    h = h
+    w      = 189.7883,
+    h      = h
   )
+  
+  # if (figid %in% c("R1F67","R1F68","R1F79","R2F31","R2F35","R2F39","R2F48")) {
+  #   saveIT(
+  #     chart  = chart_static,
+  #     static = T,
+  #     figid  = figid,
+  #     w      = 189.7883,
+  #     h      = h,
+  #     svg    = FALSE
+  #   )
+  # }
   
   
   return(
@@ -389,7 +420,8 @@ save4web <- function(data, source){
             theme          = report,
             pillar_id      = pillar,
             pillar_name    = chapter,
-            subpillar_name = title
+            subpillar_name = title,
+            subtitle       = QRQ_subtitle
           ),
         by = "chart_id"
       ) %>%
@@ -401,7 +433,7 @@ save4web <- function(data, source){
       ) %>%
       select(
         country, level, nuts_ltn, nuts_id, 
-        theme, pillar, pillar_name, pillar_id, subpillar, subpillar_name,
+        theme, pillar, pillar_name, pillar_id, subpillar, subpillar_name, subtitle,
         indicator, score
       ) 
     
@@ -422,9 +454,9 @@ save4web <- function(data, source){
     data4web <- data4web %>%
       left_join(national_values, by = c("country", "indicator")) %>% 
       mutate(
-        score = ifelse(!is.na(national_score), national_score, score) # replace regional w/ nat
+        score = ifelse(!is.na(national_score), national_score, score)
       ) %>%
-      select(-national_score) # remove extra column
+      select(-national_score)
       
   }
   

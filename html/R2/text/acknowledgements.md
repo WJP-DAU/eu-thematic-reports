@@ -26,7 +26,7 @@ These reports were made possible by the generous support of the European Union. 
 
 **Contributors**
 
-Throughout the process of designing the methodology and conceptual framework, building the website, collecting expert surveys, and reviewing the data for World Justice Project EUROVOICES 2024, the team consulted with a variety of experts. We are grateful for their contributions and support. The names of those wishing to be acknowledged are below:
+Throughout the process of designing the methodology and conceptual framework, building the website, collecting expert surveys, and reviewing the data for _World Justice Project EUROVOICES 2024_, the team consulted with a variety of experts. We are grateful for their contributions and support. The names of those wishing to be acknowledged are below:
 
 *Comments for the conceptual framework:* 
 Francesca Fanucci and Simona Ognenovska (European Center for Not-for-Profit Law), Mihály Fazekas (Central European University), Waltraud Heller and Gabriel Toggenburg (European Union Agency for Fundamental Rights), Liesbet Hooghe (University of North Carolina, Chapel Hill), Jan Kleijssen (Senior Advisor, WJP), Anna Máriássyová and Lilla Ozorákovrá (Slovak National Centre for Human Rights), Tommaso Pavone (University of Arizona), Linda Ravo (Civil Liberties Union for Europe), Francesca Recanatini (World Bank), Christel Schurrer and Muriel Décot (European Commission for the Efficiency of Justice, Council of Europe), and Anonymous Contributors.
@@ -44,7 +44,7 @@ Sophio Asatiani (USAID Information Integrity Program, Zinc Network), Alfred Brid
 Fenella Billing (Aalborg University), Markus Böckenförde (Central European University), Styliani (Stella) Christoforidou (Hellenic Open University), Alessia-Ottavia Cozzi (University of Udine), Graciela Faffelberger (VAMED AG), János Fazekas (ELTE Faculty of Law), John A. Gealfow (OYERS.LAW and Masaryk University Faculty of Law), Tania Groppi (University of Siena), Małgorzata Kiełtyka (Kiełtyka Gładkowski KG LEGAL), Christian Koller (University of Vienna), Emilia Korkea-aho (University of Eastern Finland Law School), Urmas Kukk (KPMG Law), Mika Lehtimäki (StratXcel.tech and Tampere University), Felicien Lemaire (University of Angers), Christian Lemke (Heissner & Struck, and German Federal Bar), Heidi Lett (KPMG Law), Dieuwke Levinson-Arps (Attorney at Law), Imelda Maher (University College Dublin), Luigi Mori (BLR&M), Kevät Nousiainen (University of Turku), Lilla Ozoráková (Slovak National Centre for Human Rights), Viera Petrasova (Petrasova Legal Law Firm), Ulrike Schultz (FernUniversität), Helen Siegumfeldt (Citizen Rights Attorney), Henricus Joseph (Henk) Snijders (Leiden University), Petr Žídek (Feichtinger Žídek Fyrbach advokáti), and Anonymous Contributors.
 
 *Contributing experts who answered the expert surveys:*
-World Justice Project EUROVOICES 2024 was made possible by the generous contributions of more than 8,000 academics and legal practitioners who contributed their time and expertise by answering our surveys. The names of those wishing to be acknowledged individually are included in the downloads section of the website. 
+_World Justice Project EUROVOICES_ 2024 was made possible by the generous contributions of more than 8,000 academics and legal practitioners who contributed their time and expertise by answering our surveys. The names of those wishing to be acknowledged individually are included in the downloads section of the website. 
 
 These reports were also made possible by the work of the polling companies who conducted fieldwork, and the more than 64,000 individuals who answered the General Population Poll in the EU.
 
@@ -62,8 +62,8 @@ These reports were also made possible by the work of the polling companies who c
         E-mail: <em>wjp@worldjusticeproject.org</em>
     </p>
     <p>
-        World Justice Project <em>EUROVOICES</em> 2024: Transparency & Corruption<br>
-        Print: ISBN: 978-1-951330-72-9<br>
-        Digital: ISBN: 978-1-951330-73-6
+        World Justice Project <em>EUROVOICES</em> 2024: Justice & Safety<br>
+        Print: ISBN: 978-1-951330-70-5<br>
+        Digital: ISBN: 978-1-951330-71-2
     </p>
 </div>

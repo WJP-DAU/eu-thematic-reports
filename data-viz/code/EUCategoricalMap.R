@@ -30,17 +30,14 @@ gen_catMap <- function(dta, break_legend = F, static = F) {
               by = c("polID" = "nuts_id"))
   
   inset_dimensions <- list(
-    # y range longer than x
     "Canaries/Madeira" = list(
       "x" = c(1491672, 2091880.2),
       "y" = c(941748.3, 1541956.5)
     ),
-    # the y range is longer than the x
     "Azores"  = list(
       "x" = c(864542.6, 1407344),
       "y" = c(2250319.3, 2793120.7)
     ),
-    # x range is longer than y
     "Cyprus" = list(
       "x" = c(6332001, 6525814),
       "y" = c(1585147, 1767640)
@@ -93,7 +90,7 @@ gen_catMap <- function(dta, break_legend = F, static = F) {
       scale_fill_manual(values       = category_colors, 
                         na.value     = "#d8d8d8") +
       new_scale_colour() 
-      if (static == FALSE){
+    if (static == FALSE){
       gg_inset <- gg_inset + geom_textbox(
         data = centroids,
         aes(
@@ -113,7 +110,7 @@ gen_catMap <- function(dta, break_legend = F, static = F) {
         values     = label_color,
         guide      = "none")} 
     
-      gg_inset <- gg_inset +
+    gg_inset <- gg_inset +
       scale_y_continuous(limits  = inset_dimensions[[inset_name]][["y"]]) + 
       scale_x_continuous(limits  = inset_dimensions[[inset_name]][["x"]]) +
       coord_sf(clip = "off") +
@@ -194,7 +191,7 @@ gen_catMap <- function(dta, break_legend = F, static = F) {
                       drop         = F,
                       na.translate = F) +
     new_scale_colour() 
-    if (static == FALSE){
+  if (static == FALSE){
     p <- p + geom_textbox(
       data = centroids,
       aes(
@@ -211,10 +208,10 @@ gen_catMap <- function(dta, break_legend = F, static = F) {
       size     = 3,
       fill     = "white"
     ) +
-    # coord_sf(crs = st_crs(base_map)) +
-    scale_colour_manual(values = label_color,
-                        guide  = "none")} 
-    p <- p + scale_y_continuous(limits  = c(1442631, 5323487)) +
+      # coord_sf(crs = st_crs(base_map)) +
+      scale_colour_manual(values = label_color,
+                          guide  = "none")} 
+  p <- p + scale_y_continuous(limits  = c(1442631, 5323487)) +
     scale_x_continuous(limits  = c(2581570, 6017160)) +
     theme_minimal() +
     theme(
@@ -253,31 +250,21 @@ gen_catMap <- function(dta, break_legend = F, static = F) {
     )
   
   # Convert the main plot to a grob
-  p_grob <- ggplotGrob(p)
+  # p_grob <- ggplotGrob(p)
   
-  # Create a new gTree to hold the main plot and insets
-  combined_grob <- gTree(children = gList(p_grob))
   
-  # Add insets to the main map
-  viewport_positions <- list(
-    viewport(x = unit(0.23, "npc"), y = unit(0.82, "npc"), width = unit(0.15, "npc"), height = unit(0.15, "npc")),
-    viewport(x = unit(0.34, "npc"), y = unit(0.82, "npc"), width = unit(0.15, "npc"), height = unit(0.15, "npc")),
-    viewport(x = unit(0.45, "npc"), y = unit(0.82, "npc"), width = unit(0.15, "npc"), height = unit(0.15, "npc"))
+  # Inserting inset map boxes
+  main_map <- p
+  inset_grobs <- inset_grobs
+  
+  main_map_with_insets <- main_map +
+    annotation_custom(grob = inset_grobs[[1]], ymin = 4.5e6, ymax = 5.5e6, xmin = 2.5e6, xmax = 3e6) +
+    annotation_custom(grob = inset_grobs[[2]], ymin = 4.5e6, ymax = 5.5e6, xmin = 3e6,   xmax = 3.5e6) + 
+    annotation_custom(grob = inset_grobs[[3]], ymin = 4.5e6, ymax = 5.5e6, xmin = 3.5e6, xmax = 4e6)
+  
+  patch <- plot_grid(
+    main_map_with_insets
   )
   
-  for (i in seq_along(inset_grobs)) {
-    inset_grob <- inset_grobs[[i]]
-    vp <- viewport_positions[[i]]
-    
-    # Add the inset grob as an annotation
-    combined_grob <- gTree(
-      children = gList(
-        combined_grob, 
-        grobTree(children = gList(inset_grob), 
-                 vp = vp)
-      )
-    )
-  }
-  
-  return(combined_grob)
+  return(patch)
 }

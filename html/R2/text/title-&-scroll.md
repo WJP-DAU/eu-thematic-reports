@@ -6,10 +6,10 @@
 
 ## justice does not function equally for everyone.
 
-##### Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner. 
+##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation. However, it can be difficult to access dispute resolution mechanisms when needed. 
 
-##### Across the EU, respondents think that most people cannot easily meet the costs of state dispute resolution mechanisms if they faced a legal problem. Furthermore, most respondents believe people in their country do not have access to affordable legal assistance and representation when they face a legal problem. 
+##### **In general, people believe that justice is expensive**: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.
 
-##### Legal problems are ubiquitous across the EU, and most people who needed a dispute resolution mechanism in the last two years did not have access to one. This finding presents a major challenge to many EU countries aiming to meet the United Nations Sustainable Development Goals target on access to justice for all (SDG 16.3.3).
+##### **Civil justice is not timely**: Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner. 
 
-##### In most EU regions, people believe that the criminal justice system does not work the same for everyone, regardless of where they live.
+##### **Criminal justice is effective overall, but not all people benefit equally**: Most people in the EU agree that the criminal justice system is effective and respects the rights of both victims and the accused; however, they don’t believe all people are treated equally.  

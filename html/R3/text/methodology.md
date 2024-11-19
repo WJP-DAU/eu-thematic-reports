@@ -169,11 +169,11 @@ As a result of this work, *World Justice Project EUROVOICES* presents a library 
 
 #### Comparisons with the *WJP Rule of Law Index*
 
-The results of *World Justice Project EUROVOICES* cannot be directly compared to the *WJP Rule of Law Index®* for several reasons. First, the Index scores are calculated by aggregating three sources of information: expert surveys, household surveys, and third-party data. In contrast, *EUROVOICES WJP* presents findings in two separate categories: the Expert Scorecards, comprised of aggregated expert data, and People’s Voices, which displays question-level data from the household surveys.
+The results of *World Justice Project EUROVOICES* cannot be directly compared to the *WJP Rule of Law Index®* for several reasons. First, the Index scores are calculated by aggregating three sources of information: expert surveys, household surveys, and third-party data. In contrast, *WJP EUROVOICES* presents findings in two separate categories: the Expert Scorecards, comprised of aggregated expert data, and People’s Voices, which displays question-level data from the household surveys.
 
-Second, although the *WJP Rule of Law Index* and *EUROVOICES WJP* both use the Min-Max method to normalize expert data (so that all values are presented on a scale of 0 to 1), the Index’s longitudinal analysis requires an extra normalization (with a base year of 2015) to ensure scores are comparable across previous editions of the report.
+Second, although the *WJP Rule of Law Index* and *WJP EUROVOICES* both use the Min-Max method to normalize expert data (so that all values are presented on a scale of 0 to 1), the Index’s longitudinal analysis requires an extra normalization (with a base year of 2015) to ensure scores are comparable across previous editions of the report.
 
-Lastly, while *EUROVOICES WJP* builds upon the Index's methodology, the two projects have distinct conceptual frameworks. Key differences include the internal organization of the pillars, the inclusion of new questions to assess independent checks on government powers, a new category on the executive's behavior towards constraints on its power, the expansion of the chapter on fundamental rights based on the EU Charter of Fundamental Rights, and the separation of the transparency and civic participation pillars.
+Lastly, while *WJP EUROVOICES* builds upon the Index's methodology, the two projects have distinct conceptual frameworks. Key differences include the internal organization of the pillars, the inclusion of new questions to assess independent checks on government powers, a new category on the executive's behavior towards constraints on its power, the expansion of the chapter on fundamental rights based on the EU Charter of Fundamental Rights, and the separation of the transparency and civic participation pillars.
 
 #### Methodological Strengths and Weaknesses
 
@@ -181,9 +181,9 @@ All information tools have advantages and limitations that need to be considered
 
 However, this accessibility does require WJP to consolidate the unique and complicated realities different individuals experience into coherent findings at the national and regional levels. As such, interpretation of the data presented in this report requires a familiarity with the project's basic conceptual framework, including WJP's definitions for each indicator and explanations regarding which topics are and are not included in our findings.
 
-Likewise, these indicators do not establish causality or contextualize the findings. Thus, it will be necessary to use the *EUROVOICES* reports in combination with other analytical tools to provide a full picture of causes and potential solutions.
+Likewise, these indicators do not establish causality or contextualize the findings. Thus, it will be necessary to use the *WJP EUROVOICES* reports in combination with other analytical tools to provide a full picture of causes and potential solutions.
 
-The data presented in EUROVOICES captures the perceptions and experiences of people living in the EU at the time the data was collected. In addition, the WJP team confirmed the validity of this data using quantitative and qualitative checks. However, the results may be sensitive to contextual factors, including expectations, as well as cultural and social influences, which may affect people's responses. In addition, this information may be sensitive to specific events that took place during the data collection period or may be subject to measurement errors due in part to the limited number of experts interviewed in some regions.
+The data presented in *WJP EUROVOICES* captures the perceptions and experiences of people living in the EU at the time the data was collected. In addition, the WJP team confirmed the validity of this data using quantitative and qualitative checks. However, the results may be sensitive to contextual factors, including expectations, as well as cultural and social influences, which may affect people's responses. In addition, this information may be sensitive to specific events that took place during the data collection period or may be subject to measurement errors due in part to the limited number of experts interviewed in some regions.
 
 #### More Information
 

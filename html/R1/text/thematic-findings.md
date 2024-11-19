@@ -4,8 +4,8 @@
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic. 
 
-- Perceptions on judicial independence vary widely across the EU, but are strongest in Finland and Denmark for both legal experts and the general population. Among legal experts, the most negative views of judicial independence are in Poland, Croatia, and Bulgaria. Among the general population, there are only 5 Member States where the majority of respondents believe judges decide cases in an independent manner, with Bulgarians having the lowest perception.  
-- Non-governmental checks on power, including civil society and the media, are effective across the European Union and people feel free to protest with the exception of Hungary. Hungary is the only country where the majority of people don't feel free to participate in peaceful protests.
+- Perceptions on judicial independence vary widely across the EU, but are strongest in Finland and Denmark for both legal experts and the general population. Among legal experts, the most negative views of judicial independence are in Poland, Croatia, and Bulgaria. Among the general population, there are only five Member States where the majority of respondents believe judges decide cases in an independent manner, with Bulgarians having the lowest perception.  
+- Non-governmental checks on power, including civil society and the media, are effective across the European Union and people feel free to protest with the exception of Hungary. Hungary is the only country where the majority of people do not feel free to participate in peaceful protests.
 - Across the EU, there are positive perceptions of free and fair elections among experts and the public. However, Hungary and Cyprus lag behind the rest of the EU in terms of people's perceptions on their ability to vote freely without harassment or pressure.
 
 ### Legislative oversight
@@ -15,8 +15,8 @@ Outlined below are the findings for this section. First, we present the main fin
 ### Judicial independence
 
 - The average score for the expert indicator of **judicial independence** among the 27 EU Member States is 0.67 (<a class="crossref" href="#R1F2">Figure 2</a>). Country-level scores are highest in Denmark (0.84), Finland (0.84), and Estonia (0.82), and lowest in Poland (0.46), Croatia (0.48), and Bulgaria (0.48).
-- In only 2 Member States, Denmark and the Netherlands, the majority of respondents agree that **local courts are free of political influence in their application of power** (<a class="crossref" href="#R1F3">Figure 3</a>).
-- In 5 Member States, the majority of respondents from the general population agree that **judges decide cases independently, without any sort of pressure**. Figures range from 70.1% in Denmark to 12.7% in Bulgaria (<a class="crossref" href="#R1F4">Figure 4</a>).
+- In only two Member States, Denmark and the Netherlands, the majority of respondents agree that **local courts are free of political influence in their application of power** (<a class="crossref" href="#R1F3">Figure 3</a>).
+- In five Member States, the majority of respondents from the general population agree that **judges decide cases independently, without any sort of pressure**. Figures range from 70.1% in Denmark to 12.7% in Bulgaria (<a class="crossref" href="#R1F4">Figure 4</a>).
 
 ### Independent oversight
 
@@ -25,7 +25,7 @@ Outlined below are the findings for this section. First, we present the main fin
 ### Independent prosecution
 
 - The average score for the expert indicator of **independent prosecution** among the 27 EU Member States is 0.60 (<a class="crossref" href="#R1F6">Figure 6</a>). Country-level scores range from 0.82 in Sweden to 0.36 in Bulgaria.
-- In just 8 Members States, at least half of respondents agree that **prosecutors work independently, without any sort of pressure** (<a class="crossref" href="#R1F7">Figure 7</a>). Figures range from 71.2% in Finland to 18.1% in Slovakia.
+- In just eight Member States, at least half of respondents agree that **prosecutors work independently, without any sort of pressure** (<a class="crossref" href="#R1F7">Figure 7</a>). Figures range from 71.2% in Finland to 18.1% in Slovakia.
 - In 23 Member States, the majority of respondents agree that **if police officers violate the law, they will be punished for these violations** (<a class="crossref" href="#R1F90">Figure 8</a>). Also, in 23 Member States, the majority of respondents agree that **police officers will be held accountable if they request bribes from the public** (<a class="crossref" href="#R1F91">Figure 9</a>), and in 21 Member States, the majority of respondents believe that **police officers will be held accountable if they accept bribes from gangs or criminal organizations** (<a class="crossref" href="#R1F92">Figure 10</a>). Perceptions of the accountability of police officers are consistently highest in Finland and lowest in Cyprus, Hungary, and Slovakia.
 - In 23 Member States, the majority of respondents agree that **if someone makes a complaint against a police officer, the accusation will be investigated** (<a class="crossref" href="#R1F93">Figure 11</a>).
 
@@ -33,12 +33,12 @@ Outlined below are the findings for this section. First, we present the main fin
 
 - The average score for the expert indicator of **free, fair, and secure elections** among the 27 EU Member States is 0.75 (<a class="crossref" href="#R1F8">Figure 12</a>). Country-level scores range from 0.90 in Denmark and Finland to 0.50 in Hungary.
 - In 15 Member States, at least half of respondents **agree that local government officials are elected through a clean process**, with figures ranging from 72.8% in Austria to 33.7% in Hungary (<a class="crossref" href="#R1F9">Figure 13</a>).
-- In 25 Member States, more than two-thirds of respondents agree that **people can vote freely without feeling harassed or pressured** except for Hungary (47.4%) and Cyprus (55.4%) (<a class="crossref" href="#R1F10">Figure 14</a>).
+- In 25 Member States, more than two-thirds of respondents agree that **people can vote freely without feeling harassed or pressured**, except for Hungary (47.4%) and Cyprus (55.4%) (<a class="crossref" href="#R1F10">Figure 14</a>).
 
 ### Non-governmental checks
 
 - The average score for the expert indicator of **non-governmental checks** among the 27 EU Member States is 0.70 (<a class="crossref" href="#R1F11">Figure 15</a>). Country-level scores range from 0.88 in Finland to 0.46 in Hungary.
-- In 19 Member States, the majority of respondents agree the **media can freely express opinions against government officials, policies and actions without fear of retaliation** (<a class="crossref" href="#R1F12">Figure 16</a>) and in 13 Member States, the majority agree the **media can expose cases of corruption by high-ranking government officers without fear of retaliation** (<a class="crossref" href="#R1F13">Figure 17</a>). Perceptions of media freedom in both questions are the highest in Denmark, Finland, and Portugal, and the lowest in Greece and Hungary.  
+- In 19 Member States, the majority of respondents agree the **media can freely express opinions against government officials, policies, and actions without fear of retaliation** (<a class="crossref" href="#R1F12">Figure 16</a>) and in 13 Member States, the majority agree the **media can expose cases of corruption by high-ranking government officers without fear of retaliation** (<a class="crossref" href="#R1F13">Figure 17</a>). Perceptions of media freedom in both questions are the highest in Denmark, Finland, and Portugal, and the lowest in Greece and Hungary.  
 - In 26 Member States (the exception being Hungary), the majority of respondents agree that **people can express opinions against the government** (<a class="crossref" href="#R1F16">Figure 20</a>) and that **political parties can express opinions against government policies and actions** (<a class="crossref" href="#R1F15">Figure 19</a>). In 21 Member States, the majority agree that **civil society organizations can express opinions against government policies and actions** (<a class="crossref" href="#R1F14">Figure 18</a>). In Hungary, perceptions of the ability of individuals, political parties, and CSOs to freely express opinions against the government were significantly below the EU average.
 - In 26 Member States, the majority of respondents **agree that people can freely participate in peaceful protests and demonstrations without fear of reprisal** (<a class="crossref" href="#R1F17">Figure 21</a>). The exception is Hungary (45.7%).
 
@@ -47,21 +47,21 @@ Outlined below are the findings for this section. First, we present the main fin
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic. 
 
 - Local legal experts say the government fails to adequately respect judicial independence in two countries: Poland and Hungary, where the expert score is below 0.50, on a scale from 0 to 1. 
-- n 23 EU Member States, at least half of respondents from the general population believe politicians use misinformation to shape public opinion. The only exceptions are Luxembourg, Denmark, the Netherlands, and Finland.
+- In 23 EU Member States, at least half of respondents from the general population believe politicians use misinformation to shape public opinion. The only exceptions are Luxembourg, Denmark, the Netherlands, and Finland.
 - In two-thirds of EU Member States, most people think government officials attack or discredit the media and civil society groups that criticize them.
 
 ### Government respect for the constitution and political opponents
 
-- The average score for the expert indicator of **government respect for term limits, the law-making process, and opposing voices** among the 27 EU Member States is 0.71 (<a class="crossref" href="#R1F18">Figure 22</a>). Finland scored the highest at 0.92, while three Member States have scores below 0.50: Hungary (0.41), Slovakia (0.44) and Poland (0.48).
-- In 23 Member States, at least half of respondents agree that **top government officials of the national government blame different members of society for domestic problems** (<a class="crossref" href="#R1F20">Figure 24</a>), and in 9 Member States, the majority of respondents believe that **top government officials censor opposition voices domestically** (<a class="crossref" href="#R1F19">Figure 23</a>).
-- In 21 Member States, the majority of respondents agree that **top government officials of the national government attack or discredit opposition parties** (<a class="crossref" href="#R1F21">Figure 25</a>), however in just 8 Member States the majority of respondents agree that **top government officials prosecute and convict members of opposition parties** (<a class="crossref" href="#R1F22">Figure 26</a>). 
+- The average score for the expert indicator of **government respect for term limits, the law-making process, and opposing voices** among the 27 EU Member States is 0.71 (<a class="crossref" href="#R1F18">Figure 22</a>). Finland scored the highest at 0.92, while three Member States have scores below 0.50: Hungary (0.41), Slovakia (0.44), and Poland (0.48).
+- In 23 Member States, at least half of respondents agree that **top government officials of the national government blame different members of society for domestic problems** (<a class="crossref" href="#R1F20">Figure 24</a>), and in nine Member States, the majority of respondents believe that **top government officials censor opposition voices domestically** (<a class="crossref" href="#R1F19">Figure 23</a>).
+- In 21 Member States, the majority of respondents agree that **top government officials of the national government attack or discredit opposition parties** (<a class="crossref" href="#R1F21">Figure 25</a>), however in just eight Member States the majority of respondents agree that **top government officials prosecute and convict members of opposition parties** (<a class="crossref" href="#R1F22">Figure 26</a>). 
 - In 23 Member States, the majority of respondents agree that **top government officials generate distractions from important issues** (<a class="crossref" href="#R1F23">Figure 27</a>). The four outliers, where fewer than half agree with this statement, are the Netherlands (43.1%), Luxembourg (39.7%), Finland (39.2%), and Denmark (30.0%).
 
 ### Government respect for judicial independence
 
 - The average score for the expert indicator of **government respect for judicial independence** among the 27 EU Member States is 0.68 (<a class="crossref" href="#R1F24">Figure 28</a>). In 25 Member States, the country-level score is at least 0.50; the exceptions being Poland (0.40) and Hungary (0.47).
 - In 11 Member States, the majority of respondents agree that **top government officials seek to limit the courts’ competences and freedom to interpret the law** (<a class="crossref" href="#R1F25">Figure 29</a>). In 13 Member States, the majority of respondents agree that **top government officials seek to influence the promotion and removal of judges** (<a class="crossref" href="#R1F27">Figure 31</a>). In 10 Member States, the majority agree that **top government officials refuse to comply with court rulings that are not in their favor** (<a class="crossref" href="#R1F26">Figure 30</a>).
-- There is considerable variance across the EU Member States regarding government respect for judicial independence; for example, in Bulgaria 76.9% of respondents agree that **government officials influence the promotion and removal of judges** while only 14.7% say the same in Sweden (<a class="crossref" href="#R1F27">Figure 31</a>).
+- There is considerable variance across the EU Member States regarding government respect for judicial independence; for example, in Bulgaria 76.9% of respondents agree that **government officials influence the promotion and removal of judges**, while only 14.7% say the same in Sweden (<a class="crossref" href="#R1F27">Figure 31</a>).
 
 ### Government respect for independent oversight
 
@@ -74,7 +74,7 @@ Outlined below are the findings for this section. First, we present the main fin
 ### Government respect for the electoral system
 
 - The average score for the expert indicator of **government respect for the electoral system** among the 27 EU Member States is 0.76 (<a class="crossref" href="#R1F30">Figure 34</a>). In all 27 EU Member States, the country-level expert score is above 0.50, with country-level scores ranging from 0.95 in Finland to 0.51 in Hungary.
-- In 10 Member States, the majority of respondents agree that **top government officials of the national government manipulate the election process to win power** (<a class="crossref" href="#R1F32">Figure 36</a>), and in 7 Member States, at least half of respondents agree that **top government officials attack or discredit the electoral system and the electoral supervisory organs** (<a class="crossref" href="#R1F31">Figure 35</a>).
+- In 10 Member States, the majority of respondents agree that **top government officials of the national government manipulate the election process to win power** (<a class="crossref" href="#R1F32">Figure 36</a>), and in seven Member States, at least half of respondents agree that **top government officials attack or discredit the electoral system and the electoral supervisory organs** (<a class="crossref" href="#R1F31">Figure 35</a>).
 - Finland, Luxembourg, and Sweden had the lowest percentages of respondents agreeing their government manipulates or discredits the electoral bodies while Bulgaria, Croatia, and Romania had the highest percentages.
 
 ### Government respect for civil liberties
@@ -95,7 +95,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 - The average score for the expert indicator of **civic participation** among the 27 EU Member States is 0.70 (<a class="crossref" href="#R1F37">Figure 41</a>). Country-level scores range from 0.88 in Finland to 0.46 in Hungary.
 - In all 27 Member States, fewer than half of the respondents agree that **the local government considers the views of people like them when making decisions** (<a class="crossref" href="#R1F45">Figure 49</a>). While in 19 Member States, fewer than half agree **the government collaborates with civil society organizations in designing public policy** (<a class="crossref" href="#R1F42">Figure 46</a>).  
-- In only 6 Member States, the majority of respondents agree that **the local government provides effective ways to handle complaints against local government officials** (<a class="crossref" href="#R1F39">Figure 43</a>), while in 10 Member States, most respondents agree **the local government provides ways to make complaints about public services** (<a class="crossref" href="#R1F38">Figure 42</a>). 
+- In only six Member States, the majority of respondents agree that **the local government provides effective ways to handle complaints against local government officials** (<a class="crossref" href="#R1F39">Figure 43</a>), while in 10 Member States, most respondents agree **the local government provides ways to make complaints about public services** (<a class="crossref" href="#R1F38">Figure 42</a>). 
 - In 25 Member States, the majority of respondents agree that **people can get together with others and present their concerns to local government officials**, and in 21 Member States, at least half of respondents believe that **people can present their concerns to members of Parliament/Congress** (<a class="crossref" href="#R1F41">Figure 45</a>). 
 - In 19 Member States, at least 20% of respondents mentioned **engaging with civil society organizations in the last year by volunteering, engaging online or on social networks, or donating money** (<a class="crossref" href="#R1F48">Figure 50</a>).
 
@@ -107,7 +107,7 @@ Outlined below are the findings for this section. First, we present the main fin
 - At least one in five people experienced some form of discrimination or harassment over the last year in 22 EU countries.
 - Working conditions vary widely across the EU. In Denmark, more than three out of four people believe working conditions are good, compared to roughly one out of four in Hungary. Expert scores also vary, with Sweden scoring 0.85 and Greece scoring 0.50. 
 - Refugees and asylum seekers face the greatest hurdles in Hungary, followed by Greece, according to expert scores. 
-- In only 6 Member States do the majority of respondents agree that equality between women and men is effectively guaranteed in all areas of public and private life, including employment, work, and pay.
+- In only six Member States do the majority of respondents agree that equality between women and men is effectively guaranteed in all areas of public and private life, including employment, work, and pay.
 
 ### Prohibition of torture and inhuman treatment
 
@@ -160,9 +160,9 @@ Outlined below are the findings for this section. First, we present the main fin
 
 ### Right of access to documents
 
-- The average score for the expert indicator of **right of access to documents** among the 27 EU Member States is 0.67 (<a class="crossref" href="#R1F76">Figure 7</a>). Country-level scores range from 0.83 in Sweden to 0.52 in Romania.
-- In 14 Member States, the majority of respondents agree that **local authorities provide people with information about their rights** (<a class="crossref" href="#R1F77">Figure 78</a>), while in 9 EU countries, most respondents believe that **local authorities provide information in a simple, easy-to-read way** (<a class="crossref" href="#R1F78">Figure 79</a>). 
-- In 21 Member States, the majority of respondents agree that **local authorities make information easy to find online**, yet only in 1 Member State, Poland, do the majority of people agree that this **information is easy to find without using the internet, such as using leaflets or posters** (<a class="crossref" href="#R1F79">Figure 80</a>). 
+- The average score for the expert indicator of **right of access to documents** among the 27 EU Member States is 0.67 (<a class="crossref" href="#R1F76">Figure 77</a>). Country-level scores range from 0.83 in Sweden to 0.52 in Romania.
+- In 14 Member States, the majority of respondents agree that **local authorities provide people with information about their rights** (<a class="crossref" href="#R1F77">Figure 78</a>), while in nine EU countries, most respondents believe that **local authorities provide information in a simple, easy-to-read way** (<a class="crossref" href="#R1F78">Figure 79</a>). 
+- In 21 Member States, the majority of respondents agree that **local authorities make information easy to find online**, yet only in one Member State, Poland, do the majority of people agree that this **information is easy to find without using the internet, such as using leaflets or posters** (<a class="crossref" href="#R1F79">Figure 80</a>). 
 - Fewer than half of respondents in every country surveyed (data was not collected in Ireland for these questions) believe it is likely that **government agencies would grant information requests related to copies of government contracts or to detailed budget figures of government agencies** (<a class="crossref" href="#R1F80">Figure 81</a>). In most Member States, people tend to agree it is easier  to access budget figures than government contracts.
 
 ### Right to petition

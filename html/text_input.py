@@ -249,10 +249,15 @@ class text_input:
                         "settings"   : None
                     }
                     id_counter += 1
+                    if row["chart_id"] in ["R1F67","R1F68","R1F79","R2F31","R2F35","R2F39","R2F48"]:
+                        # extension = "png"
+                        extension = "svg"
+                    else:
+                        extension = "svg"
                     accordion_viz_image = {
                         "id"         : id_counter,
                         "type"       : "accordion_viz_image",
-                        "content"    : f"{row['chart_id']}.svg",
+                        "content"    : f"{row['chart_id']}.{extension}",
                         "belongs_to" : figid,
                         "settings"   : None,
                         "id4config"  : re.sub(r"\.0", "", f"image_{chapter_id}_{section_id}_{counter4config}")

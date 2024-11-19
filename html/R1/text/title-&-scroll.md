@@ -6,12 +6,12 @@
 
 ## worry about the use of misinformation.
 
-##### Most people across the EU believe that judges lack independence, and expert assessments on judicial independence reveal stark disparities between countries.
+##### **People can vote freely**: Most people in the EU agree that they can vote freely, without feeling harassed or pressured. 
 
-##### While the freedoms of assembly, association, and expression are well-protected across most of the EU, some regions are falling short in upholding these essential rights.
+##### **Fundamental freedoms are protected**: The freedoms of assembly, association, and expression are well-protected across most of the EU; however, some regions are falling short in upholding these essential rights. 
 
-##### Most people in the EU believe senior government officials use misinformation to shape public opinion in their favor. 
+##### **The public has doubts about judicial independence**: Legal experts in most EU countries consider judicial independence to be strong, but the majority of the general population thinks judges lack independence. 
 
-##### Discrimination remains a pervasive challenge across the EU. At least one in five people faced discrimination during the past year in 22 EU countries.
+##### **People worry about misinformation**: Most people in the EU believe senior government officials use misinformation to shape public opinion in their favor. 
 
-##### Most people in the EU agree that they can vote freely, without feeling harassed or pressured.
+##### **Discrimination is a challenge across the EU**: More than 25% of people faced discrimination during the past year in 20 EU Member States.
