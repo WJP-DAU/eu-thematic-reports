@@ -53,7 +53,7 @@ The team then conducted an extensive literature review and held consultations wi
                     4.1. Prohibition of torture and inhuman treatment<br>
                     4.2. Prohibition of slavery and forced labor<br>
                     4.3. Freedom of thought, conscience, and religion<br>
-                    4.4. Freedom of peaceful assembly and association<br>
+                    4.4. Freedom of assembly and association<br>
                     4.5. Freedom of opinion and expression<br>
                     4.6. Right to property<br>
                     4.7. Right to asylum<br>
@@ -76,7 +76,7 @@ The team then conducted an extensive literature review and held consultations wi
                     5.2. Access to legal aid and representation in cases of civil disputes<br>
                     5.3. Accessible, appropriate, and timely dispute resolution<br>
                     5.4. Impartial and independent dispute resolution<br>
-                    5.5. Outcome-oriented and effective dispute resolution<br>
+                    5.5. Effective and outcome-oriented dispute resolution<br>
                     5.6. Alternative dispute resolution mechanisms
                     </td>
                 </tr>
@@ -119,7 +119,7 @@ The team then conducted an extensive literature review and held consultations wi
                 <tr>
                     <td>10. Administrative proceedings, regulatory enforcement, and right to property</td>
                     <td>
-                    10.1. Clear, predictable, and timely administrative proceedings<br>
+                    10.1. Simple, predictable, and timely administrative proceedings<br>
                     10.2. Right to property<br>
                     10.3. Regulatory enforcement
                     </td>

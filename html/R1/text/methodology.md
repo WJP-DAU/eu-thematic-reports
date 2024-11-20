@@ -53,7 +53,7 @@ The team then conducted an extensive literature review and held consultations wi
                     4.1. Prohibition of torture and inhuman treatment<br>
                     4.2. Prohibition of slavery and forced labor<br>
                     4.3. Freedom of thought, conscience, and religion<br>
-                    4.4. Freedom of peaceful assembly and association<br>
+                    4.4. Freedom of assembly and association<br>
                     4.5. Freedom of opinion and expression<br>
                     4.6. Right to property<br>
                     4.7. Right to asylum<br>
@@ -76,7 +76,7 @@ The team then conducted an extensive literature review and held consultations wi
                     5.2. Access to legal aid and representation in cases of civil disputes<br>
                     5.3. Accessible, appropriate, and timely dispute resolution<br>
                     5.4. Impartial and independent dispute resolution<br>
-                    5.5. Outcome-oriented and effective dispute resolution<br>
+                    5.5. Effective and outcome-oriented dispute resolution<br>
                     5.6. Alternative dispute resolution mechanisms
                     </td>
                 </tr>
@@ -119,7 +119,7 @@ The team then conducted an extensive literature review and held consultations wi
                 <tr>
                     <td>10. Administrative proceedings, regulatory enforcement, and right to property</td>
                     <td>
-                    10.1. Clear, predictable, and timely administrative proceedings<br>
+                    10.1. Simple, predictable, and timely administrative proceedings<br>
                     10.2. Right to property<br>
                     10.3. Regulatory enforcement
                     </td>
@@ -169,7 +169,7 @@ As a result of this work, *World Justice Project EUROVOICES* presents a library 
 
 #### Comparisons with the *WJP Rule of Law Index*
 
-The results of *World Justice Project EUROVOICES* cannot be directly compared to the *WJP Rule of Law Index®* for several reasons. First, the Index scores are calculated by aggregating three sources of information: expert surveys, household surveys, and third-party data. In contrast, *WJP EUROVOICES* presents findings in two separate categories: the Expert Scorecards, comprised of aggregated expert data, and People’s Voices, which displays question-level data from the household surveys.
+The results of *World Justice Project EUROVOICES* cannot be directly compared to the *WJP Rule of Law Index<sup>®</sup>* for several reasons. First, the Index scores are calculated by aggregating three sources of information: expert surveys, household surveys, and third-party data. In contrast, *WJP EUROVOICES* presents findings in two separate categories: the Expert Scorecards, comprised of aggregated expert data, and People’s Voices, which displays question-level data from the household surveys.
 
 Second, although the *WJP Rule of Law Index* and *WJP EUROVOICES* both use the Min-Max method to normalize expert data (so that all values are presented on a scale of 0 to 1), the Index’s longitudinal analysis requires an extra normalization (with a base year of 2015) to ensure scores are comparable across previous editions of the report.
 

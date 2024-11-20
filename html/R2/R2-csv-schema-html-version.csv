@@ -27,7 +27,7 @@ This data is organized into three **thematic reports**:
 2. Justice and Safety
 3. Transparency and Corruption
   
-Each report focuses on a selection of pillars of the rule of law, comprised of indicators that cover specific dimensions of each concept. Findings for each indicator are categorized into **Expert Scorecards**, calculated using expert survey responses, and **People’s Voices**, highlighting complementary question-level data from WJP’s household surveys. These two categories are presented side-by-side, offering a comprehensive view of how EU residents perceive and experience justice, governance, and the rule of law in their respective regions.  
+Each report focuses on a selection of pillars of the rule of law, comprised of indicators that cover specific dimensions of each concept. Findings for each indicator are categorized into **Expert Scorecards**, calculated using expert survey responses, and/or **People’s Voices**, highlighting complementary question-level data from WJP’s household surveys. These two categories are presented side-by-side, offering a comprehensive view of how EU residents perceive and experience justice, governance, and the rule of law in their respective regions.  
 
 The Expert Scorecard captures legal experts’ assessments of composite indicators with scores ranging from 0 to 1, where 1 is the highest possible score and 0 is the lowest possible score. Each score is calculated by aggregating a set of questions that are relevant to various dimensions of the concept being measured. This expert data allows for a deeper examination of the technical aspects that determine how people interact with a complex network of institutions and the justice system. In contrast, findings from the People’s Voices database, presented at the question level using percentages (0 to 100%), reflect the beliefs and experiences of the general population.  
   
@@ -92,7 +92,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 3. **_Safety_**: Security is one of the defining aspects of any rule of law society and is a fundamental function of the state. It is also a precondition for the realization of the rights and freedoms that the rule of law seeks to advance. Thus, effective crime control and the reduction of violence are key components of the rule of law. 
 
     This chapter examines how well governments meet these safety objectives by focusing on two indicators from the general population poll: (1) perceptions of safety and (2) control of violence.",,
-15,chapter,# Civil Justice,,
+15,chapter,# Civil justice,,
 16,findings,"Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic.
 
 - People perceive justice as being too expensive. Malta is the only EU Member State where most people agree they can easily meet the costs of turning to a state dispute resolution mechanism when they face a legal problem.
@@ -242,7 +242,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 93,accordion_viz_image,R2F16.svg,91,
 94,accordion_viz_note,,91,
 95,sub_chapter,## Alternative dispute resolution mechanisms,15,
-96,html,"- The average score for the expert indicator of **alternative dispute resolution mechanisms** among the 27 EU Member States is 0.58 (<a class=""crossref"" href=""#R2F17"">Figure 17</a>). Country-level scores range from 0.73 in Finland to 0.49 in Romania, Czechia, Bulgaria, and Slovakia. 
+96,html,"- The average score for the expert indicator of **alternative dispute resolution mechanisms** among the 27 EU Member States is 0.58 (<a class=""crossref"" href=""#R2F17"">Figure 17</a>). Country-level scores range from 0.73 in Finland to 0.49 in Bulgaria, Czechia, Romania, and Slovakia. 
 - In six Member States, the majority of respondents agree that **people can easily turn to alternative justice mechanisms** (mediation, arbitration, restorative justice, etc.) when they face a legal problem (<a class=""crossref"" href=""#R2F18"">Figure 18</a>).",95,
 97,accordion_viz,"
                         <span id=""R2F17"">Figure 17</span> Alternative dispute resolution mechanisms
@@ -381,13 +381,13 @@ However, the majority of respondents in 10 Member States doubt that authorities 
                         <span id=""R2F33"">Figure 33</span> Independence of criminal investigations
                         ",153,people
 ,accordion_viz_category,People's Voices,167,
-168,accordion_viz_description,Percentage of respondents who agree that police investigators investigate crimes in an independent manner and are not subject to any sort of pressure.,167,
+168,accordion_viz_description,Percentage of respondents who agree that the police investigate crimes in an independent manner and are not subject to any sort of pressure.,167,
 169,accordion_viz_image,R2F33.svg,167,
 170,accordion_viz_note,,167,
 171,sub_chapter,## Effective and impartial prosecution and pre-trial proceedings,151,
 172,html,"- The average score for the expert indicator of **effective and impartial prosecution and pre-trial proceedings** among the 27 EU Member States is 0.60 (<a class=""crossref"" href=""#R2F34"">Figure 34</a>). Country-level scores range from 0.76 in Finland to 0.43 in Bulgaria.
 - In 20 Member States, the majority of respondents express a lot or some **trust in prosecutors in charge of criminal investigations**, and in 26 Member States, fewer than half of respondents believe that most or all **prosecutors are involved in corrupt practices** (<a class=""crossref"" href=""#R2F35"">Figure 35</a>). Compared to other EU Member States, respondents in Bulgaria report the lowest levels of trust in prosecutors (31.2%) and the highest perception of corruption of prosecutors (60.0%).   
-- In 12 Member States, the majority of respondents agree that **the criminal justice system is effective in bringing people who commit crimes to justice**. At the country level, the percentage of respondents who agree with this statement ranges from 67.9% in Finland to 23.4% in Slovakia (<a class=""crossref"" href=""#R2F37"">Figure 37</a>). In eight Member States, at least half of respondents agree that **crimes are prosecuted in an independent manner**. At the country level, the percentage of respondents who agree with this statement ranges from 71.2% in Finland to 18.1% in Slovakia (<a class=""crossref"" href=""#R2F36"">Figure 36</a>).",171,
+- In 12 Member States, the majority of respondents agree that **the criminal justice system is effective in bringing people who commit crimes to justice** (<a class=""crossref"" href=""#R2F37"">Figure 37</a>). At the country level, the percentage of respondents who agree with this statement ranges from 67.9% in Finland to 23.4% in Slovakia. In eight Member States, at least half of respondents agree that **crimes are prosecuted in an independent manner** (<a class=""crossref"" href=""#R2F36"">Figure 36</a>). At the country level, the percentage of respondents who agree with this statement ranges from 71.2% in Finland to 18.1% in Slovakia.",171,
 173,accordion_viz,"
                         <span id=""R2F34"">Figure 34</span> Effective and impartial prosecution and pre-trial proceedings
                         ",171,expert
@@ -497,7 +497,7 @@ However, the majority of respondents in 10 Member States doubt that authorities 
 232,html,"- The average score for the expert indicator of the **due process of law** among the 27 EU Member States is 0.63 (<a class=""crossref"" href=""#R2F47"">Figure 47</a>). Country-level scores range from 0.75 in Finland to 0.52 in Bulgaria.
 - In 17  Member States, at least half of respondents express a lot or some **trust in public defense attorneys**, and in all 27 Member States, fewer than half believe **public defense attorneys are involved in corrupt practices** (<a class=""crossref"" href=""#R2F48"">Figure 48</a>).
 - In 13 Member States, the majority of respondents agree that **public defenders do everything they can to defend poor people who are accused of committing a crime** (<a class=""crossref"" href=""#R2F51"">Figure 51</a>). At the country level, the percentage of respondents that agree with this statement ranges from 61.9% in Spain to 28.9% in Slovenia.  
-- In 26 Member States, the majority of respondents agree that the **basic rights of suspects are respected by the police**—with just below half (49.5%) of respondents agreeing the same Slovakia is the only Member State that does not meet this trend (<a class=""crossref"" href=""#R2F49"">Figure 49</a>). In 20 Member States, the majority of respondents agree that members of the **police do not use excessive or unnecessary force** (<a class=""crossref"" href=""#R2F50"">Figure 50</a>). 
+- In 26 Member States, the majority of respondents agree that the **basic rights of suspects are respected by the police**. Slovakia is the only Member State where this is not the case, with just under half (49.5%) of respondents agreeing (<a class=""crossref"" href=""#R2F49"">Figure 49</a>). In 20 Member States, the majority of respondents agree that members of the **police do not use excessive or unnecessary force** (<a class=""crossref"" href=""#R2F50"">Figure 50</a>). 
 - In 15 Member States, the majority of respondents are confident that the **criminal justice system allows equal access to a fair trial** (<a class=""crossref"" href=""#R2F52"">Figure 52</a>), and in 17 Member States, the majority of respondents are confident that **the criminal justice system treats those accused of a crime as 'innocent until proven guilty'** (<a class=""crossref"" href=""#R2F53"">Figure 53</a>). These perceptions are comparatively negative among Slovakian respondents, with just 26.7% reporting confidence in equal access to a fair trial and 28.0% reporting confidence in respect for the presumption of innocence.",231,
 233,accordion_viz,"
                         <span id=""R2F47"">Figure 47</span> Due process of law
@@ -570,9 +570,9 @@ However, the majority of respondents in 10 Member States doubt that authorities 
 271,chapter,# Safety,,
 272,findings,"Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic.
 
-- People throughout the EU feel safe in their communities. In most EU  Member States, at least two-thirds of respondents **feel safe walking in their neighborhood at night**.  
+- People throughout the EU feel safe in their communities. In most EU  Member States, at least two-thirds of respondents feel safe walking in their neighborhood at night.  
 - Women are less likely than men  to feel safe in every Member State except Poland.
-- Most people across the EU trust the police to **solve community safety problems and to treat everyone with respect**. However, respondents in Ireland, Slovakia, Hungary, and Cyprus hold comparatively negative views.",271,
+- Most people across the EU trust the police to solve community safety problems and to treat everyone with respect. However, respondents in Ireland, Slovakia, Hungary, and Cyprus hold comparatively negative views.",271,
 273,sub_chapter,## Perceptions of safety,271,
 274,html,"- In 26 Member States, the majority of respondents feel safe walking in their neighborhood at night, with country-level figures ranging from 88.4% of respondents in Denmark to 47.7% in Italy (<a class=""crossref"" href=""#R2F56"">Figure 56</a>). However, **perceptions of safety among women** are lower than men  in every EU country, except Poland (<a class=""crossref"" href=""#R2F56"">Box 2</a>).",273,
 275,accordion_viz,"
@@ -817,7 +817,7 @@ The team then conducted an extensive literature review and held consultations wi
                     4.1. Prohibition of torture and inhuman treatment<br>
                     4.2. Prohibition of slavery and forced labor<br>
                     4.3. Freedom of thought, conscience, and religion<br>
-                    4.4. Freedom of peaceful assembly and association<br>
+                    4.4. Freedom of assembly and association<br>
                     4.5. Freedom of opinion and expression<br>
                     4.6. Right to property<br>
                     4.7. Right to asylum<br>
@@ -840,7 +840,7 @@ The team then conducted an extensive literature review and held consultations wi
                     5.2. Access to legal aid and representation in cases of civil disputes<br>
                     5.3. Accessible, appropriate, and timely dispute resolution<br>
                     5.4. Impartial and independent dispute resolution<br>
-                    5.5. Outcome-oriented and effective dispute resolution<br>
+                    5.5. Effective and outcome-oriented dispute resolution<br>
                     5.6. Alternative dispute resolution mechanisms
                     </td>
                 </tr>
@@ -883,7 +883,7 @@ The team then conducted an extensive literature review and held consultations wi
                 <tr>
                     <td>10. Administrative proceedings, regulatory enforcement, and right to property</td>
                     <td>
-                    10.1. Clear, predictable, and timely administrative proceedings<br>
+                    10.1. Simple, predictable, and timely administrative proceedings<br>
                     10.2. Right to property<br>
                     10.3. Regulatory enforcement
                     </td>

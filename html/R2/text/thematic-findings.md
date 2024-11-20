@@ -1,6 +1,6 @@
 # Thematic Findings
 
-## Civil Justice
+## Civil justice
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic.
 
@@ -48,7 +48,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 ### Alternative dispute resolution mechanisms
 
-- The average score for the expert indicator of **alternative dispute resolution mechanisms** among the 27 EU Member States is 0.58 (<a class="crossref" href="#R2F17">Figure 17</a>). Country-level scores range from 0.73 in Finland to 0.49 in Romania, Czechia, Bulgaria, and Slovakia. 
+- The average score for the expert indicator of **alternative dispute resolution mechanisms** among the 27 EU Member States is 0.58 (<a class="crossref" href="#R2F17">Figure 17</a>). Country-level scores range from 0.73 in Finland to 0.49 in Bulgaria, Czechia, Romania, and Slovakia. 
 - In six Member States, the majority of respondents agree that **people can easily turn to alternative justice mechanisms** (mediation, arbitration, restorative justice, etc.) when they face a legal problem (<a class="crossref" href="#R2F18">Figure 18</a>). 
 
 
@@ -86,7 +86,7 @@ However, the majority of respondents in 10 Member States doubt that authorities 
 
 - The average score for the expert indicator of **effective and impartial prosecution and pre-trial proceedings** among the 27 EU Member States is 0.60 (<a class="crossref" href="#R2F34">Figure 34</a>). Country-level scores range from 0.76 in Finland to 0.43 in Bulgaria.
 - In 20 Member States, the majority of respondents express a lot or some **trust in prosecutors in charge of criminal investigations**, and in 26 Member States, fewer than half of respondents believe that most or all **prosecutors are involved in corrupt practices** (<a class="crossref" href="#R2F35">Figure 35</a>). Compared to other EU Member States, respondents in Bulgaria report the lowest levels of trust in prosecutors (31.2%) and the highest perception of corruption of prosecutors (60.0%).   
-- In 12 Member States, the majority of respondents agree that **the criminal justice system is effective in bringing people who commit crimes to justice**. At the country level, the percentage of respondents who agree with this statement ranges from 67.9% in Finland to 23.4% in Slovakia (<a class="crossref" href="#R2F37">Figure 37</a>). In eight Member States, at least half of respondents agree that **crimes are prosecuted in an independent manner**. At the country level, the percentage of respondents who agree with this statement ranges from 71.2% in Finland to 18.1% in Slovakia (<a class="crossref" href="#R2F36">Figure 36</a>). 
+- In 12 Member States, the majority of respondents agree that **the criminal justice system is effective in bringing people who commit crimes to justice** (<a class="crossref" href="#R2F37">Figure 37</a>). At the country level, the percentage of respondents who agree with this statement ranges from 67.9% in Finland to 23.4% in Slovakia. In eight Member States, at least half of respondents agree that **crimes are prosecuted in an independent manner** (<a class="crossref" href="#R2F36">Figure 36</a>). At the country level, the percentage of respondents who agree with this statement ranges from 71.2% in Finland to 18.1% in Slovakia. 
 
 
 ### Effective and impartial criminal adjudication
@@ -115,7 +115,7 @@ However, the majority of respondents in 10 Member States doubt that authorities 
 - The average score for the expert indicator of the **due process of law** among the 27 EU Member States is 0.63 (<a class="crossref" href="#R2F47">Figure 47</a>). Country-level scores range from 0.75 in Finland to 0.52 in Bulgaria.
 - In 17  Member States, at least half of respondents express a lot or some **trust in public defense attorneys**, and in all 27 Member States, fewer than half believe **public defense attorneys are involved in corrupt practices** (<a class="crossref" href="#R2F48">Figure 48</a>).
 - In 13 Member States, the majority of respondents agree that **public defenders do everything they can to defend poor people who are accused of committing a crime** (<a class="crossref" href="#R2F51">Figure 51</a>). At the country level, the percentage of respondents that agree with this statement ranges from 61.9% in Spain to 28.9% in Slovenia.  
-- In 26 Member States, the majority of respondents agree that the **basic rights of suspects are respected by the police**—with just below half (49.5%) of respondents agreeing the same Slovakia is the only Member State that does not meet this trend (<a class="crossref" href="#R2F49">Figure 49</a>). In 20 Member States, the majority of respondents agree that members of the **police do not use excessive or unnecessary force** (<a class="crossref" href="#R2F50">Figure 50</a>). 
+- In 26 Member States, the majority of respondents agree that the **basic rights of suspects are respected by the police**. Slovakia is the only Member State where this is not the case, with just under half (49.5%) of respondents agreeing (<a class="crossref" href="#R2F49">Figure 49</a>). In 20 Member States, the majority of respondents agree that members of the **police do not use excessive or unnecessary force** (<a class="crossref" href="#R2F50">Figure 50</a>). 
 - In 15 Member States, the majority of respondents are confident that the **criminal justice system allows equal access to a fair trial** (<a class="crossref" href="#R2F52">Figure 52</a>), and in 17 Member States, the majority of respondents are confident that **the criminal justice system treats those accused of a crime as 'innocent until proven guilty'** (<a class="crossref" href="#R2F53">Figure 53</a>). These perceptions are comparatively negative among Slovakian respondents, with just 26.7% reporting confidence in equal access to a fair trial and 28.0% reporting confidence in respect for the presumption of innocence.  
 
 
@@ -130,9 +130,9 @@ However, the majority of respondents in 10 Member States doubt that authorities 
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic.
 
-- People throughout the EU feel safe in their communities. In most EU  Member States, at least two-thirds of respondents **feel safe walking in their neighborhood at night**.  
+- People throughout the EU feel safe in their communities. In most EU  Member States, at least two-thirds of respondents feel safe walking in their neighborhood at night.  
 - Women are less likely than men  to feel safe in every Member State except Poland.
-- Most people across the EU trust the police to **solve community safety problems and to treat everyone with respect**. However, respondents in Ireland, Slovakia, Hungary, and Cyprus hold comparatively negative views.
+- Most people across the EU trust the police to solve community safety problems and to treat everyone with respect. However, respondents in Ireland, Slovakia, Hungary, and Cyprus hold comparatively negative views.
 
 
 ### Perceptions of safety

@@ -144,7 +144,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 - The average score for the expert indicator of **equality before the law** across the 27 EU Member States is 0.71 (<a class="crossref" href="#R1F65">Figure 66</a>). Country-level scores range from 0.88 in Estonia to 0.59 in Poland, Croatia, and Hungary.
 - In 22 Member States, over 20% of respondents reported **experiencing some form of discrimination or harassment in the last 12 months** (<a class="crossref" href="#R1F66">Figure 67</a>). The **primary grounds for experiencing discrimination** were age and political opinion (<a class="crossref" href="#R1F67">Figure 68</a>), while the **primary situations for experiencing discrimination** were public transport or public place, social media, and work related (<a class="crossref" href="#R1F68">Figure 69</a>).
-- In only 6 Member States do the majority of respondents agree that **equality between women and men is effectively guaranteed in all areas of public and private life, including employment, work, and pay** (<a class="crossref" href="#R1F69">Figure 70</a>).
+- In only six Member States do the majority of respondents agree that **equality between women and men is effectively guaranteed in all areas of public and private life, including employment, work, and pay** (<a class="crossref" href="#R1F69">Figure 70</a>).
 
 ### Workers' rights
 
@@ -174,7 +174,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 ### Right of movement and of residence
 
-- The average score for the expert indicator of **right to movement and of residence** among the 27 EU Member States EU is 0.85 (<a class="crossref" href="#R1F83">Figure 84</a>). All 27 EU Member States have country-level scores above 0.70. Country-level scores range from 0.95 in Finland to 0.74 in Bulgaria.
+- The average score for the expert indicator of **right to movement and of residence** among the 27 EU Member States is 0.85 (<a class="crossref" href="#R1F83">Figure 84</a>). All 27 EU Member States have country-level scores above 0.70. Country-level scores range from 0.95 in Finland to 0.74 in Bulgaria.
 
 ### Due process of law
 
