@@ -50,7 +50,7 @@ This project is funded by the EU and complements other research activities condu
 
 **Justice and Safety:**
 
-- Most people who experienced legal problems got the advice they needed: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation. However, it can be difficult to access dispute resolution mechanisms when needed.  
+- Most people who experienced legal problems got the advice they needed: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation. 
 - In general, people believe that justice is expensive: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.
 - Civil justice is not timely: Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner.
 - Criminal justice is effective overall, but not all people benefit equally: Most people in the EU agree that the criminal justice system is effective and respects the rights of both victims and the accused; however, they don’t believe all people are treated equally. 
@@ -609,7 +609,7 @@ This report, Democracy and Fundamental Rights, includes four chapters: (1) **Che
 
 - The average score for the expert indicator of **equality before the law** across the 27 EU Member States is 0.71 (<a class=""crossref"" href=""#R1F65"">Figure 66</a>). Country-level scores range from 0.88 in Estonia to 0.59 in Poland, Croatia, and Hungary.
 - In 22 Member States, over 20% of respondents reported **experiencing some form of discrimination or harassment in the last 12 months** (<a class=""crossref"" href=""#R1F66"">Figure 67</a>). The **primary grounds for experiencing discrimination** were age and political opinion (<a class=""crossref"" href=""#R1F67"">Figure 68</a>), while the **primary situations for experiencing discrimination** were public transport or public place, social media, and work related (<a class=""crossref"" href=""#R1F68"">Figure 69</a>).
-- In only 6 Member States do the majority of respondents agree that **equality between women and men is effectively guaranteed in all areas of public and private life, including employment, work, and pay** (<a class=""crossref"" href=""#R1F69"">Figure 70</a>).
+- In only six Member States do the majority of respondents agree that **equality between women and men is effectively guaranteed in all areas of public and private life, including employment, work, and pay** (<a class=""crossref"" href=""#R1F69"">Figure 70</a>).
 
 ### Workers' rights
 
@@ -639,7 +639,7 @@ This report, Democracy and Fundamental Rights, includes four chapters: (1) **Che
 
 ### Right of movement and of residence
 
-- The average score for the expert indicator of **right to movement and of residence** among the 27 EU Member States EU is 0.85 (<a class=""crossref"" href=""#R1F83"">Figure 84</a>). All 27 EU Member States have country-level scores above 0.70. Country-level scores range from 0.95 in Finland to 0.74 in Bulgaria.
+- The average score for the expert indicator of **right to movement and of residence** among the 27 EU Member States is 0.85 (<a class=""crossref"" href=""#R1F83"">Figure 84</a>). All 27 EU Member States have country-level scores above 0.70. Country-level scores range from 0.95 in Finland to 0.74 in Bulgaria.
 
 ### Due process of law
 
@@ -816,7 +816,7 @@ This report, Democracy and Fundamental Rights, includes four chapters: (1) **Che
                         ",324,people
 ,accordion_viz_category,People's Voices,346,
 347,accordion_viz_description,Percentage of respondents who agree that the government carries out effective actions to protect the environment and prevent and respond to climate change and displacement.,346,
-348,accordion_viz_image,R1B1.svg,346,
+348,accordion_viz_image,R1B1.png,346,
 349,accordion_viz_note,,346,
 350,sub_chapter,## Workers' rights,248,
 351,html,"
@@ -1195,7 +1195,7 @@ The team then conducted an extensive literature review and held consultations wi
                     4.1. Prohibition of torture and inhuman treatment<br>
                     4.2. Prohibition of slavery and forced labor<br>
                     4.3. Freedom of thought, conscience, and religion<br>
-                    4.4. Freedom of peaceful assembly and association<br>
+                    4.4. Freedom of assembly and association<br>
                     4.5. Freedom of opinion and expression<br>
                     4.6. Right to property<br>
                     4.7. Right to asylum<br>
@@ -1218,7 +1218,7 @@ The team then conducted an extensive literature review and held consultations wi
                     5.2. Access to legal aid and representation in cases of civil disputes<br>
                     5.3. Accessible, appropriate, and timely dispute resolution<br>
                     5.4. Impartial and independent dispute resolution<br>
-                    5.5. Outcome-oriented and effective dispute resolution<br>
+                    5.5. Effective and outcome-oriented dispute resolution<br>
                     5.6. Alternative dispute resolution mechanisms
                     </td>
                 </tr>
@@ -1261,7 +1261,7 @@ The team then conducted an extensive literature review and held consultations wi
                 <tr>
                     <td>10. Administrative proceedings, regulatory enforcement, and right to property</td>
                     <td>
-                    10.1. Clear, predictable, and timely administrative proceedings<br>
+                    10.1. Simple, predictable, and timely administrative proceedings<br>
                     10.2. Right to property<br>
                     10.3. Regulatory enforcement
                     </td>

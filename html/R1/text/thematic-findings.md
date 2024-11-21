@@ -1,6 +1,6 @@
 # Thematic Findings
 
-## Checks on Government Power
+## Checks on government power
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic. 
 
@@ -38,11 +38,11 @@ Outlined below are the findings for this section. First, we present the main fin
 ### Non-governmental checks
 
 - The average score for the expert indicator of **non-governmental checks** among the 27 EU Member States is 0.70 (<a class="crossref" href="#R1F11">Figure 15</a>). Country-level scores range from 0.88 in Finland to 0.46 in Hungary.
-- In 19 Member States, the majority of respondents agree the **media can freely express opinions against government officials, policies, and actions without fear of retaliation** (<a class="crossref" href="#R1F12">Figure 16</a>) and in 13 Member States, the majority agree the **media can expose cases of corruption by high-ranking government officers without fear of retaliation** (<a class="crossref" href="#R1F13">Figure 17</a>). Perceptions of media freedom in both questions are the highest in Denmark, Finland, and Portugal, and the lowest in Greece and Hungary.  
+- In 19 Member States, the majority of respondents agree the **media can freely express opinions against government officials, policies, and actions without fear of retaliation** (<a class="crossref" href="#R1F12">Figure 16</a>), and in 13 Member States, the majority agree the **media can expose cases of corruption by high-ranking government officers without fear of retaliation** (<a class="crossref" href="#R1F13">Figure 17</a>). Perceptions of media freedom in both questions are the highest in Denmark, Finland, and Portugal, and the lowest in Greece and Hungary.  
 - In 26 Member States (the exception being Hungary), the majority of respondents agree that **people can express opinions against the government** (<a class="crossref" href="#R1F16">Figure 20</a>) and that **political parties can express opinions against government policies and actions** (<a class="crossref" href="#R1F15">Figure 19</a>). In 21 Member States, the majority agree that **civil society organizations can express opinions against government policies and actions** (<a class="crossref" href="#R1F14">Figure 18</a>). In Hungary, perceptions of the ability of individuals, political parties, and CSOs to freely express opinions against the government were significantly below the EU average.
 - In 26 Member States, the majority of respondents **agree that people can freely participate in peaceful protests and demonstrations without fear of reprisal** (<a class="crossref" href="#R1F17">Figure 21</a>). The exception is Hungary (45.7%).
 
-## Government Respect for Checks on Power
+## Government respect for checks on power
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic. 
 
@@ -54,7 +54,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 - The average score for the expert indicator of **government respect for term limits, the law-making process, and opposing voices** among the 27 EU Member States is 0.71 (<a class="crossref" href="#R1F18">Figure 22</a>). Finland scored the highest at 0.92, while three Member States have scores below 0.50: Hungary (0.41), Slovakia (0.44), and Poland (0.48).
 - In 23 Member States, at least half of respondents agree that **top government officials of the national government blame different members of society for domestic problems** (<a class="crossref" href="#R1F20">Figure 24</a>), and in nine Member States, the majority of respondents believe that **top government officials censor opposition voices domestically** (<a class="crossref" href="#R1F19">Figure 23</a>).
-- In 21 Member States, the majority of respondents agree that **top government officials of the national government attack or discredit opposition parties** (<a class="crossref" href="#R1F21">Figure 25</a>), however in just eight Member States the majority of respondents agree that **top government officials prosecute and convict members of opposition parties** (<a class="crossref" href="#R1F22">Figure 26</a>). 
+- In 21 Member States, the majority of respondents agree that **top government officials of the national government attack or discredit opposition parties** (<a class="crossref" href="#R1F21">Figure 25</a>), however, in just eight Member States the majority of respondents agree that **top government officials prosecute and convict members of opposition parties** (<a class="crossref" href="#R1F22">Figure 26</a>). 
 - In 23 Member States, the majority of respondents agree that **top government officials generate distractions from important issues** (<a class="crossref" href="#R1F23">Figure 27</a>). The four outliers, where fewer than half agree with this statement, are the Netherlands (43.1%), Luxembourg (39.7%), Finland (39.2%), and Denmark (30.0%).
 
 ### Government respect for judicial independence
@@ -83,7 +83,7 @@ Outlined below are the findings for this section. First, we present the main fin
 - In 25 Member States, the majority of respondents agree that **top government officials attempt to undermine the credibility of government critics** (<a class="crossref" href="#R1F35">Figure 39</a>). In 23 Member States, at least half of respondents agree that **government officials use misinformation to shape public opinion in their favor** (<a class="crossref" href="#R1F34">Figure 38</a>), and in 18 Member States, the majority of respondents agree that **government officials attack or discredit the media and civil society organizations that criticize them** (<a class="crossref" href="#R1F36">Figure 40</a>). 
 - Denmark, Luxembourg, and the Netherlands had the lowest proportions of respondents agreeing that government officials undermine the credibility of critics, use misinformation to shape public opinion, and attack media and civil society.
 
-## Civic Participation
+## Civic participation
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic. 
 
@@ -99,7 +99,7 @@ Outlined below are the findings for this section. First, we present the main fin
 - In 25 Member States, the majority of respondents agree that **people can get together with others and present their concerns to local government officials**, and in 21 Member States, at least half of respondents believe that **people can present their concerns to members of Parliament/Congress** (<a class="crossref" href="#R1F41">Figure 45</a>). 
 - In 19 Member States, at least 20% of respondents mentioned **engaging with civil society organizations in the last year by volunteering, engaging online or on social networks, or donating money** (<a class="crossref" href="#R1F48">Figure 50</a>).
 
-## Fundamental Rights
+## Fundamental rights
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic. 
 

@@ -7,7 +7,7 @@ Outlined below are the findings for this section. First, we present the main fin
 - People perceive justice as being too expensive. Malta is the only EU Member State where most people agree they can easily meet the costs of turning to a state dispute resolution mechanism when they face a legal problem.
 - Across the EU, most people perceive that civil and commercial courts do not resolve cases in a timely manner.
 - People are not aware of their legal rights. Romania, Poland, and Greece are the only EU Member States in which the majority of respondents feel aware of their rights when facing a legal problem.
-- In 15 Member States\*, a majority of respondents experienced at least one non-trivial legal problem\*\* in the past two years. The prevalence of legal problems varies widely across the EU, as just 15.6% of respondents experienced a recent legal problem in Portugal, while 71.0% did in Hungary. For respondents in all countries, the most common legal problems were related to consumer protection.
+- In 15 Member States\*, a majority of respondents experienced at least one non-trivial legal problem\*\* in the past two years. The prevalence of legal problems varies widely across the EU, as just 15.6% of respondents experienced a recent legal problem in Portugal, while 71.0% did in Hungary. Across the EU, the most common legal problems were related to consumer protection.
 - Most EU residents who experienced a non-trivial legal issue** and needed access to a dispute resolution mechanism did not have access to it. This finding presents a major challenge to many EU countries aiming to meet the United Nations Sustainable Development Goals target on access to justice for all (SDG 16.3.3). 
 
 \*The module on legal needs covers 26 out of the 27 EU Member States; this data was not collected in Ireland.
@@ -54,7 +54,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 ### WJP Global Legal Needs Survey module
 
-- In 15 Member States\*, over half  of respondents experienced one or more **non-trivial legal problems\*\* in the past two years**, with prevalence at the country-level ranging from 15.6% in Portugal to 71.0% in Hungary (<a class="crossref" href="#R2F19">Figure 19</a>). Across the EU, the most **commonly reported legal problems** were related to consumer protection, housing, and public services (<a class="crossref" href="#R2F20">Figure 20</a>).    
+- In 15 Member States\*, over half  of respondents experienced one or more **non-trivial legal problems\*\* in the past two years**, with prevalence at the country-level ranging from 15.6% in Portugal to 71.0% in Hungary (<a class="crossref" href="#R2F19">Figure 19</a>). Across the EU, the most **commonly reported legal problems** were related to consumer protection and housing (<a class="crossref" href="#R2F20">Figure 20</a>).    
 - Among all respondents who reported experiencing non-trivial legal problems, at least half  had **access to good information and advice** (<a class="crossref" href="#R2F23">Figure 23</a>) and, in 18 Member States, the majority of respondents had **access to adequate assistance and representation**\*\*\* (<a class="crossref" href="#R2F24">Figure 24</a>). However, Malta and Bulgaria were the only two Member States in which the majority of respondents, out of those who experienced a non-trivial legal problem and needed access, had **access to a dispute resolution mechanism** (<a class="crossref" href="#R2F25">Figure 25</a>).       
 - Out of the people who experienced a non-trivial legal problem and whose problem's resolution process has concluded, in 25 Member States (all except for Czechia), six out of every ten respondents' **legal problems have been solved** (<a class="crossref" href="#R2F29">Figure 29</a>).
 - In a majority of EU Member States, out of respondents who experienced a non-trivial legal problem and reported that the problem’s resolution process has concluded, over two-thirds said that the **resolution process concluded in less than a year** (<a class="crossref" href="#R2F26">Figure 26</a>) and that they were **able to afford the costs to solve their problem, or did not incur any costs at all** (<a class="crossref" href="#R2F27">Figure 27</a>).  However, this group of respondents did not think their experiences were fair—in only five Member States did the majority of respondents agree that the **resolution process was fair, regardless of the outcome** (<a class="crossref" href="#R2F28">Figure 28</a>).
@@ -64,7 +64,7 @@ Outlined below are the findings for this section. First, we present the main fin
 \*\*\*Adequate assistance and representation include those obtained from any of the following entities: a lawyer, a professional advisor, an advice service, a government legal aid office, a court or government body, the police, a health or welfare professional, a trade union or employer, a civil society organization, or a charity.
 
 
-## Criminal Justice
+## Criminal justice
 
 Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic.
 
@@ -137,7 +137,7 @@ Outlined below are the findings for this section. First, we present the main fin
 
 ### Perceptions of safety
 
-- In 26 Member States, the majority of respondents feel safe walking in their neighborhood at night, with country-level figures ranging from 88.4% of respondents in Denmark to 47.7% in Italy (<a class="crossref" href="#R2F56">Figure 56</a>). However, **perceptions of safety among women** are lower than men  in every EU country, except Poland (<a class="crossref" href="#R2F56">Box 2</a>).
+- In 26 Member States, the majority of respondents **feel safe walking in their neighborhood at night**, with country-level figures ranging from 88.4% of respondents in Denmark to 47.7% in Italy (<a class="crossref" href="#R2F56">Figure 56</a>). However, perceptions of safety among women are lower than men  in every EU country, except Poland (<a class="crossref" href="#R2B2">Box 2</a>).
 
 
 ### Control of violence

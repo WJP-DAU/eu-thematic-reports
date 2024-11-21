@@ -45,3 +45,7 @@ data-viz/inputs/~$GPP_QRQ_TPS database.xlsx
 data-viz/inputs/GPP_QRQ_TPS database-wjp-lt-52.xlsx
 data-viz/output/expert_scorecard_data.csv
 data-viz/output/expert_scorecard_data.xlsx
+/data-viz/output/regional_insights
+data-viz/output/Trust.svg
+data-viz/output/Variance.svg
+/data-viz/output/datasets_for_download

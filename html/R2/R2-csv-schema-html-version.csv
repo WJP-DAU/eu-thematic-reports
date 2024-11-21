@@ -11,7 +11,7 @@ id,tipo de elemento,contenido (markdown),pertenece a ,settings
 ,scrollytelling_img,scroll1.png,7,
 ,scrollytelling_img,scroll2.png,8,
 ,scrollytelling_img,scroll3.png,9,
-10,keyfinding,"##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation. However, it can be difficult to access dispute resolution mechanisms when needed. ",,
+10,keyfinding,"##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation.",,
 11,keyfinding,"##### **In general, people believe that justice is expensive**: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.",,
 12,keyfinding,"##### **Civil justice is not timely**: Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner. ",,
 13,keyfinding,"##### **Criminal justice is effective overall, but not all people benefit equally**: Most people in the EU agree that the criminal justice system is effective and respects the rights of both victims and the accused; however, they don’t believe all people are treated equally.  ",,
@@ -49,7 +49,7 @@ This project is funded by the EU and complements other research activities condu
 
 **Justice and Safety:**
 
-- Most people who experienced legal problems got the advice they needed: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation. However, it can be difficult to access dispute resolution mechanisms when needed.  
+- Most people who experienced legal problems got the advice they needed: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation.
 - In general, people believe that justice is expensive: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.
 - Civil justice is not timely: Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner.
 - Criminal justice is effective overall, but not all people benefit equally: Most people in the EU agree that the criminal justice system is effective and respects the rights of both victims and the accused; however, they don’t believe all people are treated equally. 
@@ -161,7 +161,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
                         ",41,expert
 ,accordion_viz_category,Expert's Scorecard,47,
 48,accordion_viz_description,Experts' assessments of whether digital tools improve access to civil justice and are easy to use for most people.,47,
-49,accordion_viz_image,R2B1.svg,47,
+49,accordion_viz_image,R2B1.png,47,
 50,accordion_viz_note,,47,
 51,accordion_viz,"
                         <span id=""R2F7"">Figure 7</span> Affordability of state dispute resolution mechanisms
@@ -587,7 +587,7 @@ However, the majority of respondents in 10 Member States doubt that authorities 
                         ",273,people
 ,accordion_viz_category,People's Voices,279,
 280,accordion_viz_description,"Percentage of respondents who feel safe walking in their neighborhood at night, by sex.",279,
-281,accordion_viz_image,R2B2.svg,279,
+281,accordion_viz_image,R2B2.png,279,
 282,accordion_viz_note,,279,
 283,sub_chapter,## Control of violence,271,
 284,html,"- In 24 Member States, the majority of respondents agree that **the police resolve safety problems in their communities and treat all people with kindness and respect**, with country-level figures ranging from 93.4% of respondents in Finland to 42.1% in Cyprus (<a class=""crossref"" href=""#R2F57"">Figure 57</a>).",283,

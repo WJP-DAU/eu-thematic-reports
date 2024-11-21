@@ -6,7 +6,7 @@
 
 ## justice does not function equally for everyone.
 
-##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation. However, it can be difficult to access dispute resolution mechanisms when needed. 
+##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation.
 
 ##### **In general, people believe that justice is expensive**: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.
 
