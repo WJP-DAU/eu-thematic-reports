@@ -13,7 +13,8 @@
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # ----------------------- GATHER DATA and relevant sections of outline ----------------------------------------- #
-GPP_QRQ_TPS_database <- read.xlsx("C:/Users/icoddington/Downloads/GPP_QRQ_TPS database.xlsx")
+GPP_QRQ_TPS_database <- read.xlsx(
+  file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/inputs/GPP_QRQ_TPS database.xlsx"))
 
 outline_GPP <- outline %>%
   select(thematic_reports, target_var_1, direction, description) %>%
