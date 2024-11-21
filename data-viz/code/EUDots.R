@@ -4,8 +4,12 @@ gen_dots <- function(data, legend, static = FALSE) {
     left_join(region_names %>% select(nuts_id, pop_weight), 
               by = "nuts_id") %>%
     mutate(
-      weighted_value_id1 = value2plot_id1 * pop_weight,
-      weighted_value_id2 = value2plot_id2 * pop_weight,
+      total_pop_weight = sum(pop_weight, na.rm = T),
+      reweighted = pop_weight / total_pop_weight
+    )
+    mutate(
+      weighted_value_id1 = value2plot_id1 * reweighted,
+      weighted_value_id2 = value2plot_id2 * reweighted,
     ) %>%
     group_by(country_name_ltn) %>%
     summarise(
