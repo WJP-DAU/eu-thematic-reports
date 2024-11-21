@@ -49,7 +49,7 @@ gen_dots <- function(data, legend, static = FALSE) {
   value2_data <- country_avg %>% filter(category == "Value 2")
   
   # Generate the plot
-  plt <- ggplot(country_avg %>% filter(country_name_ltn != "Ireland")) +
+  plt <- ggplot(country_avg) +
     geom_point(
       aes(x = country_name_ltn, 
           y = value2plot, 
@@ -120,7 +120,7 @@ gen_dots <- function(data, legend, static = FALSE) {
     ) +
     scale_x_discrete(
       limits = rev(levels(factor(
-        country_avg %>% filter(country_name_ltn != "Ireland") %>%
+        country_avg  %>%
           pull(country_name_ltn)
       )))
     ) + 
