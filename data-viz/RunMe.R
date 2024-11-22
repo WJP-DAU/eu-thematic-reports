@@ -224,7 +224,6 @@ data_points <- imap(
         wrangled_data,
         source = source
       )
-    
       
       # Saving data for website
       save4web(
@@ -278,9 +277,9 @@ write_csv(
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # Calling the visualizer for each chart
-# charts <- lapply(
-#   outline %>%
-#     filter(thematic_reports == T) %>%
-#     pull(chart_id),
-#   callVisualizer
-# )
+charts <- lapply(
+  outline %>%
+    filter(thematic_reports == T) %>%
+    pull(chart_id),
+  callVisualizer
+)

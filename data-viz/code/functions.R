@@ -99,11 +99,13 @@ saveIT <- function(chart, static = FALSE, figid, w, h, svg = TRUE) {
       width  = w, 
       height = h,
       units  = "mm",
-      dpi    = 72,
-      device = "png"
+      dpi    = 100,
+      device = "png",
+      scale  = 2 
     )
   }
 } 
+
 
 getInsets <- function(targets){
   lapply(targets, 
