@@ -20,13 +20,14 @@ create_discrete_legend <- function() {
     scale_fill_manual(values = colors, name = "Prevalence (%)") +
     theme_void() +
     theme(
-      legend.position = "bottom",
-      legend.title    = element_text(family = "Lato Regular", 
-                                     size   = 6, 
-                                     face   = "bold", 
+      legend.position = "top",
+      legend.location = "plot",
+      legend.title    = element_text(family = "Lato Full", 
+                                     size   = 7, 
+                                     face   = "plain", 
                                      color  = "#524F4C"),
-      legend.text     = element_text(family = "Lato Regular", 
-                                     size   = 6),
+      legend.text     = element_text(family = "Lato Full", 
+                                     size   = 7),
       legend.key.size = unit(0.5, "cm")  # Adjust the size of the legend squares
     )
   
@@ -74,7 +75,7 @@ genTable <- function(data) {
     fontsize(j = 2:ncol(table_data), size = 25, part = "body") %>%
     fontsize(j = 1, size = 22, part = "body") %>%
     bold(j = 1, part = "body") %>%  # Bold country names
-    bold(j = 2:ncol(table_data), part = "body") %>%  # Make numbers bold
+    # bold(j = 2:ncol(table_data), part = "body") %>%  # Make numbers bold
     # Slightly reduced font size
     fontsize(size = 22, part = "header") 
   

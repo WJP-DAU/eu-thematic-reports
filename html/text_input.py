@@ -249,8 +249,7 @@ class text_input:
                         "settings"   : None
                     }
                     id_counter += 1
-                    # if row["chart_id"] in ["R1F67","R1F68","R1F79","R2F31","R2F35","R2F39","R2F48"]:
-                    if row["chart_id"] in ["R1B1","R2B1","R2B2","R3B1"]:
+                    if row["chart_id"] in ["R1B1","R2B1","R2B2","R3B1","R2F20","R2F25"]:
                         extension = "png"
                     else:
                         extension = "svg"

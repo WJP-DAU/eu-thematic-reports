@@ -98,7 +98,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 - People perceive justice as being too expensive. Malta is the only EU Member State where most people agree they can easily meet the costs of turning to a state dispute resolution mechanism when they face a legal problem.
 - Across the EU, most people perceive that civil and commercial courts do not resolve cases in a timely manner.
 - People are not aware of their legal rights. Romania, Poland, and Greece are the only EU Member States in which the majority of respondents feel aware of their rights when facing a legal problem.
-- In 15 Member States\*, a majority of respondents experienced at least one non-trivial legal problem\*\* in the past two years. The prevalence of legal problems varies widely across the EU, as just 15.6% of respondents experienced a recent legal problem in Portugal, while 71.0% did in Hungary. For respondents in all countries, the most common legal problems were related to consumer protection.
+- In 15 Member States\*, a majority of respondents experienced at least one non-trivial legal problem\*\* in the past two years. The prevalence of legal problems varies widely across the EU, as just 15.6% of respondents experienced a recent legal problem in Portugal, while 71.0% did in Hungary. Across the EU, the most common legal problems were related to consumer protection.
 - Most EU residents who experienced a non-trivial legal issue** and needed access to a dispute resolution mechanism did not have access to it. This finding presents a major challenge to many EU countries aiming to meet the United Nations Sustainable Development Goals target on access to justice for all (SDG 16.3.3). 
 
 \*The module on legal needs covers 26 out of the 27 EU Member States; this data was not collected in Ireland.
@@ -259,7 +259,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 103,accordion_viz_image,R2F18.svg,101,
 104,accordion_viz_note,,101,
 105,sub_chapter,## WJP Global Legal Needs Survey module,15,
-106,html,"- In 15 Member States\*, over half  of respondents experienced one or more **non-trivial legal problems\*\* in the past two years**, with prevalence at the country-level ranging from 15.6% in Portugal to 71.0% in Hungary (<a class=""crossref"" href=""#R2F19"">Figure 19</a>). Across the EU, the most **commonly reported legal problems** were related to consumer protection, housing, and public services (<a class=""crossref"" href=""#R2F20"">Figure 20</a>).    
+106,html,"- In 15 Member States\*, over half  of respondents experienced one or more **non-trivial legal problems\*\* in the past two years**, with prevalence at the country-level ranging from 15.6% in Portugal to 71.0% in Hungary (<a class=""crossref"" href=""#R2F19"">Figure 19</a>). Across the EU, the most **commonly reported legal problems** were related to consumer protection and housing (<a class=""crossref"" href=""#R2F20"">Figure 20</a>).    
 - Among all respondents who reported experiencing non-trivial legal problems, at least half  had **access to good information and advice** (<a class=""crossref"" href=""#R2F23"">Figure 23</a>) and, in 18 Member States, the majority of respondents had **access to adequate assistance and representation**\*\*\* (<a class=""crossref"" href=""#R2F24"">Figure 24</a>). However, Malta and Bulgaria were the only two Member States in which the majority of respondents, out of those who experienced a non-trivial legal problem and needed access, had **access to a dispute resolution mechanism** (<a class=""crossref"" href=""#R2F25"">Figure 25</a>).       
 - Out of the people who experienced a non-trivial legal problem and whose problem's resolution process has concluded, in 25 Member States (all except for Czechia), six out of every ten respondents' **legal problems have been solved** (<a class=""crossref"" href=""#R2F29"">Figure 29</a>).
 - In a majority of EU Member States, out of respondents who experienced a non-trivial legal problem and reported that the problem’s resolution process has concluded, over two-thirds said that the **resolution process concluded in less than a year** (<a class=""crossref"" href=""#R2F26"">Figure 26</a>) and that they were **able to afford the costs to solve their problem, or did not incur any costs at all** (<a class=""crossref"" href=""#R2F27"">Figure 27</a>).  However, this group of respondents did not think their experiences were fair—in only five Member States did the majority of respondents agree that the **resolution process was fair, regardless of the outcome** (<a class=""crossref"" href=""#R2F28"">Figure 28</a>).
@@ -279,7 +279,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
                         ",105,people
 ,accordion_viz_category,People's Voices,111,
 112,accordion_viz_description,Percentage of respondents who experienced at least one non-trivial legal problem in the previous two years by problem category.,111,
-113,accordion_viz_image,R2F20.svg,111,
+113,accordion_viz_image,R2F20.png,111,
 114,accordion_viz_note,,111,
 115,accordion_viz,"
                         <span id=""R2F21"">Figure 21</span> Legal vulnerability: official proof of identity
@@ -315,7 +315,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 ,accordion_viz_category,People's Voices,131,
 132,accordion_viz_description,Percentage of respondents who had access to a dispute resolution mechanism out of those who experienced a non-trivial legal problem in the previous two years and needed access.,131,
 133,accordion_viz_image,R2F25.svg,131,
-134,accordion_viz_note,,131,
+134,accordion_viz_note,"Sustainable Development Goal indicator 16.3.3 measures the proportion of the population who that has experienced a dispute in the past two years and had access to a formal or informal dispute resolution mechanism. Based on data from the WJP Global Legal Needs Survey module of the general population survey, WJP estimates the proportion of people who, directly or with the help of someone else, had access to a court or any other third party to adjudicate, mediate, or intervene to help resolve their legal problem, out of those who had a legal problem and needed access to this type of service.",131,
 135,accordion_viz,"
                         <span id=""R2F26"">Figure 26</span> Experiences of the timeliness of dispute resolution processes
                         ",105,people
@@ -344,7 +344,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 148,accordion_viz_description,"Percentage of respondents whose resolution process is done and whose legal problem was solved, out of those who experienced a non-trivial legal problem in the previous two years and whose problem resolution process had concluded.",147,
 149,accordion_viz_image,R2F29.svg,147,
 150,accordion_viz_note,,147,
-151,chapter,# Criminal Justice,,
+151,chapter,# Criminal justice,,
 152,findings,"Outlined below are the findings for this section. First, we present the main findings for the chapter, emphasizing notable insights in the data. This is followed by summaries of individual indicators organized by topic.
 
 - While experts in most EU countries say their justice systems conduct effective and impartial criminal investigations, these positive perceptions are not shared among respondents in Cyprus, Bulgaria, and Greece. 
@@ -574,7 +574,7 @@ However, the majority of respondents in 10 Member States doubt that authorities 
 - Women are less likely than men  to feel safe in every Member State except Poland.
 - Most people across the EU trust the police to solve community safety problems and to treat everyone with respect. However, respondents in Ireland, Slovakia, Hungary, and Cyprus hold comparatively negative views.",271,
 273,sub_chapter,## Perceptions of safety,271,
-274,html,"- In 26 Member States, the majority of respondents feel safe walking in their neighborhood at night, with country-level figures ranging from 88.4% of respondents in Denmark to 47.7% in Italy (<a class=""crossref"" href=""#R2F56"">Figure 56</a>). However, **perceptions of safety among women** are lower than men  in every EU country, except Poland (<a class=""crossref"" href=""#R2F56"">Box 2</a>).",273,
+274,html,"- In 26 Member States, the majority of respondents **feel safe walking in their neighborhood at night**, with country-level figures ranging from 88.4% of respondents in Denmark to 47.7% in Italy (<a class=""crossref"" href=""#R2F56"">Figure 56</a>). However, perceptions of safety among women are lower than men  in every EU country, except Poland (<a class=""crossref"" href=""#R2B2"">Box 2</a>).",273,
 275,accordion_viz,"
                         <span id=""R2F56"">Figure 56</span> Perceptions of safety when walking in the neighborhood at night
                         ",273,people
@@ -903,7 +903,7 @@ After establishing these pillars and indicators, WJP drafted survey questions to
 
 Expert survey data collection for the *EUROVOICES* project was conducted by the WJP’s research team. The surveys were administered online between October 2023 and April 2024 using Alchemer, a user-friendly and highly secure survey administration platform. The expert surveys were administered in twelve languages: Bulgarian, Czech, English, French, German, Greek, Hungarian, Italian, Polish, Portuguese, Romanian, and Spanish.
 
-The expert survey respondents, representing the 110 subnational regions across all 27 EU Member States, included independent legal practitioners and academics selected from directories of law firms, universities and colleges, research organizations, and non-governmental organizations (NGOs), as well as through referrals from the WJP global network of practitioners. All expert respondents were vetted by WJP staff to ensure their qualifications.
+The expert survey respondents, representing the 110 subnational regions across all 27 EU Member States, included independent legal practitioners and academics selected from directories of law firms, universities and colleges, research organizations, and non-governmental organizations (NGOs), as well as through referrals from the WJP's global network of practitioners. All expert respondents were vetted by WJP staff to ensure their qualifications.
 
 Over the course of the expert survey data collection, WJP's research team regularly sent survey invitations and reminder emails to potential respondents using publicly available online contact information, collected through a systematic review of the websites of law firms, bar associations, universities, and other organizations. To expand WJP's network of expert respondents in the EU, the research team collaborated with local organizations, bar associations, universities, and law firms to identify and invite potential participants. As a result of this exercise, WJP's team generated a database with contact information for thousands of experts. In total, the WJP team obtained 8,042 expert survey responses.
 
@@ -1001,7 +1001,7 @@ Sophio Asatiani (USAID Information Integrity Program, Zinc Network), Alfred Brid
 Fenella Billing (Aalborg University), Markus Böckenförde (Central European University), Styliani (Stella) Christoforidou (Hellenic Open University), Alessia-Ottavia Cozzi (University of Udine), Graciela Faffelberger (VAMED AG), János Fazekas (ELTE Faculty of Law), John A. Gealfow (OYERS.LAW and Masaryk University Faculty of Law), Tania Groppi (University of Siena), Małgorzata Kiełtyka (Kiełtyka Gładkowski KG LEGAL), Christian Koller (University of Vienna), Emilia Korkea-aho (University of Eastern Finland Law School), Urmas Kukk (KPMG Law), Mika Lehtimäki (StratXcel.tech and Tampere University), Felicien Lemaire (University of Angers), Christian Lemke (Heissner & Struck, and German Federal Bar), Heidi Lett (KPMG Law), Dieuwke Levinson-Arps (Attorney at Law), Imelda Maher (University College Dublin), Luigi Mori (BLR&M), Kevät Nousiainen (University of Turku), Lilla Ozoráková (Slovak National Centre for Human Rights), Viera Petrasova (Petrasova Legal Law Firm), Ulrike Schultz (FernUniversität), Helen Siegumfeldt (Citizen Rights Attorney), Henricus Joseph (Henk) Snijders (Leiden University), Petr Žídek (Feichtinger Žídek Fyrbach advokáti), and Anonymous Contributors.
 
 *Contributing experts who answered the expert surveys:*
-_World Justice Project EUROVOICES_ 2024 was made possible by the generous contributions of more than 8,000 academics and legal practitioners who contributed their time and expertise by answering our surveys. The names of those wishing to be acknowledged individually are included in the downloads section of the website. 
+_World Justice Project EUROVOICES_ 2024 was made possible by the generous contributions of more than 8,000 academics and legal practitioners who contributed their time and expertise by answering our surveys. The names of those wishing to be acknowledged individually are included in the downloads section of the website and are also available in the PDF version of this report. 
 
 These reports were also made possible by the work of the polling companies who conducted fieldwork, and the more than 64,000 individuals who answered the General Population Poll in the EU.
 
