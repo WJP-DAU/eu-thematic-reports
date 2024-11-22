@@ -51,3 +51,5 @@ data-viz/output/Variance.svg
 /data-viz/output/datasets_for_download
 /final-charts/png
 /final-charts/node_modules
+data-viz/DRM.svg
+data-viz/code/EU_DRM.R

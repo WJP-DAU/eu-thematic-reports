@@ -14,7 +14,8 @@
 
 # ----------------------- GATHER DATA and relevant sections of outline ----------------------------------------- #
 GPP_QRQ_TPS_database <- read.xlsx(
-  file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/inputs/GPP_QRQ_TPS database.xlsx"))
+  file.path(path2EU, 
+            "EU-S Data/reports/eu-thematic-reports/data-viz/inputs/GPP_QRQ_TPS database.xlsx"))
 
 outline_GPP <- outline %>%
   select(thematic_reports, target_var_1, direction, description) %>%
@@ -404,16 +405,16 @@ plot <- ggplot(merged_data, aes(y = value2plot_more, x = value2plot_less)) +
   geom_point(aes(
     y = value2plot_more, 
     x = value2plot_less),
-    size   = 2,
+    size   = 3,
     stroke = .025,
-    show.legend = c(fill = TRUE)) +
+    show.legend = c(fill = TRUE), 
+    color = "#10399e") +
   geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "#ef4b4b") +
   labs(
     x = "Less Developed Regions",
-    y = "More Developed and Transition Regions",
-    title = "Public perceptions on the rule of law across economic development levels*",
-    subtitle = "Each data point represents a proportion based on aggregated responses to perception-based questions from the *EUROVOICES* household survey.",
-    caption = "*The classification of economic development is based on information sourced from DG REGIO.\n\nNote: the red line represents a 45-degree line, indicating points where the proportions among the regions are equal. Points above the line show cases \nwhere the proportion in the more developed and transition regions is higher than in the less developed regions, while points below the line indicate the \nopposite, with less developed regions having a higher proportion."
+    y = "More Developed and Transition Regions"
+    #title = " Public Perceptions of the Rule of Law in Regions at Different Stages of Development*",
+    #caption = "*Economic development classifications are informed by data from DG REGIO.\n\nNote: Each point on the scatter plot represents the weighted average response across regions to one of the 95 questions from the general population \nsurvey about the state of the rule of law. The vertical axis shows the average responses from individuals in developed or transitioning regions, while the \nhorizontal axis reflects the averages for those in less developed regions. The red 45-degree line indicates equal proportions between the two types of \nregions. Points above the line represent questions where the average response is higher in developed or transitioning regions, whereas points below the \nline indicate higher averages in less developed regions.
   ) +
   scale_y_continuous(breaks   = seq(0.2, 1, 0.20),
                      labels   = paste0(seq(20, 100, 20), "%"),
@@ -428,33 +429,33 @@ plot <- ggplot(merged_data, aes(y = value2plot_more, x = value2plot_less)) +
   theme_minimal() +
   WJP_theme() +
   theme(
-    axis.line            = element_line(color = "#5e5c5a", linetype = "solid"),
+    axis.line            = element_line(color = "#524F4C", linetype = "solid"),
     plot.title           = element_text(family = "Lato Full",
                                         face = "bold",
                                         size = 4.920437 * .pt,
                                         color = "black",
-                                        margin = margin(10, 0, 0, 0)),
+                                        margin = margin(10, 0, 10, 0)),
     # Use element_markdown for the subtitle to enable italics
-    plot.subtitle        = element_markdown(family = "Lato Full",
-                                            face = "plain",
-                                            size = 3.514598 * .pt,
-                                            color = "#524F4C",
-                                            margin = margin(10, 0, 10, 0)),
     plot.caption         = element_text(family = "Lato Full",
                                         face = "plain",
                                         size = 3.514598 * .pt,
                                         color = "#524F4C",
                                         hjust = 0,
-                                        margin = margin(20, 0, 0, 0))
+                                        margin = margin(20, 0, 0, 0)),
+    panel.grid.major   = element_line(size     = 0.25,
+                                      colour   = "#aaaaaa",
+                                      linetype = "dashed")
   );plot
 
 
 
 ggsave(
   plot = plot,
-  filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Economic_dev_gpp.svg"),
-  width = 10,
-  height = 7
+  filename = file.path(path2EU, 
+                       "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Economic_dev_gpp.svg"),
+  width = 186,
+  height = 125,
+  units = "mm"
 )
 # Insight 2: Trust ----------------------------------
 
@@ -549,8 +550,8 @@ plot <-
   ) +
   
   labs(
-    title = "Public trust in local versus national government officials",
-    subtitle = "Percentage of respondents who express a lot or some trust in local and national government officials."
+    #title = "Public Trust in Local versus National Government Officials",
+    #subtitle = "Percentage of respondents who express a lot or some trust in local and national government officials."
   ) +
   
   scale_x_continuous(breaks = seq(0, 1, by = 0.1), limits = c(0, 1),
@@ -605,45 +606,47 @@ plot
 
 ggsave(
   plot = plot,
-  filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Trust.svg"),
-  width = 10,
-  height = 7
+  filename = file.path(path2EU, 
+                       "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Trust.svg"),
+  width = 186,
+  height = 125,
+  units = "mm"
 )
 
 # Insight 3: Variance ----------------------------------
 
-data2plot <- variance_summary %>%
+data2plot <- variance_analysis %>%
   select(target_variable, between_countries_var, avg_between_region_variance)
 
 # Create the scatter plot with italicized "EUROVOICES"
-plot <- ggplot(variance_summary, aes(y = between_countries_var, x = avg_between_region_variance)) +
+plot <- ggplot(data2plot, aes(y = between_countries_var, x = avg_between_region_variance)) +
   geom_point(aes(
     y = between_countries_var, 
     x = avg_between_region_variance),
-    size   = 2,
+    size   = 3,
     stroke = .025,
-    show.legend = c(fill = TRUE)) +
+    show.legend = c(fill = TRUE),
+    color = "#10399e") +
   geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "#ef4b4b") +
   labs(
     x = "Intra-Country Variance**",
-    y = "Inter-Country Variance*",
-    title = "Variance in public perceptions of the rule of law within and across EU countries",
-    subtitle = "Each data point represents an average based on variances in aggregated responses to perception-based questions from the *EUROVOICES* household survey.",
-    caption = "*An inter-country average represents the variance of individual countries' values from the overall EU average, highlighting variations between EU countries.\n**An intra-country average represents the variance of individual regions' values from the overall national average, highlighting variations within a single country.\n\nNote: the red line represents a 45-degree line, indicating points where the variance across countries is equal to the variance within countries. Points above the \nline show cases where the variance between countries is greater than the variance within countries, while points below the line indicate the opposite, with \nregions within a single country having greater variance."
+    y = "Inter-Country Variance*"
+    #title = "Variance in Public Perceptions of the Rule of Law within and across EU countries",
+    #caption = "The scatter plot shows the relationship between intra-country variance and inter-country variance in the observed data. Each point represents one of the 95 questions from the general population survey. The horizontal axis displays the intra-country variance (variation in responses within a single country), while the vertical axis reflects the inter-country variance (variation in responses across countries). The red 45-degree line represents equal variance between and within countries. Points above the line indicate questions where variance is greater across countries, while points below the line reflect questions with greater variance within countries."
   ) +
   scale_y_continuous(
     breaks = seq(0.01, 0.05, 0.010),
     labels = paste0(seq(0.01, 0.05, 0.010)),
     position = "left", 
     expand = c(0, 0),
-    limits = c(0, 0.055)  # Set limits for full visualization
+    limits = c(0, 0.0525)  # Set limits for full visualization
   ) +
   scale_x_continuous(
     breaks = seq(0.01, 0.05, 0.010),
     labels = paste0(seq(0.01, 0.05, 0.010)),
     position = "bottom", 
     expand = c(0, 0),
-    limits = c(0, 0.055)  # Set limits for full visualization
+    limits = c(0, 0.0525)  # Set limits for full visualization
   ) +
   theme_minimal() +
   WJP_theme() +
@@ -653,26 +656,24 @@ plot <- ggplot(variance_summary, aes(y = between_countries_var, x = avg_between_
                                         face = "bold",
                                         size = 4.920437 * .pt,
                                         color = "black",
-                                        margin = margin(10, 0, 0, 0)),
-    # Use element_markdown for the subtitle to enable italics
-    plot.subtitle        = element_markdown(family = "Lato Full",
-                                            face = "plain",
-                                            size = 3.514598 * .pt,
-                                            color = "#524F4C",
-                                            margin = margin(10, 0, 10, 0)),
+                                        margin = margin(10, 0, 10, 0)),
     plot.caption         = element_text(family = "Lato Full",
                                         face = "plain",
                                         size = 3.514598 * .pt,
                                         color = "#524F4C",
                                         hjust = 0,
-                                        margin = margin(20, 0, 0, 0))
+                                        margin = margin(20, 0, 0, 0)),
+    panel.grid.major   = element_line(size     = 0.25,
+                                      colour   = "#aaaaaa",
+                                      linetype = "dashed")
   ); plot
 
 ggsave(
   plot = plot,
   filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Variance.svg"),
-  width = 10,
-  height = 7
+  width = 186,
+  height = 125,
+  units = "mm"
 )
 # Insight 4: Rural vs Urban ----------------------------------
 
@@ -702,16 +703,17 @@ plot <- ggplot(merged_data, aes(y = value2plot_urban, x = value2plot_rural)) +
   geom_point(aes(
     y = value2plot_urban, 
     x = value2plot_rural),
-    size   = 2,
+    size   = 3,
     stroke = .025,
-    show.legend = c(fill = TRUE)) +
+    show.legend = c(fill = TRUE),
+    color = "#10399e") +
   geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "#ef4b4b") +
   labs(
     x = "Rural Regions",
-    y = "Urban Regions",
-    title = "Public perceptions of the rule of law in urban versus rural regions",
-    subtitle = "Each data point represents a proportion based on aggregated responses to perception-based questions from the *EUROVOICES* household survey.",
-    caption = "Note: the red line represents a 45-degree line, indicating points where the proportions among the regions are equal. Points above the line show cases \nwhere the proportion in urban regions is higher than in rural regions, while points below the line indicate the opposite, with rural regions having a higher \nproportion."
+    y = "Urban Regions"
+    #title = "Public perceptions of the rule of law in urban versus rural regions",
+    #subtitle = "Each data point represents a proportion based on aggregated responses to perception-based questions from the *EUROVOICES* household survey.",
+    #caption = "Note: the red line represents a 45-degree line, indicating points where the proportions among the regions are equal. Points above the line show cases \nwhere the proportion in urban regions is higher than in rural regions, while points below the line indicate the opposite, with rural regions having a higher \nproportion."
   ) +
   scale_y_continuous(breaks   = seq(0.2, 1, 0.20),
                      labels   = paste0(seq(20, 100, 20), "%"),
@@ -743,15 +745,19 @@ plot <- ggplot(merged_data, aes(y = value2plot_urban, x = value2plot_rural)) +
                                         size = 3.514598 * .pt,
                                         color = "#524F4C",
                                         hjust = 0,
-                                        margin = margin(20, 0, 0, 0))
+                                        margin = margin(20, 0, 0, 0)),
+    panel.grid.major   = element_line(size     = 0.25,
+                                      colour   = "#aaaaaa",
+                                      linetype = "dashed")
   ); plot
 
 
 ggsave(
   plot = plot,
   filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Regions.svg"),
-  width = 10,
-  height = 7
+  width = 186,
+  height = 125,
+  units = "mm"
 )
 # Insight 5: Male vs Female ----------------------------------
 data4web_gpp <- read_csv(file.path(path2EU, 
@@ -763,14 +769,6 @@ data2plot <- data4web_gpp %>%
     id %!in% c("prevalence2", "vulnerability1", "vulnerability2", 
                "access2info","access2rep", "access2drm", "rp_time", 
                "rp_cost", "rp_fair", "rp_outcome")
-  ) %>%
-  filter(
-    section %in% c(
-      "Fundamental Rights",
-      "Safety",
-      "Control of Corruption",
-      "Transparency"
-    )
   ) %>%
   mutate(value =
            if_else(
@@ -809,25 +807,21 @@ merged_data <- merge(Female, Male, by = "id", suffixes = c("_female", "_male")) 
 plot <- ggplot(merged_data, aes(y = value_male, x = value_female)) +
   geom_point(aes(
     y = value_male, 
-    x = value_female,
-    color = main_topic),
+    x = value_female),
     #shape  = 21,
-    size   = 2,
+    size   = 3,
     stroke = .025,
-    show.legend = c(fill = TRUE)) +
+    show.legend = c(fill = TRUE),
+    color = "#10399e") +
   geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "#ef4b4b") +
   labs(
     x = "Female",
-    y = "Male",
-    title = "Public perceptions of the rule of law by gender",
-    subtitle = "Each data point represents a proportion based on aggregated responses to perception-based questions from the EUROVOICES household survey.",
-    caption = "Note: the red line represents a 45-degree line, indicating points where the proportions of females and males are equal. Points above the line show cases \nwhere the proportion of males is higher than that of females, while points below the line indicate the opposite, with females having a higher proportion.",
-    color = "Topic:"
-    ) +
-  scale_color_manual(
-    values = c("Control of Corruption and Transparency" = "#009AA9",
-               "Safety and Fundamental Rights" = "#ef4b4b")
-  ) +
+    y = "Male"
+    #title = "Public perceptions of the rule of law by gender",
+    #subtitle = "Each data point represents a proportion based on aggregated responses to perception-based questions from the EUROVOICES household survey.",
+    #caption = "Note: the red line represents a 45-degree line, indicating points where the proportions of females and males are equal. Points above the line show cases \nwhere the proportion of males is higher than that of females, while points below the line indicate the opposite, with females having a higher proportion.",
+    #color = "Topic:"
+    )  +
   scale_y_continuous(breaks   = seq(0.2, 1, 0.20),
                      labels   = paste0(seq(20, 100, 20), "%"),
                      position = "left", 
@@ -877,14 +871,19 @@ plot <- ggplot(merged_data, aes(y = value_male, x = value_female)) +
                                hjust = 0.5),
     legend.key.size = unit(0.15, "inches"), 
     legend.justification = "center",
-    legend.margin = margin(2, 0, 0, 0)
+    legend.margin = margin(2, 0, 0, 0),
+    panel.grid.major   = element_line(size     = 0.25,
+                                      colour   = "#aaaaaa",
+                                      linetype = "dashed")
   );plot
 
 ggsave(
   plot = plot,
-  filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Gender.svg"),
-  width = 10,
-  height = 7
+  filename = file.path(path2EU, 
+                       "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Gender.svg"),
+  width = 186,
+  height = 125,
+  units = "mm"
 )
 
 
@@ -955,16 +954,17 @@ plot <- ggplot(merged_data, aes(y = value2plot_more, x = value2plot_less)) +
   geom_point(aes(
     y = value2plot_more, 
     x = value2plot_less),
-    size   = 2,
+    size   = 3,
     stroke = .025,
-    show.legend = c(fill = TRUE)) +
+    show.legend = c(fill = TRUE),
+    color = "#10399e") +
   geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "#ef4b4b") +
   labs(
     x = "Less Developed Regions",
-    y = "More Developed and Transition Regions",
-    title = "Expert scores on the rule of law across economic development levels*",
-    subtitle = "Each data point represents an aggregated indicator derived from expert opinion questions in the *EUROVOICES* legal experts survey.",
-    caption = "*The classification of economic development is based on information sourced from DG REGIO.\n\nNote: the red line represents a 45-degree line, indicating points where the scores among the regions are equal. Points above the line show cases where the \nscores in the more developed and transition regions is higher than in the less developed regions, while points below the line indicate the opposite, with less \ndeveloped regions having a higher scores."
+    y = "More Developed and Transition Regions"
+    #title = "Expert scores on the rule of law across economic development levels*",
+    #subtitle = "Each data point represents an aggregated indicator derived from expert opinion questions in the *EUROVOICES* legal experts survey.",
+    #caption = "*The classification of economic development is based on information sourced from DG REGIO.\n\nNote: the red line represents a 45-degree line, indicating points where the scores among the regions are equal. Points above the line show cases where the \nscores in the more developed and transition regions is higher than in the less developed regions, while points below the line indicate the opposite, with less \ndeveloped regions having a higher scores."
   ) +
   scale_y_continuous(breaks   = seq(0.2, 1, 0.20),
                      labels   = paste0(seq(0.2, 1, 0.20)),
@@ -997,12 +997,16 @@ plot <- ggplot(merged_data, aes(y = value2plot_more, x = value2plot_less)) +
                                         size = 3.514598 * .pt,
                                         color = "#524F4C",
                                         hjust = 0,
-                                        margin = margin(20, 0, 0, 0))
+                                        margin = margin(20, 0, 0, 0)),
+    panel.grid.major   = element_line(size     = 0.25,
+                                      colour   = "#aaaaaa",
+                                      linetype = "dashed")
   );plot
 
 ggsave(
   plot = plot,
   filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/economic_dev_qrq.svg"),
-  width = 10,
-  height = 7
+  width = 186,
+  height = 125,
+  units = "mm"
 )
