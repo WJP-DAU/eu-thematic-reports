@@ -120,7 +120,6 @@ callVisualizer <- function(figid) {
   print(glue("Working on Chart {figid}"))
   
   # Retrieve parameters from outline
-  
   params <- outline %>%
     filter(chart_id == figid) %>%
     select(description, level, demographic, type, direction) %>%

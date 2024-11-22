@@ -3,15 +3,13 @@ gen_dots <- function(data, legend, static = FALSE) {
   country_avg <- data %>%
     left_join(region_names %>% select(nuts_id, pop_weight), 
               by = "nuts_id") %>%
+    group_by(country_name_ltn) %>%
     mutate(
       total_pop_weight = sum(pop_weight, na.rm = T),
-      reweighted = pop_weight / total_pop_weight
-    ) %>%
-    mutate(
+      reweighted = pop_weight / total_pop_weight,
       weighted_value_id1 = value2plot_id1 * reweighted,
       weighted_value_id2 = value2plot_id2 * reweighted,
     ) %>%
-    group_by(country_name_ltn) %>%
     summarise(
       nuts_id        = first(nuts_id),
       value2plot_id1 = sum(weighted_value_id1*100, na.rm = TRUE),
