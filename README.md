@@ -38,42 +38,20 @@ This repository is split into two major directories: ['data-viz'](https://github
 
 
 ### Data Visualization
-For the data-viz
-directory, the general framework which dictates how the process is conducted is 
-contained in the 'report_outline.xlsx' file. This document contains one row for each
-visualization produced by the workflow. For each visualization, the outline keeps 
-track of which report, chapter and section the chart will appear in, whether it is 
-a general population or expert indicator, whether the indicator plotted exists in 
-the merged .dta file or additional wrangling is necessary, the geographic level of 
-the chart (regional or national), the type of chart to be produced, the report 
-value that this visualization seeks to capture, and other pertinent information like
-the title and subtitle of the chart. 
+For the data-viz directory, the general framework which dictates how the process is conducted is contained in the 'report_outline.xlsx' file. This document contains one row for each visualization produced by the workflow. For each visualization, the outline keeps track of which report, chapter and section the chart will appear in, whether it is a general population or expert indicator, whether the indicator plotted exists in the merged .dta file or additional wrangling is necessary, the geographic level of the chart (regional or national), the type of chart to be produced, the report value that this visualization seeks to capture, and other pertinent information like the title and subtitle of the chart. 
 
-The 'data-viz' process follows a similar modular programming approach to previous 
-country reports. The routine can be run from top to bottom through the 'RunMe.R' 
-script. The routine is divided into three steps:
-1. Presettings: In this section, we load the additional code modules included in the
-workflow. We also preprocess the data, calculate demographic information, and manually
-join with the original general population indicators any indicators which are a direct
-combination of others. We also load the color palettes and style themes for our
-visualizations.
-2. Data Wrangling: The first portion of wrangling is done in the presettings when
- feautures which indicate some combination of other predictors are engineered. There
- are three other wrangling functions which are applied to the data depending on the
- visualization needed. For the implementation, we create a named list to loop over
-which keeps track of the _source_ of chart (General Population or Expert Survey - these
-come from different data sets) and whether additional "special" wranglig is necessary. Based
-on the chart id and the source we apply the required wrangling function and return the combined
-list of the data points for each chart. We then bind the rows of this list and impute the
+The 'data-viz' process follows a similar modular programming approach to previous country reports. The routine can be run from top to bottom through the 'RunMe.R' script. The routine is divided into three steps:
+
+1. Presettings: In this section, we load the additional code modules included in the workflow. We also preprocess the data, calculate demographic information, and manually join with the original general population indicators any indicators which are a direct combination of others. We also load the color palettes and style themes for our visualizations.
+2. Data Wrangling: The first portion of wrangling is done in the presettings when feautures which indicate some combination of other predictors are engineered. There are three other wrangling functions which are applied to the data depending on the visualization needed. For the implementation, we create a named list to loop over which keeps track of the _source_ of chart (General Population or Expert Survey - these come from different data sets) and whether additional "special" wranglig is necessary. Based on the chart id and the source we apply the required wrangling function and return the combined list of the data points for each chart. We then bind the rows of this list and impute the
 values for which sample size in insufficient to include the value in our report. Then we
 apply an averaging function which calculates weighted means for each chart at the national leven
 and a simple mean for the EU level.
-3. Data Visualization: In this section of the code we call the appropriate visualization
-function by extracting the relevant parameters from the outline and grabbing the data
-points for that chart. The resulting charts are saved to the outputs directory in an SVG format.
+3. Data Visualization: In this section of the code we call the appropriate visualization function by extracting the relevant parameters from the outline and grabbing the data points for that chart. The resulting charts are saved to the outputs directory in an SVG format.
 
-Finally, the static charts are passed to the SVG handler, which uses a class to 
-assign interactivity to the visualizations depending on their attributes. 
+Finally, the static charts are passed to the SVG handler, which uses a class to assign interactivity to the visualizations depending on their attributes. 
+
+The following charts need to be reduced manually at the [SVGOMG GUI](https://jakearchibald.github.io/svgomg/): R1F41, R1F67, R1F68, R1F79, R1F80, R1F82, R2F31, R2F35, R2F39, R2F48, R3F31
 
 ### HTML Production
 
