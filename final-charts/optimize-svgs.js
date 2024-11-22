@@ -4,6 +4,9 @@ const { optimize } = require('svgo');
 
 // Directory containing SVG files
 const svgDir = path.join(__dirname, 'reduced');
+// const svgDir = path.join(__dirname, 'no-tooltip/R1');
+// const svgDir = path.join(__dirname, 'no-tooltip/R2');
+// const svgDir = path.join(__dirname, 'no-tooltip/R3');
 
 // Function to optimize SVG files
 const optimizeSVGs = (directory) => {
@@ -46,5 +49,5 @@ const optimizeSVGs = (directory) => {
     });
   };
   
-  // Call the function
-  optimizeSVGs(svgDir);
+// Call the function
+optimizeSVGs(svgDir);
