@@ -26,33 +26,30 @@ This project is funded by the EU and complements other research activities condu
 
 **Democracy and Fundamental Rights:**
 
-- People can vote freely: Most people in the EU agree that they can vote freely, without feeling harassed or pressured.
-- Fundamental freedoms are protected: The freedoms of assembly, association, and expression are well-protected across most of the EU; however, some regions are falling short in upholding these essential rights.
-- The public has doubts about judicial independence: Legal experts in most EU countries consider judicial independence to be strong, but the majority of the general population thinks judges lack independence. 
-- People worry about misinformation: Most people in the EU believe senior government officials use misinformation to shape public opinion in their favor.
-- Discrimination is a challenge across the EU: More than 25% of people faced discrimination during the past year in 20 EU Member States.
+- People can vote freely: Most people in EU regions agree that they can vote freely, without feeling harassed or pressured.
+- Fundamental freedoms are protected: The freedoms of assembly, association, and expression are well-protected across most EU regions; however, some regions are falling short in upholding these essential rights.
+- People worry about misinformation: Most people in EU regions believe senior government officials use misinformation to shape public opinion in their favor. 
+- Discrimination is a challenge across the EU regions: Over 25% of people faced discrimination during the past year in approximately 80% of EU regions.
 
 **Justice and Safety:**
 
-- Most people who experienced legal problems got the advice they needed: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation.
-- In general, people believe that justice is expensive: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.
-- Civil justice is not timely: Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner.
-- Criminal justice is effective overall, but not all people benefit equally: Most people in the EU agree that the criminal justice system is effective and respects the rights of both victims and the accused; however, they don’t believe all people are treated equally. 
+- Most people who experienced legal problems got the advice they needed: Legal problems are ubiquitous across EU regions. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation, with important variations between regions. 
+- In general, people believe that justice is expensive: Across EU regions, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem, with significant variations between regions.
+- Criminal justice is generally considered effective, but not everyone feels they benefit equally. Most people in EU regions agree that the criminal justice system is effective and respects the rights of both victims and the accused, though there are important variations between regions. However, many believe that not everyone is treated equally.
 
 **Transparency and Corruption:**
 
-- For the most part, people do not think the government is corrupt: Across the EU most people do not believe courts, legislatures, or other state institutions are corrupt; however, they do believe political parties are corrupt.
-- Anticorruption measures are seen as ineffective: Across the EU, most people believe government actions to control corruption are ineffective.
-- Authorities are transparent and provide information: Expert assessments of transparency and access to information across the EU are positive, and most people believe that local authorities provide accessible information.
-- Business regulations are predictable, but businesses face red tape: Although legal experts say business regulations in the EU are predictable and evenly enforced, they note that obtaining certain permits is challenging. 
+- For the most part, people do not think that state institutions are corrupt: Across EU regions, most people do not believe courts, parliaments, or other state institutions are corrupt. However, concerns exist regarding national governments and parliaments in regions of about a third of EU countries. Additionally, in regions of more than half of EU countries, people believe that political parties are the most corrupt compared to other state institutions.
+- Anticorruption measures are seen as ineffective: Across EU regions, most people believe government efforts to control corruption have been ineffective so far.
+- Authorities are perceived as transparent and providing information: Expert assessments of transparency and access to information at local level across EU regions are to a large extent positive, and most people believe that local authorities provide accessible information.
 
 **General Trends Across Regions:**
 
-- Governance is important for development: Across the EU, where democratic governance is stronger, so is economic development.
-- People have more trust in local authorities: Public trust is higher in local authorities than in national governments across the EU, with 52% of respondents trusting local governments compared to 41% for national ones.
+- Governance is important for development: Across EU regions, where democratic governance is stronger, so is economic development.
+- People have more trust in local authorities: Public trust is higher in local authorities than in national governments across EU regions, with 52% of respondents trusting local governments compared to 41% for national ones.
 - Governance varies less within countries than across them: Public perceptions of the rule of law vary more between countries than across regions of the same country.
-- People in urban and rural areas largely agree on justice and the rule of law, with some exceptions: Across the EU, urban and rural residents generally share similar views on issues related to justice and the rule of law, though differences emerge in specific regions, countries, population groups, and topics. 
-- Gender inequality persists: Across the EU, women generally share similar views to men on justice and the rule of law but hold more negative opinions regarding gender equality in both public and private life.  
+- People in urban and rural areas largely agree on justice and the rule of law, with some exceptions: Across EU regions, urban and rural residents generally share similar views on issues related to justice and the rule of law, though differences emerge in specific regions, countries, population groups, and topics. 
+- Gender inequality persists: Across EU regions, women generally share similar views to men on justice and the rule of law but hold more negative opinions regarding gender equality in both public and private life.  
 
 ### About this Report
 

@@ -1,15 +1,13 @@
 # We asked 72,000 people in the EU if they feel safe and if justice is met. Most people believe...
 
-## courts do not resolve cases in a timely manner,
+## they got the legal advice they needed,
 
-## people cannot afford legal assistance,
+## justice is expensive,
 
 ## justice does not function equally for everyone.
 
-##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across the EU. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation.
+##### **Most people who experienced legal problems got the advice they needed**: Legal problems are ubiquitous across EU regions. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation, with important variations between regions.
 
-##### **In general, people believe that justice is expensive**: Across the EU, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem.
+##### **In general, people believe that justice is expensive**: Across EU regions, respondents think that most people cannot easily afford the costs of legal assistance and representation, or the costs of dispute resolution mechanisms if they face a legal problem, with significant variations between regions.
 
-##### **Civil justice is not timely**: Across the EU, most people believe that civil and commercial courts do not resolve cases in a timely manner. 
-
-##### **Criminal justice is effective overall, but not all people benefit equally**: Most people in the EU agree that the criminal justice system is effective and respects the rights of both victims and the accused; however, they don’t believe all people are treated equally.  
+##### **Criminal justice is generally considered effective, but not everyone feels they benefit equally**: Most people in EU regions agree that the criminal justice system is effective and respects the rights of both victims and the accused, though there are important variations between regions. However, many believe that not everyone is treated equally.  

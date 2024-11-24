@@ -1,6 +1,11 @@
 country_name_ltn,level,nuts_id,nameSHORT,chart_id,target_var,demographic,value2plot,count
 Portugal,regional,PT1,Continental Portugal,R1F48,CP_cso,Total Sample,NA,19
 Portugal,regional,PT2,Azores,R1F48,CP_cso,Total Sample,NA,10
+Bulgaria,regional,BG3,North and South-East,R2F58,rp_time,Total Sample,NA,29
+France,regional,FRM,Corsica ,R2F58,rp_time,Total Sample,NA,26
+Greece,regional,EL5,North Greece,R2F58,rp_time,Total Sample,NA,25
+Portugal,regional,PT1,Continental Portugal,R2F58,rp_time,Total Sample,NA,22
+Portugal,regional,PT2,Azores,R2F58,rp_time,Total Sample,NA,27
 Greece,regional,EL5,North Greece,R2F25,access2drm,Total Sample,NA,20
 Portugal,regional,PT1,Continental Portugal,R2F25,access2drm,Total Sample,NA,29
 Portugal,regional,PT2,Azores,R2F25,access2drm,Total Sample,NA,27
