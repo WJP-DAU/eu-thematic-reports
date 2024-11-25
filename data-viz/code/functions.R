@@ -1195,6 +1195,7 @@ wrangleData <- function(figid, source){
       trfunc <- function(value) {
         case_when(
           value == 1  ~ 1,
+          value == 2  ~ 0,
           value == 98 ~ 0
         )
       }
