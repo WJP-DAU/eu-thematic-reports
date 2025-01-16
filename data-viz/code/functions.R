@@ -663,7 +663,7 @@ addSpecial <- function(data){
       # Timeliness of the resolution process
       rp_time = case_when(
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
-        AJR_settle_noresol %in% c(1,2,98,99) ~ NA_real_,
+        AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
         sev_problem_selected <=3    ~ NA_real_,
         AJR_solvingtime == -9999    ~ NA_real_,
@@ -675,7 +675,7 @@ addSpecial <- function(data){
       # Costliness of the resolution process
       rp_cost = case_when(
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
-        AJR_settle_noresol %in% c(1,2,98,99) ~ NA_real_,
+        AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
         sev_problem_selected <=3    ~ NA_real_,
         AJR_solvingcosts == 2       ~ 1,
@@ -686,7 +686,7 @@ addSpecial <- function(data){
       # Fairness of the resolution process
       rp_fair = case_when(
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
-        AJR_settle_noresol %in% c(1,2,98,99) ~ NA_real_,
+        AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
         sev_problem_selected <=3    ~ NA_real_,
         AJR_fair == 1               ~ 1,
@@ -696,13 +696,13 @@ addSpecial <- function(data){
       # Outcome of the resolution process
       rp_outcome = case_when(
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
-        AJR_settle_noresol %in% c(1,2,98,99) ~ NA_real_,
+        AJR_state_noresol %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
         sev_problem_selected <=3    ~ NA_real_,
         AJR_state_resol    == 3     ~ 0,
         AJR_state_resol    == 4     ~ 1,
-        AJR_settle_noresol == 3     ~ 0,
-        AJR_settle_noresol == 4     ~ 1
+        AJR_state_noresol  == 3     ~ 0,
+        AJR_state_noresol  == 4     ~ 1
       ),
       
       # Police and Community Safety
