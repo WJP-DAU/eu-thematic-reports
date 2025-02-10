@@ -590,8 +590,7 @@ addSpecial <- function(data){
         answer == 2 ~ 0
       ),
       prevalence2 = case_when(
-        answer == 1 & severity == 99 ~ NA_real_, # we don't know if the problem was non-trivial or not
-        answer == 1 & severity == 98 ~ 0,
+        answer == 1 & severity >= 98 ~ NA_real_, # we don't know if the problem was non-trivial or not
         answer == 1 & severity >= 4  ~ 1,
         answer == 1 & severity  < 4  ~ 0,
         answer == 2 ~ 0
@@ -619,6 +618,14 @@ addSpecial <- function(data){
     ) %>%
     mutate(
       
+      # Triviality of problem
+      non_trivial_problem = case_when(
+        sev_problem_selected <= 3  ~ 0,
+        sev_problem_selected <= 10 ~ 1,
+        sev_problem_selected <= 99 ~ 0,
+        is.na(sev_problem_selected) ~ NA_real_,
+      ),
+      
       # Legal vulnerability: official proof of identity
       vulnerability1 = case_when(
         A5_1 == 1  | A5_2 == 1  ~ 1,
@@ -634,44 +641,34 @@ addSpecial <- function(data){
       
       # Access to appropriate information and advice
       access2info = case_when(
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
-        AJE_infosource <= 2  ~ 1,
-        AJE_infosource <= 98 ~ 0
+        AJE_infosource <= 2  & non_trivial_problem == 1  ~ 1,
+        AJE_infosource <= 98 & non_trivial_problem == 1  ~ 0
       ),
       
       # Access to appropriate assistance and representation
       access2rep = case_when(
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <= 3   ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
         AJD_inst_advice == 1 & (
           AJD_adviser_2 == 1 | AJD_adviser_3 == 1 | AJD_adviser_4 == 1 | 
             AJD_adviser_5 == 1 | AJD_adviser_6 == 1 | AJD_adviser_8 == 1
-        ) ~ 1,
-        # AJD_inst_advice == 1 & AJD_adviser_1 == 1 & AJD_expert_adviser == 1 ~ 1, # Friend/Family with legal background
-        AJD_inst_advice == 2 & (AJD_noadvice_reason %in% c(1,3)) ~ 1,  
-        AJD_inst_advice == 2 | AJD_inst_advice == 98             ~ 0
+        ) & non_trivial_problem == 1 ~ 1,
+        # AJD_inst_advice == 1 & AJD_adviser_1 == 1 & AJD_expert_adviser == 1 & non_trivial_problem == 1 ~ 1, # Friend/Family with legal background
+        AJD_inst_advice == 2 & (AJD_noadvice_reason %in% c(1,3)) & non_trivial_problem == 1 ~ 1,  
+        (AJD_inst_advice == 2 | AJD_inst_advice == 98) & non_trivial_problem == 1           ~ 0
       ),
       
       # Access to a dispute resolution mechanism
       access2drm = case_when(
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <= 3   ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
-        AJR_resolution == 1 ~ 1,
-        AJR_resolution == 2 & (AJR_noresol_reason %in% c(3,5,6,7,8)) ~ 0
+        AJR_resolution == 1 & non_trivial_problem == 1 ~ 1,
+        AJR_resolution == 2 & (AJR_noresol_reason %in% c(3,5,6,7,8)) & non_trivial_problem == 1 ~ 0
         # AJR_resolution == 98 (We don't know if they really needed the DRM, so we exclude 98s)
       ),
       
       # Timeliness of the resolution process
       rp_time = case_when(
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <= 3   ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
         AJR_solvingtime == -9999    ~ NA_real_,
         AJR_solvingtime == -8888    ~ 0,
         AJR_solvingtime >  12       ~ 0,
@@ -680,34 +677,31 @@ addSpecial <- function(data){
       
       # Costliness of the resolution process
       rp_cost = case_when(
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <= 3   ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
-        AJR_solvingcosts == 2       ~ 1,
+        AJR_solvingcosts == 2 ~ 1,
         AJR_solvingcosts == 1 & (AJR_costdiff %in% c(1,2)) ~ 1,
         AJR_solvingcosts == 1 & (AJR_costdiff %in% c(3,4,98)) ~ 0
       ),
       
       # Fairness of the resolution process
       rp_fair = case_when(
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <= 3   ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
-        AJR_fair == 1               ~ 1,
-        AJR_fair %in% c(2,98)       ~ 0
+        AJR_fair == 1         ~ 1,
+        AJR_fair %in% c(2,98) ~ 0
       ),
       
       # Outcome of the resolution process
       rp_outcome = case_when(
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol %in% c(1,2,98,99) ~ NA_real_,
-        is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <= 3   ~ NA_real_,
-        sev_problem_selected == 99  ~ NA_real_,
         AJR_state_resol    == 3     ~ 0,
         AJR_state_resol    == 4     ~ 1,
         AJR_state_noresol  == 3     ~ 0,
