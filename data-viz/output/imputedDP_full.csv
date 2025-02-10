@@ -9904,13 +9904,13 @@ Belgium,regional,BE1,Brussels Region,R2F58,rp_time,+65,NA,19
 Belgium,regional,BE1,Brussels Region,R2F58,rp_time,18-24,NA,27
 Belgium,regional,BE1,Brussels Region,R2F58,rp_time,55-64,NA,12
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,+65,NA,26
-Belgium,regional,BE2,Flemish Region,R2F58,rp_time,18-24,NA,21
+Belgium,regional,BE2,Flemish Region,R2F58,rp_time,18-24,NA,20
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,25-34,NA,22
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,35-44,NA,23
-Belgium,regional,BE2,Flemish Region,R2F58,rp_time,45-54,NA,29
+Belgium,regional,BE2,Flemish Region,R2F58,rp_time,45-54,NA,28
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,55-64,NA,27
-Belgium,regional,BE3,Walloon Region,R2F58,rp_time,18-24,NA,24
-Belgium,regional,BE3,Walloon Region,R2F58,rp_time,55-64,NA,27
+Belgium,regional,BE3,Walloon Region,R2F58,rp_time,18-24,NA,23
+Belgium,regional,BE3,Walloon Region,R2F58,rp_time,55-64,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F58,rp_time,+65,NA,16
 Bulgaria,regional,BG3,North and South-East,R2F58,rp_time,18-24,NA,5
 Bulgaria,regional,BG3,North and South-East,R2F58,rp_time,25-34,NA,7
@@ -9934,7 +9934,7 @@ Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,18-24,NA,10
 Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,25-34,NA,17
 Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,35-44,NA,23
 Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,45-54,NA,21
-Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,55-64,NA,28
+Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,55-64,NA,27
 Croatia,regional,HR05,Zagreb,R2F58,rp_time,+65,NA,29
 Croatia,regional,HR05,Zagreb,R2F58,rp_time,18-24,NA,12
 Croatia,regional,HR05,Zagreb,R2F58,rp_time,25-34,NA,23
@@ -9947,7 +9947,7 @@ Croatia,regional,HR06,Northern Croatia,R2F58,rp_time,25-34,NA,25
 Croatia,regional,HR06,Northern Croatia,R2F58,rp_time,35-44,NA,20
 Croatia,regional,HR06,Northern Croatia,R2F58,rp_time,55-64,NA,14
 Cyprus,regional,CY0,Cyprus,R2F58,rp_time,+65,NA,23
-Cyprus,regional,CY0,Cyprus,R2F58,rp_time,18-24,NA,28
+Cyprus,regional,CY0,Cyprus,R2F58,rp_time,18-24,NA,27
 Czechia,regional,CZ01,Prague,R2F58,rp_time,+65,NA,11
 Czechia,regional,CZ01,Prague,R2F58,rp_time,18-24,NA,3
 Czechia,regional,CZ01,Prague,R2F58,rp_time,25-34,NA,10
@@ -9970,7 +9970,7 @@ Denmark,regional,DK01,Capital (region),R2F58,rp_time,18-24,NA,22
 Denmark,regional,DK01,Capital (region),R2F58,rp_time,35-44,NA,25
 Denmark,regional,DK01,Capital (region),R2F58,rp_time,45-54,NA,19
 Denmark,regional,DK01,Capital (region),R2F58,rp_time,55-64,NA,13
-Denmark,regional,DK02,Zealand,R2F58,rp_time,+65,NA,20
+Denmark,regional,DK02,Zealand,R2F58,rp_time,+65,NA,19
 Denmark,regional,DK02,Zealand,R2F58,rp_time,18-24,NA,13
 Denmark,regional,DK02,Zealand,R2F58,rp_time,25-34,NA,29
 Denmark,regional,DK02,Zealand,R2F58,rp_time,35-44,NA,22
@@ -10014,10 +10014,11 @@ France,regional,FR1,Île-de-France,R2F58,rp_time,25-34,NA,27
 France,regional,FR1,Île-de-France,R2F58,rp_time,35-44,NA,25
 France,regional,FR1,Île-de-France,R2F58,rp_time,45-54,NA,22
 France,regional,FR1,Île-de-France,R2F58,rp_time,55-64,NA,22
+France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,+65,NA,29
 France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,18-24,NA,19
 France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,25-34,NA,26
 France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,35-44,NA,27
-France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,45-54,NA,21
+France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,45-54,NA,20
 France,regional,FRB,Centre-Val de Loire,R2F58,rp_time,55-64,NA,27
 France,regional,FRC,Burgundy-Franche-Comté,R2F58,rp_time,18-24,NA,15
 France,regional,FRC,Burgundy-Franche-Comté,R2F58,rp_time,25-34,NA,23
@@ -10037,6 +10038,7 @@ France,regional,FRE,Hauts-de-France,R2F58,rp_time,55-64,NA,20
 France,regional,FRF,Grand Est,R2F58,rp_time,18-24,NA,17
 France,regional,FRF,Grand Est,R2F58,rp_time,25-34,NA,22
 France,regional,FRF,Grand Est,R2F58,rp_time,35-44,NA,25
+France,regional,FRF,Grand Est,R2F58,rp_time,45-54,NA,29
 France,regional,FRF,Grand Est,R2F58,rp_time,55-64,NA,22
 France,regional,FRG,Loire Region,R2F58,rp_time,18-24,NA,24
 France,regional,FRG,Loire Region,R2F58,rp_time,25-34,NA,18
@@ -10049,7 +10051,7 @@ France,regional,FRH,Brittany ,R2F58,rp_time,55-64,NA,29
 France,regional,FRI,New Aquitaine,R2F58,rp_time,18-24,NA,19
 France,regional,FRI,New Aquitaine,R2F58,rp_time,25-34,NA,19
 France,regional,FRI,New Aquitaine,R2F58,rp_time,35-44,NA,20
-France,regional,FRJ,Occitania,R2F58,rp_time,+65,NA,29
+France,regional,FRJ,Occitania,R2F58,rp_time,+65,NA,28
 France,regional,FRJ,Occitania,R2F58,rp_time,18-24,NA,14
 France,regional,FRJ,Occitania,R2F58,rp_time,25-34,NA,23
 France,regional,FRJ,Occitania,R2F58,rp_time,35-44,NA,29
@@ -10058,6 +10060,7 @@ France,regional,FRK,Auvergne-Rhône-Alpes,R2F58,rp_time,+65,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F58,rp_time,18-24,NA,19
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F58,rp_time,25-34,NA,17
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F58,rp_time,35-44,NA,28
+France,regional,FRK,Auvergne-Rhône-Alpes,R2F58,rp_time,45-54,NA,29
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F58,rp_time,55-64,NA,26
 France,regional,FRL,PACA,R2F58,rp_time,18-24,NA,15
 France,regional,FRL,PACA,R2F58,rp_time,25-34,NA,20
@@ -10095,11 +10098,11 @@ Germany,regional,DE9,Lower Saxony,R2F58,rp_time,35-44,NA,25
 Germany,regional,DE9,Lower Saxony,R2F58,rp_time,45-54,NA,28
 Germany,regional,DEA,North Rhine-Westphalia,R2F58,rp_time,18-24,NA,23
 Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,18-24,NA,20
-Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,25-34,NA,21
+Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,25-34,NA,20
 Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,35-44,NA,26
-Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,45-54,NA,29
-Germany,regional,DEC,Saarland,R2F58,rp_time,+65,NA,28
-Germany,regional,DEC,Saarland,R2F58,rp_time,18-24,NA,22
+Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,45-54,NA,28
+Germany,regional,DEC,Saarland,R2F58,rp_time,+65,NA,27
+Germany,regional,DEC,Saarland,R2F58,rp_time,18-24,NA,21
 Germany,regional,DED,Saxony,R2F58,rp_time,18-24,NA,19
 Germany,regional,DED,Saxony,R2F58,rp_time,35-44,NA,27
 Germany,regional,DED,Saxony,R2F58,rp_time,45-54,NA,29
@@ -10130,14 +10133,14 @@ Greece,regional,EL6,Central Greece,R2F58,rp_time,45-54,NA,17
 Hungary,regional,HU1,Central Hungary,R2F58,rp_time,18-24,NA,19
 Hungary,regional,HU2,Transdanubia ,R2F58,rp_time,18-24,NA,13
 Hungary,regional,HU3,Great Plain and North,R2F58,rp_time,18-24,NA,23
-Italy,regional,ITC,North-West,R2F58,rp_time,18-24,NA,19
+Italy,regional,ITC,North-West,R2F58,rp_time,18-24,NA,18
 Italy,regional,ITF,South,R2F58,rp_time,18-24,NA,29
 Italy,regional,ITH,North-East,R2F58,rp_time,18-24,NA,22
 Italy,regional,ITI,Centre,R2F58,rp_time,18-24,NA,26
 Latvia,regional,LV00,Latvia,R2F58,rp_time,18-24,NA,21
 Lithuania,regional,LT01,Capital Region,R2F58,rp_time,18-24,NA,21
 Lithuania,regional,LT02,Central/Western Region,R2F58,rp_time,18-24,NA,17
-Luxembourg,regional,LU00,Luxembourg,R2F58,rp_time,+65,NA,26
+Luxembourg,regional,LU00,Luxembourg,R2F58,rp_time,+65,NA,25
 Luxembourg,regional,LU00,Luxembourg,R2F58,rp_time,18-24,NA,19
 Luxembourg,regional,LU00,Luxembourg,R2F58,rp_time,45-54,NA,26
 Luxembourg,regional,LU00,Luxembourg,R2F58,rp_time,55-64,NA,26
@@ -10205,8 +10208,8 @@ Portugal,regional,PT3,Madeira,R2F58,rp_time,55-64,NA,23
 Romania,regional,RO1,Macroregion One,R2F58,rp_time,18-24,NA,15
 Romania,regional,RO1,Macroregion One,R2F58,rp_time,25-34,NA,22
 Romania,regional,RO1,Macroregion One,R2F58,rp_time,35-44,NA,21
-Romania,regional,RO1,Macroregion One,R2F58,rp_time,45-54,NA,26
-Romania,regional,RO1,Macroregion One,R2F58,rp_time,55-64,NA,22
+Romania,regional,RO1,Macroregion One,R2F58,rp_time,45-54,NA,25
+Romania,regional,RO1,Macroregion One,R2F58,rp_time,55-64,NA,21
 Romania,regional,RO2,Macroregion Two,R2F58,rp_time,18-24,NA,12
 Romania,regional,RO2,Macroregion Two,R2F58,rp_time,25-34,NA,18
 Romania,regional,RO2,Macroregion Two,R2F58,rp_time,35-44,NA,22
@@ -10235,7 +10238,7 @@ Slovakia,regional,SK03,Central Slovakia,R2F58,rp_time,+65,NA,18
 Slovakia,regional,SK03,Central Slovakia,R2F58,rp_time,18-24,NA,18
 Slovakia,regional,SK03,Central Slovakia,R2F58,rp_time,55-64,NA,24
 Slovakia,regional,SK04,East Slovakia,R2F58,rp_time,+65,NA,10
-Slovakia,regional,SK04,East Slovakia,R2F58,rp_time,18-24,NA,11
+Slovakia,regional,SK04,East Slovakia,R2F58,rp_time,18-24,NA,9
 Slovakia,regional,SK04,East Slovakia,R2F58,rp_time,55-64,NA,25
 Slovenia,regional,SI03,East Slovenia,R2F58,rp_time,18-24,NA,19
 Slovenia,regional,SI03,East Slovenia,R2F58,rp_time,25-34,NA,29
@@ -10289,7 +10292,7 @@ Belgium,regional,BE1,Brussels Region,R2F58,rp_time,Income Quintile 5,NA,26
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,Income Quintile 1,NA,25
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,Income Quintile 2,NA,28
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,Income Quintile 3,NA,24
-Belgium,regional,BE2,Flemish Region,R2F58,rp_time,Income Quintile 4,NA,26
+Belgium,regional,BE2,Flemish Region,R2F58,rp_time,Income Quintile 4,NA,25
 Belgium,regional,BE2,Flemish Region,R2F58,rp_time,Income Quintile 5,NA,24
 Belgium,regional,BE3,Walloon Region,R2F58,rp_time,Income Quintile 5,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F58,rp_time,Income Quintile 1,NA,8
@@ -10307,7 +10310,7 @@ Croatia,regional,HR02,Pannonian Croatia,R2F58,rp_time,Income Quintile 3,NA,9
 Croatia,regional,HR02,Pannonian Croatia,R2F58,rp_time,Income Quintile 4,NA,19
 Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,Income Quintile 1,NA,9
 Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,Income Quintile 2,NA,12
-Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,Income Quintile 3,NA,8
+Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,Income Quintile 3,NA,7
 Croatia,regional,HR03,Adriatic Croatia,R2F58,rp_time,Income Quintile 4,NA,20
 Croatia,regional,HR05,Zagreb,R2F58,rp_time,Income Quintile 1,NA,15
 Croatia,regional,HR05,Zagreb,R2F58,rp_time,Income Quintile 2,NA,17
@@ -10334,7 +10337,7 @@ Denmark,regional,DK01,Capital (region),R2F58,rp_time,Income Quintile 1,NA,18
 Denmark,regional,DK01,Capital (region),R2F58,rp_time,Income Quintile 2,NA,23
 Denmark,regional,DK01,Capital (region),R2F58,rp_time,Income Quintile 5,NA,14
 Denmark,regional,DK02,Zealand,R2F58,rp_time,Income Quintile 1,NA,24
-Denmark,regional,DK02,Zealand,R2F58,rp_time,Income Quintile 2,NA,20
+Denmark,regional,DK02,Zealand,R2F58,rp_time,Income Quintile 2,NA,19
 Denmark,regional,DK02,Zealand,R2F58,rp_time,Income Quintile 4,NA,28
 Denmark,regional,DK02,Zealand,R2F58,rp_time,Income Quintile 5,NA,15
 Denmark,regional,DK03,South Denmark,R2F58,rp_time,Income Quintile 1,NA,13
@@ -10410,15 +10413,15 @@ Germany,regional,DE7,Hessen,R2F58,rp_time,Income Quintile 1,NA,25
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F58,rp_time,Income Quintile 1,NA,29
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F58,rp_time,Income Quintile 5,NA,22
 Germany,regional,DE9,Lower Saxony,R2F58,rp_time,Income Quintile 4,NA,20
-Germany,regional,DE9,Lower Saxony,R2F58,rp_time,Income Quintile 5,NA,27
-Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,Income Quintile 1,NA,25
+Germany,regional,DE9,Lower Saxony,R2F58,rp_time,Income Quintile 5,NA,26
+Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,Income Quintile 1,NA,24
 Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,Income Quintile 4,NA,28
 Germany,regional,DEB,Rhineland-Palatinate,R2F58,rp_time,Income Quintile 5,NA,26
 Germany,regional,DEC,Saarland,R2F58,rp_time,Income Quintile 1,NA,26
 Germany,regional,DEC,Saarland,R2F58,rp_time,Income Quintile 5,NA,27
 Germany,regional,DED,Saxony,R2F58,rp_time,Income Quintile 5,NA,19
 Germany,regional,DEE,Saxony-Anhalt,R2F58,rp_time,Income Quintile 5,NA,19
-Germany,regional,DEG,Thuringia,R2F58,rp_time,Income Quintile 4,NA,29
+Germany,regional,DEG,Thuringia,R2F58,rp_time,Income Quintile 4,NA,28
 Germany,regional,DEG,Thuringia,R2F58,rp_time,Income Quintile 5,NA,23
 Greece,regional,EL3,Attica,R2F58,rp_time,Income Quintile 1,NA,20
 Greece,regional,EL3,Attica,R2F58,rp_time,Income Quintile 4,NA,26
@@ -10445,7 +10448,7 @@ Hungary,regional,HU2,Transdanubia ,R2F58,rp_time,Income Quintile 1,NA,15
 Hungary,regional,HU2,Transdanubia ,R2F58,rp_time,Income Quintile 2,NA,9
 Hungary,regional,HU2,Transdanubia ,R2F58,rp_time,Income Quintile 3,NA,25
 Hungary,regional,HU3,Great Plain and North,R2F58,rp_time,Income Quintile 1,NA,21
-Hungary,regional,HU3,Great Plain and North,R2F58,rp_time,Income Quintile 3,NA,29
+Hungary,regional,HU3,Great Plain and North,R2F58,rp_time,Income Quintile 3,NA,28
 Italy,regional,ITC,North-West,R2F58,rp_time,Income Quintile 1,NA,23
 Italy,regional,ITH,North-East,R2F58,rp_time,Income Quintile 1,NA,19
 Italy,regional,ITI,Centre,R2F58,rp_time,Income Quintile 1,NA,25
@@ -10501,7 +10504,7 @@ Portugal,regional,PT3,Madeira,R2F58,rp_time,Income Quintile 3,NA,19
 Portugal,regional,PT3,Madeira,R2F58,rp_time,Income Quintile 4,NA,25
 Portugal,regional,PT3,Madeira,R2F58,rp_time,Income Quintile 5,NA,17
 Romania,regional,RO1,Macroregion One,R2F58,rp_time,Income Quintile 1,NA,17
-Romania,regional,RO1,Macroregion One,R2F58,rp_time,Income Quintile 2,NA,23
+Romania,regional,RO1,Macroregion One,R2F58,rp_time,Income Quintile 2,NA,22
 Romania,regional,RO1,Macroregion One,R2F58,rp_time,Income Quintile 4,NA,20
 Romania,regional,RO1,Macroregion One,R2F58,rp_time,Income Quintile 5,NA,5
 Romania,regional,RO2,Macroregion Two,R2F58,rp_time,Income Quintile 1,NA,17
@@ -10565,7 +10568,7 @@ Germany,regional,DEA,North Rhine-Westphalia,R2F58,rp_time,Rural,NA,9
 Germany,regional,DEC,Saarland,R2F58,rp_time,Rural,NA,21
 Greece,regional,EL5,North Greece,R2F58,rp_time,Rural,NA,23
 Hungary,regional,HU1,Central Hungary,R2F58,rp_time,Rural,NA,26
-Italy,regional,ITC,North-West,R2F58,rp_time,Rural,NA,24
+Italy,regional,ITC,North-West,R2F58,rp_time,Rural,NA,23
 Italy,regional,ITG,Islands,R2F58,rp_time,Rural,NA,20
 Malta,regional,MT00,Malta,R2F58,rp_time,Rural,NA,10
 Netherlands,regional,NL2,East Netherlands,R2F58,rp_time,Rural,NA,6
@@ -10576,7 +10579,7 @@ Portugal,regional,PT1,Continental Portugal,R2F58,rp_time,Rural,NA,13
 Portugal,regional,PT2,Azores,R2F58,rp_time,Rural,NA,4
 Romania,regional,RO3,Macroregion Three,R2F58,rp_time,Rural,NA,13
 Slovakia,regional,SK01,Bratislava,R2F58,rp_time,Rural,NA,28
-Spain,regional,ES1,North-West,R2F58,rp_time,Rural,NA,22
+Spain,regional,ES1,North-West,R2F58,rp_time,Rural,NA,21
 Spain,regional,ES2,North-East,R2F58,rp_time,Rural,NA,17
 Spain,regional,ES3,Madrid,R2F58,rp_time,Rural,NA,5
 Spain,regional,ES5,East,R2F58,rp_time,Rural,NA,21
@@ -11515,12 +11518,12 @@ France,regional,FR1,Île-de-France,R2F22,vulnerability2,Rural,NA,23
 Germany,regional,DEA,North Rhine-Westphalia,R2F22,vulnerability2,Rural,NA,21
 Malta,regional,MT00,Malta,R2F22,vulnerability2,Rural,NA,20
 Spain,regional,ES3,Madrid,R2F22,vulnerability2,Rural,NA,18
-Belgium,regional,BE2,Flemish Region,R2F23,access2info,18-24,NA,27
+Belgium,regional,BE2,Flemish Region,R2F23,access2info,18-24,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,+65,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,18-24,NA,11
-Bulgaria,regional,BG3,North and South-East,R2F23,access2info,25-34,NA,14
+Bulgaria,regional,BG3,North and South-East,R2F23,access2info,25-34,NA,13
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,35-44,NA,22
-Bulgaria,regional,BG3,North and South-East,R2F23,access2info,45-54,NA,24
+Bulgaria,regional,BG3,North and South-East,R2F23,access2info,45-54,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,55-64,NA,21
 Bulgaria,regional,BG4,South -West/-Central,R2F23,access2info,18-24,NA,18
 Croatia,regional,HR02,Pannonian Croatia,R2F23,access2info,18-24,NA,13
@@ -11543,7 +11546,8 @@ Denmark,regional,DK05,North Jutland,R2F23,access2info,18-24,NA,27
 Finland,regional,FI19,West Finland,R2F23,access2info,18-24,NA,29
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F23,access2info,18-24,NA,25
 Finland,regional,FI1D,North and East Finland,R2F23,access2info,18-24,NA,26
-France,regional,FRM,Corsica ,R2F23,access2info,+65,NA,28
+France,regional,FRB,Centre-Val de Loire,R2F23,access2info,18-24,NA,29
+France,regional,FRM,Corsica ,R2F23,access2info,+65,NA,26
 France,regional,FRM,Corsica ,R2F23,access2info,18-24,NA,11
 France,regional,FRM,Corsica ,R2F23,access2info,25-34,NA,21
 France,regional,FRM,Corsica ,R2F23,access2info,35-44,NA,18
@@ -11555,13 +11559,13 @@ Germany,regional,DE3,Berlin,R2F23,access2info,18-24,NA,29
 Germany,regional,DE4,Brandenburg,R2F23,access2info,18-24,NA,21
 Germany,regional,DE5,Bremen,R2F23,access2info,+65,NA,14
 Germany,regional,DE5,Bremen,R2F23,access2info,18-24,NA,25
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F23,access2info,18-24,NA,24
+Germany,regional,DE8,Mecklenburg-Vorpommern,R2F23,access2info,18-24,NA,23
 Germany,regional,DEB,Rhineland-Palatinate,R2F23,access2info,18-24,NA,25
 Germany,regional,DED,Saxony,R2F23,access2info,18-24,NA,29
 Germany,regional,DEG,Thuringia,R2F23,access2info,18-24,NA,23
 Greece,regional,EL3,Attica,R2F23,access2info,+65,NA,19
 Greece,regional,EL3,Attica,R2F23,access2info,18-24,NA,3
-Greece,regional,EL4,"Aegean Islands, Crete",R2F23,access2info,+65,NA,28
+Greece,regional,EL4,"Aegean Islands, Crete",R2F23,access2info,+65,NA,27
 Greece,regional,EL4,"Aegean Islands, Crete",R2F23,access2info,18-24,NA,15
 Greece,regional,EL4,"Aegean Islands, Crete",R2F23,access2info,25-34,NA,20
 Greece,regional,EL4,"Aegean Islands, Crete",R2F23,access2info,55-64,NA,27
@@ -11612,7 +11616,7 @@ Portugal,regional,PT3,Madeira,R2F23,access2info,18-24,NA,26
 Romania,regional,RO1,Macroregion One,R2F23,access2info,18-24,NA,17
 Romania,regional,RO2,Macroregion Two,R2F23,access2info,18-24,NA,24
 Romania,regional,RO3,Macroregion Three,R2F23,access2info,+65,NA,25
-Romania,regional,RO3,Macroregion Three,R2F23,access2info,18-24,NA,13
+Romania,regional,RO3,Macroregion Three,R2F23,access2info,18-24,NA,12
 Romania,regional,RO3,Macroregion Three,R2F23,access2info,25-34,NA,23
 Romania,regional,RO3,Macroregion Three,R2F23,access2info,55-64,NA,25
 Romania,regional,RO4,Macroregion Four,R2F23,access2info,18-24,NA,10
@@ -11622,19 +11626,19 @@ Romania,regional,RO4,Macroregion Four,R2F23,access2info,55-64,NA,26
 Slovakia,regional,SK01,Bratislava,R2F23,access2info,18-24,NA,10
 Slovakia,regional,SK02,West Slovakia,R2F23,access2info,18-24,NA,28
 Slovakia,regional,SK04,East Slovakia,R2F23,access2info,+65,NA,29
-Slovakia,regional,SK04,East Slovakia,R2F23,access2info,18-24,NA,28
+Slovakia,regional,SK04,East Slovakia,R2F23,access2info,18-24,NA,27
 Sweden,regional,SE2,Southern Sweden,R2F23,access2info,18-24,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,Income Quintile 1,NA,16
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,Income Quintile 2,NA,17
-Bulgaria,regional,BG3,North and South-East,R2F23,access2info,Income Quintile 3,NA,18
+Bulgaria,regional,BG3,North and South-East,R2F23,access2info,Income Quintile 3,NA,16
 Bulgaria,regional,BG3,North and South-East,R2F23,access2info,Income Quintile 4,NA,28
-Bulgaria,regional,BG4,South -West/-Central,R2F23,access2info,Income Quintile 1,NA,25
+Bulgaria,regional,BG4,South -West/-Central,R2F23,access2info,Income Quintile 1,NA,24
 Croatia,regional,HR02,Pannonian Croatia,R2F23,access2info,Income Quintile 1,NA,23
 Croatia,regional,HR02,Pannonian Croatia,R2F23,access2info,Income Quintile 2,NA,29
 Croatia,regional,HR02,Pannonian Croatia,R2F23,access2info,Income Quintile 3,NA,19
 Croatia,regional,HR03,Adriatic Croatia,R2F23,access2info,Income Quintile 1,NA,20
 Croatia,regional,HR03,Adriatic Croatia,R2F23,access2info,Income Quintile 2,NA,28
-Croatia,regional,HR03,Adriatic Croatia,R2F23,access2info,Income Quintile 3,NA,19
+Croatia,regional,HR03,Adriatic Croatia,R2F23,access2info,Income Quintile 3,NA,18
 Croatia,regional,HR05,Zagreb,R2F23,access2info,Income Quintile 1,NA,28
 Croatia,regional,HR05,Zagreb,R2F23,access2info,Income Quintile 2,NA,29
 Croatia,regional,HR05,Zagreb,R2F23,access2info,Income Quintile 3,NA,26
@@ -11651,11 +11655,11 @@ Denmark,regional,DK03,South Denmark,R2F23,access2info,Income Quintile 5,NA,20
 Denmark,regional,DK04,Central Jutland,R2F23,access2info,Income Quintile 5,NA,16
 Denmark,regional,DK05,North Jutland,R2F23,access2info,Income Quintile 5,NA,20
 Estonia,regional,EE0,Estonia,R2F23,access2info,Income Quintile 1,NA,26
-France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 1,NA,17
+France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 1,NA,16
 France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 2,NA,20
 France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 3,NA,19
 France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 4,NA,24
-France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 5,NA,22
+France,regional,FRM,Corsica ,R2F23,access2info,Income Quintile 5,NA,21
 Germany,regional,DE5,Bremen,R2F23,access2info,Income Quintile 5,NA,23
 Germany,regional,DED,Saxony,R2F23,access2info,Income Quintile 5,NA,29
 Greece,regional,EL3,Attica,R2F23,access2info,Income Quintile 1,NA,24
@@ -11753,12 +11757,12 @@ Romania,regional,RO3,Macroregion Three,R2F23,access2info,Rural,NA,18
 Spain,regional,ES3,Madrid,R2F23,access2info,Rural,NA,11
 Spain,regional,ES5,East,R2F23,access2info,Rural,NA,29
 Spain,regional,ES7,Canary Islands,R2F23,access2info,Rural,NA,28
-Belgium,regional,BE2,Flemish Region,R2F24,access2rep,18-24,NA,17
-Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,+65,NA,27
+Belgium,regional,BE2,Flemish Region,R2F24,access2rep,18-24,NA,16
+Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,+65,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,18-24,NA,11
 Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,25-34,NA,15
 Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,35-44,NA,24
-Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,45-54,NA,24
+Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,45-54,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,55-64,NA,19
 Bulgaria,regional,BG4,South -West/-Central,R2F24,access2rep,18-24,NA,16
 Croatia,regional,HR02,Pannonian Croatia,R2F24,access2rep,18-24,NA,10
@@ -11787,7 +11791,7 @@ Finland,regional,FI19,West Finland,R2F24,access2rep,18-24,NA,19
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F24,access2rep,18-24,NA,19
 Finland,regional,FI1C20,South Finland and Åland,R2F24,access2rep,18-24,NA,29
 Finland,regional,FI1D,North and East Finland,R2F24,access2rep,18-24,NA,18
-France,regional,FRB,Centre-Val de Loire,R2F24,access2rep,18-24,NA,29
+France,regional,FRB,Centre-Val de Loire,R2F24,access2rep,18-24,NA,28
 France,regional,FRC,Burgundy-Franche-Comté,R2F24,access2rep,18-24,NA,28
 France,regional,FRD,Normandy,R2F24,access2rep,18-24,NA,26
 France,regional,FRF,Grand Est,R2F24,access2rep,18-24,NA,27
@@ -11796,7 +11800,7 @@ France,regional,FRH,Brittany ,R2F24,access2rep,18-24,NA,27
 France,regional,FRI,New Aquitaine,R2F24,access2rep,18-24,NA,24
 France,regional,FRJ,Occitania,R2F24,access2rep,18-24,NA,27
 France,regional,FRL,PACA,R2F24,access2rep,18-24,NA,28
-France,regional,FRM,Corsica ,R2F24,access2rep,+65,NA,26
+France,regional,FRM,Corsica ,R2F24,access2rep,+65,NA,24
 France,regional,FRM,Corsica ,R2F24,access2rep,18-24,NA,10
 France,regional,FRM,Corsica ,R2F24,access2rep,25-34,NA,17
 France,regional,FRM,Corsica ,R2F24,access2rep,35-44,NA,16
@@ -11812,11 +11816,11 @@ Germany,regional,DE5,Bremen,R2F24,access2rep,35-44,NA,29
 Germany,regional,DE5,Bremen,R2F24,access2rep,55-64,NA,29
 Germany,regional,DE6,Hamburg,R2F24,access2rep,18-24,NA,25
 Germany,regional,DE7,Hessen,R2F24,access2rep,18-24,NA,22
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F24,access2rep,18-24,NA,20
+Germany,regional,DE8,Mecklenburg-Vorpommern,R2F24,access2rep,18-24,NA,19
 Germany,regional,DE9,Lower Saxony,R2F24,access2rep,18-24,NA,22
 Germany,regional,DEA,North Rhine-Westphalia,R2F24,access2rep,18-24,NA,24
 Germany,regional,DEB,Rhineland-Palatinate,R2F24,access2rep,18-24,NA,15
-Germany,regional,DEC,Saarland,R2F24,access2rep,18-24,NA,22
+Germany,regional,DEC,Saarland,R2F24,access2rep,18-24,NA,21
 Germany,regional,DED,Saxony,R2F24,access2rep,18-24,NA,24
 Germany,regional,DEE,Saxony-Anhalt,R2F24,access2rep,18-24,NA,23
 Germany,regional,DEF,Schleswig-Holstein,R2F24,access2rep,18-24,NA,24
@@ -11824,7 +11828,7 @@ Germany,regional,DEG,Thuringia,R2F24,access2rep,18-24,NA,17
 Greece,regional,EL3,Attica,R2F24,access2rep,+65,NA,16
 Greece,regional,EL3,Attica,R2F24,access2rep,18-24,NA,4
 Greece,regional,EL3,Attica,R2F24,access2rep,25-34,NA,25
-Greece,regional,EL4,"Aegean Islands, Crete",R2F24,access2rep,+65,NA,22
+Greece,regional,EL4,"Aegean Islands, Crete",R2F24,access2rep,+65,NA,21
 Greece,regional,EL4,"Aegean Islands, Crete",R2F24,access2rep,18-24,NA,11
 Greece,regional,EL4,"Aegean Islands, Crete",R2F24,access2rep,25-34,NA,16
 Greece,regional,EL4,"Aegean Islands, Crete",R2F24,access2rep,35-44,NA,26
@@ -11842,13 +11846,14 @@ Greece,regional,EL6,Central Greece,R2F24,access2rep,35-44,NA,20
 Greece,regional,EL6,Central Greece,R2F24,access2rep,45-54,NA,17
 Hungary,regional,HU2,Transdanubia ,R2F24,access2rep,18-24,NA,17
 Hungary,regional,HU3,Great Plain and North,R2F24,access2rep,18-24,NA,25
-Italy,regional,ITC,North-West,R2F24,access2rep,18-24,NA,25
+Italy,regional,ITC,North-West,R2F24,access2rep,18-24,NA,24
 Italy,regional,ITH,North-East,R2F24,access2rep,18-24,NA,29
 Latvia,regional,LV00,Latvia,R2F24,access2rep,18-24,NA,21
 Lithuania,regional,LT01,Capital Region,R2F24,access2rep,18-24,NA,25
 Lithuania,regional,LT02,Central/Western Region,R2F24,access2rep,18-24,NA,19
-Luxembourg,regional,LU00,Luxembourg,R2F24,access2rep,18-24,NA,26
+Luxembourg,regional,LU00,Luxembourg,R2F24,access2rep,18-24,NA,25
 Malta,regional,MT00,Malta,R2F24,access2rep,18-24,NA,15
+Malta,regional,MT00,Malta,R2F24,access2rep,55-64,NA,29
 Poland,regional,PL2,Southern,R2F24,access2rep,+65,NA,24
 Poland,regional,PL2,Southern,R2F24,access2rep,18-24,NA,4
 Poland,regional,PL2,Southern,R2F24,access2rep,25-34,NA,18
@@ -11881,11 +11886,11 @@ Portugal,regional,PT2,Azores,R2F24,access2rep,45-54,NA,15
 Portugal,regional,PT2,Azores,R2F24,access2rep,55-64,NA,7
 Portugal,regional,PT3,Madeira,R2F24,access2rep,18-24,NA,25
 Romania,regional,RO1,Macroregion One,R2F24,access2rep,18-24,NA,13
-Romania,regional,RO1,Macroregion One,R2F24,access2rep,55-64,NA,29
+Romania,regional,RO1,Macroregion One,R2F24,access2rep,55-64,NA,28
 Romania,regional,RO2,Macroregion Two,R2F24,access2rep,18-24,NA,21
 Romania,regional,RO2,Macroregion Two,R2F24,access2rep,55-64,NA,29
 Romania,regional,RO3,Macroregion Three,R2F24,access2rep,+65,NA,17
-Romania,regional,RO3,Macroregion Three,R2F24,access2rep,18-24,NA,10
+Romania,regional,RO3,Macroregion Three,R2F24,access2rep,18-24,NA,9
 Romania,regional,RO3,Macroregion Three,R2F24,access2rep,25-34,NA,19
 Romania,regional,RO3,Macroregion Three,R2F24,access2rep,35-44,NA,28
 Romania,regional,RO3,Macroregion Three,R2F24,access2rep,55-64,NA,24
@@ -11897,7 +11902,7 @@ Slovakia,regional,SK01,Bratislava,R2F24,access2rep,18-24,NA,8
 Slovakia,regional,SK02,West Slovakia,R2F24,access2rep,18-24,NA,21
 Slovakia,regional,SK03,Central Slovakia,R2F24,access2rep,18-24,NA,27
 Slovakia,regional,SK04,East Slovakia,R2F24,access2rep,+65,NA,25
-Slovakia,regional,SK04,East Slovakia,R2F24,access2rep,18-24,NA,18
+Slovakia,regional,SK04,East Slovakia,R2F24,access2rep,18-24,NA,17
 Slovenia,regional,SI03,East Slovenia,R2F24,access2rep,18-24,NA,27
 Spain,regional,ES1,North-West,R2F24,access2rep,18-24,NA,25
 Spain,regional,ES3,Madrid,R2F24,access2rep,18-24,NA,28
@@ -11908,19 +11913,19 @@ Greece,regional,EL5,North Greece,R2F24,access2rep,Male,NA,29
 Portugal,regional,PT1,Continental Portugal,R2F24,access2rep,Male,NA,26
 Austria,regional,AT3,West Austria,R2F24,access2rep,Income Quintile 1,NA,24
 Belgium,regional,BE3,Walloon Region,R2F24,access2rep,Income Quintile 5,NA,29
-Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,Income Quintile 1,NA,17
+Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,Income Quintile 1,NA,16
 Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,Income Quintile 2,NA,18
-Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,Income Quintile 3,NA,17
+Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,Income Quintile 3,NA,16
 Bulgaria,regional,BG3,North and South-East,R2F24,access2rep,Income Quintile 4,NA,28
-Bulgaria,regional,BG4,South -West/-Central,R2F24,access2rep,Income Quintile 1,NA,20
-Bulgaria,regional,BG4,South -West/-Central,R2F24,access2rep,Income Quintile 2,NA,26
+Bulgaria,regional,BG4,South -West/-Central,R2F24,access2rep,Income Quintile 1,NA,19
+Bulgaria,regional,BG4,South -West/-Central,R2F24,access2rep,Income Quintile 2,NA,25
 Croatia,regional,HR02,Pannonian Croatia,R2F24,access2rep,Income Quintile 1,NA,22
 Croatia,regional,HR02,Pannonian Croatia,R2F24,access2rep,Income Quintile 2,NA,24
 Croatia,regional,HR02,Pannonian Croatia,R2F24,access2rep,Income Quintile 3,NA,18
 Croatia,regional,HR02,Pannonian Croatia,R2F24,access2rep,Income Quintile 4,NA,23
 Croatia,regional,HR03,Adriatic Croatia,R2F24,access2rep,Income Quintile 1,NA,16
 Croatia,regional,HR03,Adriatic Croatia,R2F24,access2rep,Income Quintile 2,NA,27
-Croatia,regional,HR03,Adriatic Croatia,R2F24,access2rep,Income Quintile 3,NA,17
+Croatia,regional,HR03,Adriatic Croatia,R2F24,access2rep,Income Quintile 3,NA,16
 Croatia,regional,HR05,Zagreb,R2F24,access2rep,Income Quintile 1,NA,23
 Croatia,regional,HR05,Zagreb,R2F24,access2rep,Income Quintile 2,NA,26
 Croatia,regional,HR05,Zagreb,R2F24,access2rep,Income Quintile 3,NA,24
@@ -11931,7 +11936,7 @@ Croatia,regional,HR06,Northern Croatia,R2F24,access2rep,Income Quintile 4,NA,22
 Czechia,regional,CZ01,Prague,R2F24,access2rep,Income Quintile 1,NA,7
 Czechia,regional,CZ01,Prague,R2F24,access2rep,Income Quintile 2,NA,20
 Czechia,regional,CZ01,Prague,R2F24,access2rep,Income Quintile 3,NA,23
-Czechia,regional,CZ0506,North-East and South-East,R2F24,access2rep,Income Quintile 1,NA,26
+Czechia,regional,CZ0506,North-East and South-East,R2F24,access2rep,Income Quintile 1,NA,25
 Denmark,regional,DK02,Zealand,R2F24,access2rep,Income Quintile 1,NA,27
 Denmark,regional,DK02,Zealand,R2F24,access2rep,Income Quintile 5,NA,20
 Denmark,regional,DK03,South Denmark,R2F24,access2rep,Income Quintile 1,NA,20
@@ -11941,15 +11946,15 @@ Denmark,regional,DK04,Central Jutland,R2F24,access2rep,Income Quintile 5,NA,14
 Denmark,regional,DK05,North Jutland,R2F24,access2rep,Income Quintile 5,NA,17
 Estonia,regional,EE0,Estonia,R2F24,access2rep,Income Quintile 1,NA,25
 France,regional,FRL,PACA,R2F24,access2rep,Income Quintile 1,NA,28
-France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 1,NA,16
+France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 1,NA,15
 France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 2,NA,18
 France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 3,NA,17
 France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 4,NA,20
-France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 5,NA,21
+France,regional,FRM,Corsica ,R2F24,access2rep,Income Quintile 5,NA,20
 Germany,regional,DE5,Bremen,R2F24,access2rep,Income Quintile 1,NA,26
 Germany,regional,DE5,Bremen,R2F24,access2rep,Income Quintile 5,NA,20
 Germany,regional,DE9,Lower Saxony,R2F24,access2rep,Income Quintile 4,NA,28
-Germany,regional,DE9,Lower Saxony,R2F24,access2rep,Income Quintile 5,NA,28
+Germany,regional,DE9,Lower Saxony,R2F24,access2rep,Income Quintile 5,NA,27
 Germany,regional,DED,Saxony,R2F24,access2rep,Income Quintile 5,NA,28
 Greece,regional,EL3,Attica,R2F24,access2rep,Income Quintile 1,NA,23
 Greece,regional,EL3,Attica,R2F24,access2rep,Income Quintile 4,NA,29
@@ -11966,7 +11971,7 @@ Greece,regional,EL6,Central Greece,R2F24,access2rep,Income Quintile 2,NA,22
 Greece,regional,EL6,Central Greece,R2F24,access2rep,Income Quintile 3,NA,18
 Greece,regional,EL6,Central Greece,R2F24,access2rep,Income Quintile 4,NA,22
 Greece,regional,EL6,Central Greece,R2F24,access2rep,Income Quintile 5,NA,5
-Hungary,regional,HU1,Central Hungary,R2F24,access2rep,Income Quintile 1,NA,12
+Hungary,regional,HU1,Central Hungary,R2F24,access2rep,Income Quintile 1,NA,11
 Hungary,regional,HU1,Central Hungary,R2F24,access2rep,Income Quintile 2,NA,22
 Hungary,regional,HU1,Central Hungary,R2F24,access2rep,Income Quintile 3,NA,26
 Hungary,regional,HU2,Transdanubia ,R2F24,access2rep,Income Quintile 1,NA,21
@@ -12029,7 +12034,7 @@ Romania,regional,RO4,Macroregion Four,R2F24,access2rep,Income Quintile 2,NA,26
 Romania,regional,RO4,Macroregion Four,R2F24,access2rep,Income Quintile 3,NA,20
 Romania,regional,RO4,Macroregion Four,R2F24,access2rep,Income Quintile 4,NA,18
 Romania,regional,RO4,Macroregion Four,R2F24,access2rep,Income Quintile 5,NA,7
-Slovakia,regional,SK01,Bratislava,R2F24,access2rep,Income Quintile 1,NA,28
+Slovakia,regional,SK01,Bratislava,R2F24,access2rep,Income Quintile 1,NA,27
 Slovakia,regional,SK01,Bratislava,R2F24,access2rep,Income Quintile 4,NA,26
 Spain,regional,ES2,North-East,R2F24,access2rep,Income Quintile 1,NA,19
 Spain,regional,ES3,Madrid,R2F24,access2rep,Income Quintile 1,NA,21
@@ -12040,7 +12045,7 @@ Sweden,regional,SE2,Southern Sweden,R2F24,access2rep,Income Quintile 1,NA,15
 Sweden,regional,SE3,Northern Sweden,R2F24,access2rep,Income Quintile 1,NA,20
 Belgium,regional,BE2,Flemish Region,R2F24,access2rep,Rural,NA,15
 Denmark,regional,DK01,Capital (region),R2F24,access2rep,Rural,NA,9
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F24,access2rep,Rural,NA,29
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F24,access2rep,Rural,NA,28
 France,regional,FR1,Île-de-France,R2F24,access2rep,Rural,NA,14
 Germany,regional,DE1,Baden-Württemberg,R2F24,access2rep,Rural,NA,24
 Germany,regional,DEA,North Rhine-Westphalia,R2F24,access2rep,Rural,NA,12
@@ -12101,7 +12106,7 @@ Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,18-24,NA,9
 Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,25-34,NA,16
 Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,35-44,NA,24
 Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,45-54,NA,23
-Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,55-64,NA,28
+Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,55-64,NA,27
 Croatia,regional,HR05,Zagreb,R2F25,access2drm,+65,NA,29
 Croatia,regional,HR05,Zagreb,R2F25,access2drm,18-24,NA,10
 Croatia,regional,HR05,Zagreb,R2F25,access2drm,25-34,NA,14
@@ -12128,7 +12133,7 @@ Czechia,regional,CZ0506,North-East and South-East,R2F25,access2drm,18-24,NA,14
 Czechia,regional,CZ0506,North-East and South-East,R2F25,access2drm,25-34,NA,17
 Czechia,regional,CZ0506,North-East and South-East,R2F25,access2drm,45-54,NA,25
 Czechia,regional,CZ0506,North-East and South-East,R2F25,access2drm,55-64,NA,18
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,+65,NA,26
+Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,+65,NA,25
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,18-24,NA,12
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,25-34,NA,23
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,35-44,NA,21
@@ -12181,7 +12186,7 @@ Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,18-24,NA,4
 Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,25-34,NA,23
 Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,35-44,NA,26
 Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,45-54,NA,20
-Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,55-64,NA,28
+Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,55-64,NA,27
 Finland,regional,FI1D,North and East Finland,R2F25,access2drm,+65,NA,28
 Finland,regional,FI1D,North and East Finland,R2F25,access2drm,18-24,NA,11
 Finland,regional,FI1D,North and East Finland,R2F25,access2drm,25-34,NA,9
@@ -12192,10 +12197,10 @@ France,regional,FR1,Île-de-France,R2F25,access2drm,+65,NA,27
 France,regional,FR1,Île-de-France,R2F25,access2drm,18-24,NA,25
 France,regional,FR1,Île-de-France,R2F25,access2drm,35-44,NA,25
 France,regional,FR1,Île-de-France,R2F25,access2drm,55-64,NA,11
-France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,18-24,NA,9
+France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,18-24,NA,8
 France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,25-34,NA,19
 France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,35-44,NA,22
-France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,45-54,NA,18
+France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,45-54,NA,17
 France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,55-64,NA,22
 France,regional,FRC,Burgundy-Franche-Comté,R2F25,access2drm,+65,NA,26
 France,regional,FRC,Burgundy-Franche-Comté,R2F25,access2drm,18-24,NA,15
@@ -12254,7 +12259,7 @@ France,regional,FRL,PACA,R2F25,access2drm,25-34,NA,16
 France,regional,FRL,PACA,R2F25,access2drm,35-44,NA,20
 France,regional,FRL,PACA,R2F25,access2drm,45-54,NA,21
 France,regional,FRL,PACA,R2F25,access2drm,55-64,NA,22
-France,regional,FRM,Corsica ,R2F25,access2drm,+65,NA,8
+France,regional,FRM,Corsica ,R2F25,access2drm,+65,NA,7
 France,regional,FRM,Corsica ,R2F25,access2drm,18-24,NA,3
 France,regional,FRM,Corsica ,R2F25,access2drm,25-34,NA,12
 France,regional,FRM,Corsica ,R2F25,access2drm,35-44,NA,5
@@ -12291,10 +12296,10 @@ Germany,regional,DE5,Bremen,R2F25,access2drm,45-54,NA,17
 Germany,regional,DE5,Bremen,R2F25,access2drm,55-64,NA,18
 Germany,regional,DE6,Hamburg,R2F25,access2drm,+65,NA,22
 Germany,regional,DE6,Hamburg,R2F25,access2drm,18-24,NA,13
-Germany,regional,DE6,Hamburg,R2F25,access2drm,35-44,NA,28
+Germany,regional,DE6,Hamburg,R2F25,access2drm,35-44,NA,27
 Germany,regional,DE6,Hamburg,R2F25,access2drm,45-54,NA,27
 Germany,regional,DE6,Hamburg,R2F25,access2drm,55-64,NA,15
-Germany,regional,DE7,Hessen,R2F25,access2drm,+65,NA,16
+Germany,regional,DE7,Hessen,R2F25,access2drm,+65,NA,15
 Germany,regional,DE7,Hessen,R2F25,access2drm,18-24,NA,14
 Germany,regional,DE7,Hessen,R2F25,access2drm,25-34,NA,22
 Germany,regional,DE7,Hessen,R2F25,access2drm,35-44,NA,27
@@ -12332,7 +12337,7 @@ Germany,regional,DED,Saxony,R2F25,access2drm,25-34,NA,17
 Germany,regional,DED,Saxony,R2F25,access2drm,35-44,NA,20
 Germany,regional,DED,Saxony,R2F25,access2drm,45-54,NA,20
 Germany,regional,DED,Saxony,R2F25,access2drm,55-64,NA,18
-Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,+65,NA,28
+Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,+65,NA,27
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,18-24,NA,7
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,25-34,NA,17
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,35-44,NA,21
@@ -12394,7 +12399,7 @@ Italy,regional,ITH,North-East,R2F25,access2drm,25-34,NA,29
 Italy,regional,ITH,North-East,R2F25,access2drm,35-44,NA,25
 Italy,regional,ITI,Centre,R2F25,access2drm,18-24,NA,18
 Italy,regional,ITI,Centre,R2F25,access2drm,25-34,NA,26
-Italy,regional,ITI,Centre,R2F25,access2drm,35-44,NA,24
+Italy,regional,ITI,Centre,R2F25,access2drm,35-44,NA,23
 Latvia,regional,LV00,Latvia,R2F25,access2drm,+65,NA,26
 Latvia,regional,LV00,Latvia,R2F25,access2drm,18-24,NA,9
 Latvia,regional,LV00,Latvia,R2F25,access2drm,25-34,NA,26
@@ -12420,7 +12425,7 @@ Malta,regional,MT00,Malta,R2F25,access2drm,45-54,NA,16
 Malta,regional,MT00,Malta,R2F25,access2drm,55-64,NA,11
 Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,+65,NA,21
 Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,18-24,NA,12
-Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,25-34,NA,25
+Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,25-34,NA,24
 Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,35-44,NA,23
 Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,45-54,NA,26
 Netherlands,regional,NL1,North Netherlands,R2F25,access2drm,55-64,NA,22
@@ -12435,9 +12440,9 @@ Netherlands,regional,NL3,West Netherlands,R2F25,access2drm,25-34,NA,23
 Netherlands,regional,NL3,West Netherlands,R2F25,access2drm,35-44,NA,17
 Netherlands,regional,NL3,West Netherlands,R2F25,access2drm,45-54,NA,20
 Netherlands,regional,NL3,West Netherlands,R2F25,access2drm,55-64,NA,19
-Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,+65,NA,22
+Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,+65,NA,21
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,18-24,NA,12
-Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,25-34,NA,24
+Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,25-34,NA,23
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,35-44,NA,28
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,45-54,NA,26
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,55-64,NA,23
@@ -12521,7 +12526,7 @@ Romania,regional,RO4,Macroregion Four,R2F25,access2drm,25-34,NA,12
 Romania,regional,RO4,Macroregion Four,R2F25,access2drm,35-44,NA,18
 Romania,regional,RO4,Macroregion Four,R2F25,access2drm,45-54,NA,22
 Romania,regional,RO4,Macroregion Four,R2F25,access2drm,55-64,NA,14
-Slovakia,regional,SK01,Bratislava,R2F25,access2drm,+65,NA,11
+Slovakia,regional,SK01,Bratislava,R2F25,access2drm,+65,NA,10
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,18-24,NA,4
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,25-34,NA,21
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,35-44,NA,24
@@ -12529,7 +12534,7 @@ Slovakia,regional,SK01,Bratislava,R2F25,access2drm,45-54,NA,22
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,55-64,NA,14
 Slovakia,regional,SK02,West Slovakia,R2F25,access2drm,+65,NA,24
 Slovakia,regional,SK02,West Slovakia,R2F25,access2drm,18-24,NA,8
-Slovakia,regional,SK02,West Slovakia,R2F25,access2drm,25-34,NA,26
+Slovakia,regional,SK02,West Slovakia,R2F25,access2drm,25-34,NA,25
 Slovakia,regional,SK02,West Slovakia,R2F25,access2drm,55-64,NA,25
 Slovakia,regional,SK03,Central Slovakia,R2F25,access2drm,+65,NA,14
 Slovakia,regional,SK03,Central Slovakia,R2F25,access2drm,18-24,NA,9
@@ -12537,7 +12542,7 @@ Slovakia,regional,SK03,Central Slovakia,R2F25,access2drm,25-34,NA,29
 Slovakia,regional,SK03,Central Slovakia,R2F25,access2drm,45-54,NA,23
 Slovakia,regional,SK03,Central Slovakia,R2F25,access2drm,55-64,NA,23
 Slovakia,regional,SK04,East Slovakia,R2F25,access2drm,+65,NA,12
-Slovakia,regional,SK04,East Slovakia,R2F25,access2drm,18-24,NA,17
+Slovakia,regional,SK04,East Slovakia,R2F25,access2drm,18-24,NA,16
 Slovakia,regional,SK04,East Slovakia,R2F25,access2drm,25-34,NA,28
 Slovakia,regional,SK04,East Slovakia,R2F25,access2drm,45-54,NA,28
 Slovakia,regional,SK04,East Slovakia,R2F25,access2drm,55-64,NA,19
@@ -12549,7 +12554,7 @@ Slovenia,regional,SI04,West Slovenia,R2F25,access2drm,18-24,NA,11
 Slovenia,regional,SI04,West Slovenia,R2F25,access2drm,25-34,NA,27
 Slovenia,regional,SI04,West Slovenia,R2F25,access2drm,45-54,NA,24
 Slovenia,regional,SI04,West Slovenia,R2F25,access2drm,55-64,NA,25
-Spain,regional,ES1,North-West,R2F25,access2drm,+65,NA,22
+Spain,regional,ES1,North-West,R2F25,access2drm,+65,NA,21
 Spain,regional,ES1,North-West,R2F25,access2drm,18-24,NA,13
 Spain,regional,ES1,North-West,R2F25,access2drm,25-34,NA,20
 Spain,regional,ES1,North-West,R2F25,access2drm,35-44,NA,24
@@ -12560,7 +12565,7 @@ Spain,regional,ES2,North-East,R2F25,access2drm,35-44,NA,27
 Spain,regional,ES2,North-East,R2F25,access2drm,55-64,NA,23
 Spain,regional,ES3,Madrid,R2F25,access2drm,18-24,NA,16
 Spain,regional,ES3,Madrid,R2F25,access2drm,55-64,NA,24
-Spain,regional,ES4,Centre,R2F25,access2drm,+65,NA,29
+Spain,regional,ES4,Centre,R2F25,access2drm,+65,NA,28
 Spain,regional,ES4,Centre,R2F25,access2drm,18-24,NA,16
 Spain,regional,ES4,Centre,R2F25,access2drm,25-34,NA,17
 Spain,regional,ES4,Centre,R2F25,access2drm,55-64,NA,24
@@ -12596,7 +12601,7 @@ Bulgaria,regional,BG3,North and South-East,R2F25,access2drm,Male,NA,15
 Czechia,regional,CZ01,Prague,R2F25,access2drm,Female,NA,29
 Czechia,regional,CZ01,Prague,R2F25,access2drm,Male,NA,23
 France,regional,FRM,Corsica ,R2F25,access2drm,Female,NA,27
-France,regional,FRM,Corsica ,R2F25,access2drm,Male,NA,14
+France,regional,FRM,Corsica ,R2F25,access2drm,Male,NA,13
 Greece,regional,EL5,North Greece,R2F25,access2drm,Female,NA,13
 Greece,regional,EL5,North Greece,R2F25,access2drm,Male,NA,7
 Greece,regional,EL6,Central Greece,R2F25,access2drm,Female,NA,19
@@ -12640,7 +12645,7 @@ Croatia,regional,HR02,Pannonian Croatia,R2F25,access2drm,Income Quintile 4,NA,11
 Croatia,regional,HR02,Pannonian Croatia,R2F25,access2drm,Income Quintile 5,NA,26
 Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,Income Quintile 1,NA,13
 Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,Income Quintile 2,NA,16
-Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,Income Quintile 3,NA,8
+Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,Income Quintile 3,NA,7
 Croatia,regional,HR03,Adriatic Croatia,R2F25,access2drm,Income Quintile 4,NA,18
 Croatia,regional,HR05,Zagreb,R2F25,access2drm,Income Quintile 1,NA,15
 Croatia,regional,HR05,Zagreb,R2F25,access2drm,Income Quintile 2,NA,16
@@ -12660,7 +12665,7 @@ Czechia,regional,CZ01,Prague,R2F25,access2drm,Income Quintile 5,NA,14
 Czechia,regional,CZ020304,Western and Central Bohemia,R2F25,access2drm,Income Quintile 1,NA,23
 Czechia,regional,CZ0506,North-East and South-East,R2F25,access2drm,Income Quintile 1,NA,12
 Czechia,regional,CZ0506,North-East and South-East,R2F25,access2drm,Income Quintile 2,NA,25
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,Income Quintile 1,NA,17
+Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,Income Quintile 1,NA,16
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,Income Quintile 2,NA,28
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,Income Quintile 3,NA,23
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F25,access2drm,Income Quintile 4,NA,25
@@ -12711,7 +12716,7 @@ Finland,regional,FI1D,North and East Finland,R2F25,access2drm,Income Quintile 5,
 France,regional,FR1,Île-de-France,R2F25,access2drm,Income Quintile 1,NA,17
 France,regional,FR1,Île-de-France,R2F25,access2drm,Income Quintile 3,NA,25
 France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,Income Quintile 1,NA,19
-France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,Income Quintile 2,NA,23
+France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,Income Quintile 2,NA,22
 France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,Income Quintile 3,NA,22
 France,regional,FRB,Centre-Val de Loire,R2F25,access2drm,Income Quintile 4,NA,23
 France,regional,FRC,Burgundy-Franche-Comté,R2F25,access2drm,Income Quintile 1,NA,25
@@ -12763,7 +12768,7 @@ France,regional,FRM,Corsica ,R2F25,access2drm,Income Quintile 1,NA,6
 France,regional,FRM,Corsica ,R2F25,access2drm,Income Quintile 2,NA,7
 France,regional,FRM,Corsica ,R2F25,access2drm,Income Quintile 3,NA,6
 France,regional,FRM,Corsica ,R2F25,access2drm,Income Quintile 4,NA,12
-France,regional,FRM,Corsica ,R2F25,access2drm,Income Quintile 5,NA,9
+France,regional,FRM,Corsica ,R2F25,access2drm,Income Quintile 5,NA,8
 Germany,regional,DE1,Baden-Württemberg,R2F25,access2drm,Income Quintile 1,NA,22
 Germany,regional,DE1,Baden-Württemberg,R2F25,access2drm,Income Quintile 4,NA,21
 Germany,regional,DE1,Baden-Württemberg,R2F25,access2drm,Income Quintile 5,NA,16
@@ -12788,9 +12793,9 @@ Germany,regional,DE5,Bremen,R2F25,access2drm,Income Quintile 5,NA,9
 Germany,regional,DE6,Hamburg,R2F25,access2drm,Income Quintile 1,NA,22
 Germany,regional,DE6,Hamburg,R2F25,access2drm,Income Quintile 2,NA,23
 Germany,regional,DE6,Hamburg,R2F25,access2drm,Income Quintile 4,NA,24
-Germany,regional,DE6,Hamburg,R2F25,access2drm,Income Quintile 5,NA,29
+Germany,regional,DE6,Hamburg,R2F25,access2drm,Income Quintile 5,NA,28
 Germany,regional,DE7,Hessen,R2F25,access2drm,Income Quintile 1,NA,17
-Germany,regional,DE7,Hessen,R2F25,access2drm,Income Quintile 2,NA,29
+Germany,regional,DE7,Hessen,R2F25,access2drm,Income Quintile 2,NA,28
 Germany,regional,DE7,Hessen,R2F25,access2drm,Income Quintile 3,NA,29
 Germany,regional,DE7,Hessen,R2F25,access2drm,Income Quintile 5,NA,17
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F25,access2drm,Income Quintile 1,NA,26
@@ -12819,7 +12824,7 @@ Germany,regional,DED,Saxony,R2F25,access2drm,Income Quintile 4,NA,25
 Germany,regional,DED,Saxony,R2F25,access2drm,Income Quintile 5,NA,11
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,Income Quintile 1,NA,23
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,Income Quintile 2,NA,24
-Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,Income Quintile 3,NA,27
+Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,Income Quintile 3,NA,26
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,Income Quintile 4,NA,19
 Germany,regional,DEE,Saxony-Anhalt,R2F25,access2drm,Income Quintile 5,NA,19
 Germany,regional,DEF,Schleswig-Holstein,R2F25,access2drm,Income Quintile 1,NA,21
@@ -12860,7 +12865,7 @@ Hungary,regional,HU2,Transdanubia ,R2F25,access2drm,Income Quintile 3,NA,17
 Hungary,regional,HU2,Transdanubia ,R2F25,access2drm,Income Quintile 4,NA,28
 Hungary,regional,HU3,Great Plain and North,R2F25,access2drm,Income Quintile 1,NA,17
 Hungary,regional,HU3,Great Plain and North,R2F25,access2drm,Income Quintile 2,NA,16
-Hungary,regional,HU3,Great Plain and North,R2F25,access2drm,Income Quintile 3,NA,27
+Hungary,regional,HU3,Great Plain and North,R2F25,access2drm,Income Quintile 3,NA,26
 Italy,regional,ITC,North-West,R2F25,access2drm,Income Quintile 1,NA,23
 Italy,regional,ITC,North-West,R2F25,access2drm,Income Quintile 5,NA,29
 Italy,regional,ITF,South,R2F25,access2drm,Income Quintile 5,NA,24
@@ -12896,7 +12901,7 @@ Netherlands,regional,NL3,West Netherlands,R2F25,access2drm,Income Quintile 5,NA,
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,Income Quintile 1,NA,22
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,Income Quintile 3,NA,29
 Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,Income Quintile 4,NA,21
-Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,Income Quintile 5,NA,15
+Netherlands,regional,NL4,South Netherlands,R2F25,access2drm,Income Quintile 5,NA,14
 Poland,regional,PL2,Southern,R2F25,access2drm,Income Quintile 1,NA,12
 Poland,regional,PL2,Southern,R2F25,access2drm,Income Quintile 2,NA,16
 Poland,regional,PL2,Southern,R2F25,access2drm,Income Quintile 3,NA,7
@@ -12962,7 +12967,7 @@ Romania,regional,RO4,Macroregion Four,R2F25,access2drm,Income Quintile 3,NA,15
 Romania,regional,RO4,Macroregion Four,R2F25,access2drm,Income Quintile 4,NA,12
 Romania,regional,RO4,Macroregion Four,R2F25,access2drm,Income Quintile 5,NA,9
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Income Quintile 1,NA,11
-Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Income Quintile 2,NA,23
+Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Income Quintile 2,NA,22
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Income Quintile 3,NA,15
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Income Quintile 4,NA,15
 Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Income Quintile 5,NA,29
@@ -13017,11 +13022,11 @@ Bulgaria,regional,BG3,North and South-East,R2F25,access2drm,Urban,NA,28
 Bulgaria,regional,BG4,South -West/-Central,R2F25,access2drm,Rural,NA,15
 Denmark,regional,DK01,Capital (region),R2F25,access2drm,Rural,NA,5
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F25,access2drm,Rural,NA,14
-Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,Rural,NA,28
+Finland,regional,FI1C20,South Finland and Åland,R2F25,access2drm,Rural,NA,27
 Finland,regional,FI1D,North and East Finland,R2F25,access2drm,Rural,NA,27
 France,regional,FR1,Île-de-France,R2F25,access2drm,Rural,NA,10
 France,regional,FRL,PACA,R2F25,access2drm,Rural,NA,18
-France,regional,FRM,Corsica ,R2F25,access2drm,Rural,NA,13
+France,regional,FRM,Corsica ,R2F25,access2drm,Rural,NA,12
 France,regional,FRM,Corsica ,R2F25,access2drm,Urban,NA,28
 Germany,regional,DE1,Baden-Württemberg,R2F25,access2drm,Rural,NA,15
 Germany,regional,DE2,Bavaria,R2F25,access2drm,Rural,NA,24
@@ -13054,8 +13059,8 @@ Portugal,regional,PT1,Continental Portugal,R2F25,access2drm,Urban,NA,17
 Portugal,regional,PT2,Azores,R2F25,access2drm,Rural,NA,4
 Portugal,regional,PT2,Azores,R2F25,access2drm,Urban,NA,23
 Romania,regional,RO3,Macroregion Three,R2F25,access2drm,Rural,NA,13
-Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Rural,NA,26
-Spain,regional,ES1,North-West,R2F25,access2drm,Rural,NA,17
+Slovakia,regional,SK01,Bratislava,R2F25,access2drm,Rural,NA,25
+Spain,regional,ES1,North-West,R2F25,access2drm,Rural,NA,16
 Spain,regional,ES2,North-East,R2F25,access2drm,Rural,NA,18
 Spain,regional,ES3,Madrid,R2F25,access2drm,Rural,NA,7
 Spain,regional,ES5,East,R2F25,access2drm,Rural,NA,14
@@ -13066,13 +13071,13 @@ Belgium,regional,BE1,Brussels Region,R2F26,rp_time,+65,NA,19
 Belgium,regional,BE1,Brussels Region,R2F26,rp_time,18-24,NA,27
 Belgium,regional,BE1,Brussels Region,R2F26,rp_time,55-64,NA,12
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,+65,NA,26
-Belgium,regional,BE2,Flemish Region,R2F26,rp_time,18-24,NA,21
+Belgium,regional,BE2,Flemish Region,R2F26,rp_time,18-24,NA,20
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,25-34,NA,22
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,35-44,NA,23
-Belgium,regional,BE2,Flemish Region,R2F26,rp_time,45-54,NA,29
+Belgium,regional,BE2,Flemish Region,R2F26,rp_time,45-54,NA,28
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,55-64,NA,27
-Belgium,regional,BE3,Walloon Region,R2F26,rp_time,18-24,NA,24
-Belgium,regional,BE3,Walloon Region,R2F26,rp_time,55-64,NA,27
+Belgium,regional,BE3,Walloon Region,R2F26,rp_time,18-24,NA,23
+Belgium,regional,BE3,Walloon Region,R2F26,rp_time,55-64,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F26,rp_time,+65,NA,16
 Bulgaria,regional,BG3,North and South-East,R2F26,rp_time,18-24,NA,5
 Bulgaria,regional,BG3,North and South-East,R2F26,rp_time,25-34,NA,7
@@ -13096,7 +13101,7 @@ Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,18-24,NA,10
 Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,25-34,NA,17
 Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,35-44,NA,23
 Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,45-54,NA,21
-Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,55-64,NA,28
+Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,55-64,NA,27
 Croatia,regional,HR05,Zagreb,R2F26,rp_time,+65,NA,29
 Croatia,regional,HR05,Zagreb,R2F26,rp_time,18-24,NA,12
 Croatia,regional,HR05,Zagreb,R2F26,rp_time,25-34,NA,23
@@ -13109,7 +13114,7 @@ Croatia,regional,HR06,Northern Croatia,R2F26,rp_time,25-34,NA,25
 Croatia,regional,HR06,Northern Croatia,R2F26,rp_time,35-44,NA,20
 Croatia,regional,HR06,Northern Croatia,R2F26,rp_time,55-64,NA,14
 Cyprus,regional,CY0,Cyprus,R2F26,rp_time,+65,NA,23
-Cyprus,regional,CY0,Cyprus,R2F26,rp_time,18-24,NA,28
+Cyprus,regional,CY0,Cyprus,R2F26,rp_time,18-24,NA,27
 Czechia,regional,CZ01,Prague,R2F26,rp_time,+65,NA,11
 Czechia,regional,CZ01,Prague,R2F26,rp_time,18-24,NA,3
 Czechia,regional,CZ01,Prague,R2F26,rp_time,25-34,NA,10
@@ -13132,7 +13137,7 @@ Denmark,regional,DK01,Capital (region),R2F26,rp_time,18-24,NA,22
 Denmark,regional,DK01,Capital (region),R2F26,rp_time,35-44,NA,25
 Denmark,regional,DK01,Capital (region),R2F26,rp_time,45-54,NA,19
 Denmark,regional,DK01,Capital (region),R2F26,rp_time,55-64,NA,13
-Denmark,regional,DK02,Zealand,R2F26,rp_time,+65,NA,20
+Denmark,regional,DK02,Zealand,R2F26,rp_time,+65,NA,19
 Denmark,regional,DK02,Zealand,R2F26,rp_time,18-24,NA,13
 Denmark,regional,DK02,Zealand,R2F26,rp_time,25-34,NA,29
 Denmark,regional,DK02,Zealand,R2F26,rp_time,35-44,NA,22
@@ -13176,10 +13181,11 @@ France,regional,FR1,Île-de-France,R2F26,rp_time,25-34,NA,27
 France,regional,FR1,Île-de-France,R2F26,rp_time,35-44,NA,25
 France,regional,FR1,Île-de-France,R2F26,rp_time,45-54,NA,22
 France,regional,FR1,Île-de-France,R2F26,rp_time,55-64,NA,22
+France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,+65,NA,29
 France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,18-24,NA,19
 France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,25-34,NA,26
 France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,35-44,NA,27
-France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,45-54,NA,21
+France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,45-54,NA,20
 France,regional,FRB,Centre-Val de Loire,R2F26,rp_time,55-64,NA,27
 France,regional,FRC,Burgundy-Franche-Comté,R2F26,rp_time,18-24,NA,15
 France,regional,FRC,Burgundy-Franche-Comté,R2F26,rp_time,25-34,NA,23
@@ -13199,6 +13205,7 @@ France,regional,FRE,Hauts-de-France,R2F26,rp_time,55-64,NA,20
 France,regional,FRF,Grand Est,R2F26,rp_time,18-24,NA,17
 France,regional,FRF,Grand Est,R2F26,rp_time,25-34,NA,22
 France,regional,FRF,Grand Est,R2F26,rp_time,35-44,NA,25
+France,regional,FRF,Grand Est,R2F26,rp_time,45-54,NA,29
 France,regional,FRF,Grand Est,R2F26,rp_time,55-64,NA,22
 France,regional,FRG,Loire Region,R2F26,rp_time,18-24,NA,24
 France,regional,FRG,Loire Region,R2F26,rp_time,25-34,NA,18
@@ -13211,7 +13218,7 @@ France,regional,FRH,Brittany ,R2F26,rp_time,55-64,NA,29
 France,regional,FRI,New Aquitaine,R2F26,rp_time,18-24,NA,19
 France,regional,FRI,New Aquitaine,R2F26,rp_time,25-34,NA,19
 France,regional,FRI,New Aquitaine,R2F26,rp_time,35-44,NA,20
-France,regional,FRJ,Occitania,R2F26,rp_time,+65,NA,29
+France,regional,FRJ,Occitania,R2F26,rp_time,+65,NA,28
 France,regional,FRJ,Occitania,R2F26,rp_time,18-24,NA,14
 France,regional,FRJ,Occitania,R2F26,rp_time,25-34,NA,23
 France,regional,FRJ,Occitania,R2F26,rp_time,35-44,NA,29
@@ -13220,6 +13227,7 @@ France,regional,FRK,Auvergne-Rhône-Alpes,R2F26,rp_time,+65,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F26,rp_time,18-24,NA,19
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F26,rp_time,25-34,NA,17
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F26,rp_time,35-44,NA,28
+France,regional,FRK,Auvergne-Rhône-Alpes,R2F26,rp_time,45-54,NA,29
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F26,rp_time,55-64,NA,26
 France,regional,FRL,PACA,R2F26,rp_time,18-24,NA,15
 France,regional,FRL,PACA,R2F26,rp_time,25-34,NA,20
@@ -13257,11 +13265,11 @@ Germany,regional,DE9,Lower Saxony,R2F26,rp_time,35-44,NA,25
 Germany,regional,DE9,Lower Saxony,R2F26,rp_time,45-54,NA,28
 Germany,regional,DEA,North Rhine-Westphalia,R2F26,rp_time,18-24,NA,23
 Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,18-24,NA,20
-Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,25-34,NA,21
+Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,25-34,NA,20
 Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,35-44,NA,26
-Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,45-54,NA,29
-Germany,regional,DEC,Saarland,R2F26,rp_time,+65,NA,28
-Germany,regional,DEC,Saarland,R2F26,rp_time,18-24,NA,22
+Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,45-54,NA,28
+Germany,regional,DEC,Saarland,R2F26,rp_time,+65,NA,27
+Germany,regional,DEC,Saarland,R2F26,rp_time,18-24,NA,21
 Germany,regional,DED,Saxony,R2F26,rp_time,18-24,NA,19
 Germany,regional,DED,Saxony,R2F26,rp_time,35-44,NA,27
 Germany,regional,DED,Saxony,R2F26,rp_time,45-54,NA,29
@@ -13292,14 +13300,14 @@ Greece,regional,EL6,Central Greece,R2F26,rp_time,45-54,NA,17
 Hungary,regional,HU1,Central Hungary,R2F26,rp_time,18-24,NA,19
 Hungary,regional,HU2,Transdanubia ,R2F26,rp_time,18-24,NA,13
 Hungary,regional,HU3,Great Plain and North,R2F26,rp_time,18-24,NA,23
-Italy,regional,ITC,North-West,R2F26,rp_time,18-24,NA,19
+Italy,regional,ITC,North-West,R2F26,rp_time,18-24,NA,18
 Italy,regional,ITF,South,R2F26,rp_time,18-24,NA,29
 Italy,regional,ITH,North-East,R2F26,rp_time,18-24,NA,22
 Italy,regional,ITI,Centre,R2F26,rp_time,18-24,NA,26
 Latvia,regional,LV00,Latvia,R2F26,rp_time,18-24,NA,21
 Lithuania,regional,LT01,Capital Region,R2F26,rp_time,18-24,NA,21
 Lithuania,regional,LT02,Central/Western Region,R2F26,rp_time,18-24,NA,17
-Luxembourg,regional,LU00,Luxembourg,R2F26,rp_time,+65,NA,26
+Luxembourg,regional,LU00,Luxembourg,R2F26,rp_time,+65,NA,25
 Luxembourg,regional,LU00,Luxembourg,R2F26,rp_time,18-24,NA,19
 Luxembourg,regional,LU00,Luxembourg,R2F26,rp_time,45-54,NA,26
 Luxembourg,regional,LU00,Luxembourg,R2F26,rp_time,55-64,NA,26
@@ -13367,8 +13375,8 @@ Portugal,regional,PT3,Madeira,R2F26,rp_time,55-64,NA,23
 Romania,regional,RO1,Macroregion One,R2F26,rp_time,18-24,NA,15
 Romania,regional,RO1,Macroregion One,R2F26,rp_time,25-34,NA,22
 Romania,regional,RO1,Macroregion One,R2F26,rp_time,35-44,NA,21
-Romania,regional,RO1,Macroregion One,R2F26,rp_time,45-54,NA,26
-Romania,regional,RO1,Macroregion One,R2F26,rp_time,55-64,NA,22
+Romania,regional,RO1,Macroregion One,R2F26,rp_time,45-54,NA,25
+Romania,regional,RO1,Macroregion One,R2F26,rp_time,55-64,NA,21
 Romania,regional,RO2,Macroregion Two,R2F26,rp_time,18-24,NA,12
 Romania,regional,RO2,Macroregion Two,R2F26,rp_time,25-34,NA,18
 Romania,regional,RO2,Macroregion Two,R2F26,rp_time,35-44,NA,22
@@ -13397,7 +13405,7 @@ Slovakia,regional,SK03,Central Slovakia,R2F26,rp_time,+65,NA,18
 Slovakia,regional,SK03,Central Slovakia,R2F26,rp_time,18-24,NA,18
 Slovakia,regional,SK03,Central Slovakia,R2F26,rp_time,55-64,NA,24
 Slovakia,regional,SK04,East Slovakia,R2F26,rp_time,+65,NA,10
-Slovakia,regional,SK04,East Slovakia,R2F26,rp_time,18-24,NA,11
+Slovakia,regional,SK04,East Slovakia,R2F26,rp_time,18-24,NA,9
 Slovakia,regional,SK04,East Slovakia,R2F26,rp_time,55-64,NA,25
 Slovenia,regional,SI03,East Slovenia,R2F26,rp_time,18-24,NA,19
 Slovenia,regional,SI03,East Slovenia,R2F26,rp_time,25-34,NA,29
@@ -13451,7 +13459,7 @@ Belgium,regional,BE1,Brussels Region,R2F26,rp_time,Income Quintile 5,NA,26
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,Income Quintile 1,NA,25
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,Income Quintile 2,NA,28
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,Income Quintile 3,NA,24
-Belgium,regional,BE2,Flemish Region,R2F26,rp_time,Income Quintile 4,NA,26
+Belgium,regional,BE2,Flemish Region,R2F26,rp_time,Income Quintile 4,NA,25
 Belgium,regional,BE2,Flemish Region,R2F26,rp_time,Income Quintile 5,NA,24
 Belgium,regional,BE3,Walloon Region,R2F26,rp_time,Income Quintile 5,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F26,rp_time,Income Quintile 1,NA,8
@@ -13469,7 +13477,7 @@ Croatia,regional,HR02,Pannonian Croatia,R2F26,rp_time,Income Quintile 3,NA,9
 Croatia,regional,HR02,Pannonian Croatia,R2F26,rp_time,Income Quintile 4,NA,19
 Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,Income Quintile 1,NA,9
 Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,Income Quintile 2,NA,12
-Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,Income Quintile 3,NA,8
+Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,Income Quintile 3,NA,7
 Croatia,regional,HR03,Adriatic Croatia,R2F26,rp_time,Income Quintile 4,NA,20
 Croatia,regional,HR05,Zagreb,R2F26,rp_time,Income Quintile 1,NA,15
 Croatia,regional,HR05,Zagreb,R2F26,rp_time,Income Quintile 2,NA,17
@@ -13496,7 +13504,7 @@ Denmark,regional,DK01,Capital (region),R2F26,rp_time,Income Quintile 1,NA,18
 Denmark,regional,DK01,Capital (region),R2F26,rp_time,Income Quintile 2,NA,23
 Denmark,regional,DK01,Capital (region),R2F26,rp_time,Income Quintile 5,NA,14
 Denmark,regional,DK02,Zealand,R2F26,rp_time,Income Quintile 1,NA,24
-Denmark,regional,DK02,Zealand,R2F26,rp_time,Income Quintile 2,NA,20
+Denmark,regional,DK02,Zealand,R2F26,rp_time,Income Quintile 2,NA,19
 Denmark,regional,DK02,Zealand,R2F26,rp_time,Income Quintile 4,NA,28
 Denmark,regional,DK02,Zealand,R2F26,rp_time,Income Quintile 5,NA,15
 Denmark,regional,DK03,South Denmark,R2F26,rp_time,Income Quintile 1,NA,13
@@ -13572,15 +13580,15 @@ Germany,regional,DE7,Hessen,R2F26,rp_time,Income Quintile 1,NA,25
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F26,rp_time,Income Quintile 1,NA,29
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F26,rp_time,Income Quintile 5,NA,22
 Germany,regional,DE9,Lower Saxony,R2F26,rp_time,Income Quintile 4,NA,20
-Germany,regional,DE9,Lower Saxony,R2F26,rp_time,Income Quintile 5,NA,27
-Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,Income Quintile 1,NA,25
+Germany,regional,DE9,Lower Saxony,R2F26,rp_time,Income Quintile 5,NA,26
+Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,Income Quintile 1,NA,24
 Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,Income Quintile 4,NA,28
 Germany,regional,DEB,Rhineland-Palatinate,R2F26,rp_time,Income Quintile 5,NA,26
 Germany,regional,DEC,Saarland,R2F26,rp_time,Income Quintile 1,NA,26
 Germany,regional,DEC,Saarland,R2F26,rp_time,Income Quintile 5,NA,27
 Germany,regional,DED,Saxony,R2F26,rp_time,Income Quintile 5,NA,19
 Germany,regional,DEE,Saxony-Anhalt,R2F26,rp_time,Income Quintile 5,NA,19
-Germany,regional,DEG,Thuringia,R2F26,rp_time,Income Quintile 4,NA,29
+Germany,regional,DEG,Thuringia,R2F26,rp_time,Income Quintile 4,NA,28
 Germany,regional,DEG,Thuringia,R2F26,rp_time,Income Quintile 5,NA,23
 Greece,regional,EL3,Attica,R2F26,rp_time,Income Quintile 1,NA,20
 Greece,regional,EL3,Attica,R2F26,rp_time,Income Quintile 4,NA,26
@@ -13607,7 +13615,7 @@ Hungary,regional,HU2,Transdanubia ,R2F26,rp_time,Income Quintile 1,NA,15
 Hungary,regional,HU2,Transdanubia ,R2F26,rp_time,Income Quintile 2,NA,9
 Hungary,regional,HU2,Transdanubia ,R2F26,rp_time,Income Quintile 3,NA,25
 Hungary,regional,HU3,Great Plain and North,R2F26,rp_time,Income Quintile 1,NA,21
-Hungary,regional,HU3,Great Plain and North,R2F26,rp_time,Income Quintile 3,NA,29
+Hungary,regional,HU3,Great Plain and North,R2F26,rp_time,Income Quintile 3,NA,28
 Italy,regional,ITC,North-West,R2F26,rp_time,Income Quintile 1,NA,23
 Italy,regional,ITH,North-East,R2F26,rp_time,Income Quintile 1,NA,19
 Italy,regional,ITI,Centre,R2F26,rp_time,Income Quintile 1,NA,25
@@ -13663,7 +13671,7 @@ Portugal,regional,PT3,Madeira,R2F26,rp_time,Income Quintile 3,NA,19
 Portugal,regional,PT3,Madeira,R2F26,rp_time,Income Quintile 4,NA,25
 Portugal,regional,PT3,Madeira,R2F26,rp_time,Income Quintile 5,NA,17
 Romania,regional,RO1,Macroregion One,R2F26,rp_time,Income Quintile 1,NA,17
-Romania,regional,RO1,Macroregion One,R2F26,rp_time,Income Quintile 2,NA,23
+Romania,regional,RO1,Macroregion One,R2F26,rp_time,Income Quintile 2,NA,22
 Romania,regional,RO1,Macroregion One,R2F26,rp_time,Income Quintile 4,NA,20
 Romania,regional,RO1,Macroregion One,R2F26,rp_time,Income Quintile 5,NA,5
 Romania,regional,RO2,Macroregion Two,R2F26,rp_time,Income Quintile 1,NA,17
@@ -13727,7 +13735,7 @@ Germany,regional,DEA,North Rhine-Westphalia,R2F26,rp_time,Rural,NA,9
 Germany,regional,DEC,Saarland,R2F26,rp_time,Rural,NA,21
 Greece,regional,EL5,North Greece,R2F26,rp_time,Rural,NA,23
 Hungary,regional,HU1,Central Hungary,R2F26,rp_time,Rural,NA,26
-Italy,regional,ITC,North-West,R2F26,rp_time,Rural,NA,24
+Italy,regional,ITC,North-West,R2F26,rp_time,Rural,NA,23
 Italy,regional,ITG,Islands,R2F26,rp_time,Rural,NA,20
 Malta,regional,MT00,Malta,R2F26,rp_time,Rural,NA,10
 Netherlands,regional,NL2,East Netherlands,R2F26,rp_time,Rural,NA,6
@@ -13738,7 +13746,7 @@ Portugal,regional,PT1,Continental Portugal,R2F26,rp_time,Rural,NA,13
 Portugal,regional,PT2,Azores,R2F26,rp_time,Rural,NA,4
 Romania,regional,RO3,Macroregion Three,R2F26,rp_time,Rural,NA,13
 Slovakia,regional,SK01,Bratislava,R2F26,rp_time,Rural,NA,28
-Spain,regional,ES1,North-West,R2F26,rp_time,Rural,NA,22
+Spain,regional,ES1,North-West,R2F26,rp_time,Rural,NA,21
 Spain,regional,ES2,North-East,R2F26,rp_time,Rural,NA,17
 Spain,regional,ES3,Madrid,R2F26,rp_time,Rural,NA,5
 Spain,regional,ES5,East,R2F26,rp_time,Rural,NA,21
@@ -13750,18 +13758,18 @@ Belgium,regional,BE1,Brussels Region,R2F27,rp_cost,18-24,NA,27
 Belgium,regional,BE1,Brussels Region,R2F27,rp_cost,45-54,NA,29
 Belgium,regional,BE1,Brussels Region,R2F27,rp_cost,55-64,NA,12
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,+65,NA,26
-Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,18-24,NA,18
+Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,18-24,NA,17
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,25-34,NA,20
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,35-44,NA,23
-Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,45-54,NA,29
+Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,45-54,NA,28
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,55-64,NA,27
-Belgium,regional,BE3,Walloon Region,R2F27,rp_cost,18-24,NA,23
-Belgium,regional,BE3,Walloon Region,R2F27,rp_cost,55-64,NA,26
+Belgium,regional,BE3,Walloon Region,R2F27,rp_cost,18-24,NA,22
+Belgium,regional,BE3,Walloon Region,R2F27,rp_cost,55-64,NA,25
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,+65,NA,18
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,18-24,NA,6
-Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,25-34,NA,9
+Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,25-34,NA,8
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,35-44,NA,16
-Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,45-54,NA,14
+Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,45-54,NA,13
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,55-64,NA,12
 Bulgaria,regional,BG4,South -West/-Central,R2F27,rp_cost,+65,NA,25
 Bulgaria,regional,BG4,South -West/-Central,R2F27,rp_cost,18-24,NA,18
@@ -13789,7 +13797,7 @@ Croatia,regional,HR06,Northern Croatia,R2F27,rp_cost,25-34,NA,24
 Croatia,regional,HR06,Northern Croatia,R2F27,rp_cost,35-44,NA,21
 Croatia,regional,HR06,Northern Croatia,R2F27,rp_cost,55-64,NA,20
 Cyprus,regional,CY0,Cyprus,R2F27,rp_cost,+65,NA,23
-Cyprus,regional,CY0,Cyprus,R2F27,rp_cost,18-24,NA,28
+Cyprus,regional,CY0,Cyprus,R2F27,rp_cost,18-24,NA,27
 Cyprus,regional,CY0,Cyprus,R2F27,rp_cost,55-64,NA,29
 Czechia,regional,CZ01,Prague,R2F27,rp_cost,+65,NA,16
 Czechia,regional,CZ01,Prague,R2F27,rp_cost,18-24,NA,5
@@ -13800,7 +13808,7 @@ Czechia,regional,CZ01,Prague,R2F27,rp_cost,55-64,NA,12
 Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,+65,NA,27
 Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,18-24,NA,20
 Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,45-54,NA,29
-Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,55-64,NA,28
+Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,55-64,NA,27
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F27,rp_cost,18-24,NA,20
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F27,rp_cost,55-64,NA,27
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,+65,NA,19
@@ -13809,7 +13817,7 @@ Denmark,regional,DK01,Capital (region),R2F27,rp_cost,25-34,NA,29
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,35-44,NA,25
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,45-54,NA,19
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,55-64,NA,12
-Denmark,regional,DK02,Zealand,R2F27,rp_cost,+65,NA,19
+Denmark,regional,DK02,Zealand,R2F27,rp_cost,+65,NA,18
 Denmark,regional,DK02,Zealand,R2F27,rp_cost,18-24,NA,8
 Denmark,regional,DK02,Zealand,R2F27,rp_cost,25-34,NA,28
 Denmark,regional,DK02,Zealand,R2F27,rp_cost,35-44,NA,20
@@ -13836,9 +13844,9 @@ Finland,regional,FI19,West Finland,R2F27,rp_cost,+65,NA,29
 Finland,regional,FI19,West Finland,R2F27,rp_cost,18-24,NA,16
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,+65,NA,29
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,18-24,NA,16
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,45-54,NA,26
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,45-54,NA,25
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,55-64,NA,24
-Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,+65,NA,29
+Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,+65,NA,28
 Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,18-24,NA,21
 Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,35-44,NA,29
 Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,55-64,NA,26
@@ -13852,7 +13860,7 @@ France,regional,FR1,Île-de-France,R2F27,rp_cost,45-54,NA,27
 France,regional,FR1,Île-de-France,R2F27,rp_cost,55-64,NA,27
 France,regional,FRB,Centre-Val de Loire,R2F27,rp_cost,18-24,NA,23
 France,regional,FRB,Centre-Val de Loire,R2F27,rp_cost,25-34,NA,29
-France,regional,FRB,Centre-Val de Loire,R2F27,rp_cost,45-54,NA,22
+France,regional,FRB,Centre-Val de Loire,R2F27,rp_cost,45-54,NA,21
 France,regional,FRC,Burgundy-Franche-Comté,R2F27,rp_cost,18-24,NA,21
 France,regional,FRC,Burgundy-Franche-Comté,R2F27,rp_cost,35-44,NA,29
 France,regional,FRC,Burgundy-Franche-Comté,R2F27,rp_cost,55-64,NA,19
@@ -13877,7 +13885,7 @@ France,regional,FRI,New Aquitaine,R2F27,rp_cost,18-24,NA,21
 France,regional,FRI,New Aquitaine,R2F27,rp_cost,25-34,NA,22
 France,regional,FRI,New Aquitaine,R2F27,rp_cost,35-44,NA,24
 France,regional,FRJ,Occitania,R2F27,rp_cost,18-24,NA,16
-France,regional,FRJ,Occitania,R2F27,rp_cost,25-34,NA,26
+France,regional,FRJ,Occitania,R2F27,rp_cost,25-34,NA,25
 France,regional,FRJ,Occitania,R2F27,rp_cost,55-64,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F27,rp_cost,18-24,NA,21
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F27,rp_cost,25-34,NA,23
@@ -13916,15 +13924,15 @@ Germany,regional,DE8,Mecklenburg-Vorpommern,R2F27,rp_cost,45-54,NA,27
 Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,18-24,NA,18
 Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,35-44,NA,24
 Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,45-54,NA,27
-Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,55-64,NA,29
+Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,55-64,NA,28
 Germany,regional,DEA,North Rhine-Westphalia,R2F27,rp_cost,18-24,NA,21
 Germany,regional,DEA,North Rhine-Westphalia,R2F27,rp_cost,35-44,NA,29
 Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,18-24,NA,18
-Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,25-34,NA,20
+Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,25-34,NA,19
 Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,35-44,NA,24
-Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,45-54,NA,28
-Germany,regional,DEC,Saarland,R2F27,rp_cost,+65,NA,28
-Germany,regional,DEC,Saarland,R2F27,rp_cost,18-24,NA,22
+Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,45-54,NA,27
+Germany,regional,DEC,Saarland,R2F27,rp_cost,+65,NA,27
+Germany,regional,DEC,Saarland,R2F27,rp_cost,18-24,NA,21
 Germany,regional,DED,Saxony,R2F27,rp_cost,18-24,NA,18
 Germany,regional,DED,Saxony,R2F27,rp_cost,35-44,NA,26
 Germany,regional,DED,Saxony,R2F27,rp_cost,45-54,NA,29
@@ -13934,6 +13942,7 @@ Germany,regional,DEE,Saxony-Anhalt,R2F27,rp_cost,35-44,NA,28
 Germany,regional,DEF,Schleswig-Holstein,R2F27,rp_cost,18-24,NA,23
 Germany,regional,DEF,Schleswig-Holstein,R2F27,rp_cost,35-44,NA,28
 Germany,regional,DEG,Thuringia,R2F27,rp_cost,18-24,NA,16
+Germany,regional,DEG,Thuringia,R2F27,rp_cost,25-34,NA,29
 Germany,regional,DEG,Thuringia,R2F27,rp_cost,35-44,NA,29
 Germany,regional,DEG,Thuringia,R2F27,rp_cost,45-54,NA,27
 Greece,regional,EL3,Attica,R2F27,rp_cost,+65,NA,16
@@ -13958,7 +13967,7 @@ Greece,regional,EL6,Central Greece,R2F27,rp_cost,45-54,NA,17
 Hungary,regional,HU1,Central Hungary,R2F27,rp_cost,18-24,NA,14
 Hungary,regional,HU2,Transdanubia ,R2F27,rp_cost,18-24,NA,15
 Hungary,regional,HU3,Great Plain and North,R2F27,rp_cost,18-24,NA,21
-Italy,regional,ITC,North-West,R2F27,rp_cost,18-24,NA,18
+Italy,regional,ITC,North-West,R2F27,rp_cost,18-24,NA,17
 Italy,regional,ITF,South,R2F27,rp_cost,18-24,NA,25
 Italy,regional,ITG,Islands,R2F27,rp_cost,18-24,NA,28
 Italy,regional,ITH,North-East,R2F27,rp_cost,18-24,NA,20
@@ -14037,8 +14046,8 @@ Portugal,regional,PT3,Madeira,R2F27,rp_cost,55-64,NA,20
 Romania,regional,RO1,Macroregion One,R2F27,rp_cost,18-24,NA,15
 Romania,regional,RO1,Macroregion One,R2F27,rp_cost,25-34,NA,21
 Romania,regional,RO1,Macroregion One,R2F27,rp_cost,35-44,NA,21
-Romania,regional,RO1,Macroregion One,R2F27,rp_cost,45-54,NA,24
-Romania,regional,RO1,Macroregion One,R2F27,rp_cost,55-64,NA,22
+Romania,regional,RO1,Macroregion One,R2F27,rp_cost,45-54,NA,23
+Romania,regional,RO1,Macroregion One,R2F27,rp_cost,55-64,NA,21
 Romania,regional,RO2,Macroregion Two,R2F27,rp_cost,18-24,NA,11
 Romania,regional,RO2,Macroregion Two,R2F27,rp_cost,25-34,NA,18
 Romania,regional,RO2,Macroregion Two,R2F27,rp_cost,35-44,NA,22
@@ -14056,7 +14065,7 @@ Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,25-34,NA,16
 Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,35-44,NA,24
 Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,45-54,NA,26
 Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,55-64,NA,15
-Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,+65,NA,29
+Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,+65,NA,28
 Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,18-24,NA,4
 Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,45-54,NA,25
 Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,55-64,NA,14
@@ -14066,7 +14075,7 @@ Slovakia,regional,SK03,Central Slovakia,R2F27,rp_cost,+65,NA,24
 Slovakia,regional,SK03,Central Slovakia,R2F27,rp_cost,18-24,NA,21
 Slovakia,regional,SK03,Central Slovakia,R2F27,rp_cost,55-64,NA,29
 Slovakia,regional,SK04,East Slovakia,R2F27,rp_cost,+65,NA,18
-Slovakia,regional,SK04,East Slovakia,R2F27,rp_cost,18-24,NA,11
+Slovakia,regional,SK04,East Slovakia,R2F27,rp_cost,18-24,NA,10
 Slovenia,regional,SI03,East Slovenia,R2F27,rp_cost,18-24,NA,19
 Slovenia,regional,SI04,West Slovenia,R2F27,rp_cost,18-24,NA,19
 Spain,regional,ES1,North-West,R2F27,rp_cost,18-24,NA,21
@@ -14079,6 +14088,7 @@ Spain,regional,ES4,Centre,R2F27,rp_cost,55-64,NA,29
 Spain,regional,ES5,East,R2F27,rp_cost,+65,NA,29
 Spain,regional,ES5,East,R2F27,rp_cost,18-24,NA,24
 Spain,regional,ES5,East,R2F27,rp_cost,55-64,NA,25
+Spain,regional,ES6,South,R2F27,rp_cost,+65,NA,29
 Spain,regional,ES6,South,R2F27,rp_cost,18-24,NA,26
 Spain,regional,ES6,South,R2F27,rp_cost,55-64,NA,23
 Spain,regional,ES7,Canary Islands,R2F27,rp_cost,+65,NA,18
@@ -14108,13 +14118,13 @@ Belgium,regional,BE1,Brussels Region,R2F27,rp_cost,Income Quintile 5,NA,26
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Income Quintile 1,NA,25
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Income Quintile 2,NA,28
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Income Quintile 3,NA,21
-Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Income Quintile 4,NA,26
+Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Income Quintile 4,NA,25
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Income Quintile 5,NA,24
 Belgium,regional,BE3,Walloon Region,R2F27,rp_cost,Income Quintile 3,NA,27
 Belgium,regional,BE3,Walloon Region,R2F27,rp_cost,Income Quintile 5,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Income Quintile 1,NA,10
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Income Quintile 2,NA,11
-Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Income Quintile 3,NA,12
+Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Income Quintile 3,NA,10
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Income Quintile 4,NA,15
 Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Income Quintile 5,NA,27
 Bulgaria,regional,BG4,South -West/-Central,R2F27,rp_cost,Income Quintile 1,NA,14
@@ -14144,7 +14154,7 @@ Czechia,regional,CZ01,Prague,R2F27,rp_cost,Income Quintile 4,NA,23
 Czechia,regional,CZ01,Prague,R2F27,rp_cost,Income Quintile 5,NA,26
 Czechia,regional,CZ020304,Western and Central Bohemia,R2F27,rp_cost,Income Quintile 1,NA,25
 Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,Income Quintile 1,NA,16
-Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,Income Quintile 2,NA,25
+Czechia,regional,CZ0506,North-East and South-East,R2F27,rp_cost,Income Quintile 2,NA,24
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F27,rp_cost,Income Quintile 1,NA,24
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F27,rp_cost,Income Quintile 2,NA,29
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,Income Quintile 1,NA,17
@@ -14152,7 +14162,7 @@ Denmark,regional,DK01,Capital (region),R2F27,rp_cost,Income Quintile 2,NA,21
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,Income Quintile 4,NA,29
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,Income Quintile 5,NA,14
 Denmark,regional,DK02,Zealand,R2F27,rp_cost,Income Quintile 1,NA,21
-Denmark,regional,DK02,Zealand,R2F27,rp_cost,Income Quintile 2,NA,15
+Denmark,regional,DK02,Zealand,R2F27,rp_cost,Income Quintile 2,NA,14
 Denmark,regional,DK02,Zealand,R2F27,rp_cost,Income Quintile 4,NA,26
 Denmark,regional,DK02,Zealand,R2F27,rp_cost,Income Quintile 5,NA,14
 Denmark,regional,DK03,South Denmark,R2F27,rp_cost,Income Quintile 1,NA,12
@@ -14171,7 +14181,7 @@ Estonia,regional,EE0,Estonia,R2F27,rp_cost,Income Quintile 1,NA,14
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,Income Quintile 1,NA,18
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,Income Quintile 2,NA,22
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,Income Quintile 5,NA,25
-Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,Income Quintile 2,NA,25
+Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,Income Quintile 2,NA,24
 Finland,regional,FI1D,North and East Finland,R2F27,rp_cost,Income Quintile 1,NA,25
 Finland,regional,FI1D,North and East Finland,R2F27,rp_cost,Income Quintile 2,NA,29
 Finland,regional,FI1D,North and East Finland,R2F27,rp_cost,Income Quintile 3,NA,28
@@ -14185,13 +14195,13 @@ France,regional,FRE,Hauts-de-France,R2F27,rp_cost,Income Quintile 1,NA,23
 France,regional,FRE,Hauts-de-France,R2F27,rp_cost,Income Quintile 3,NA,28
 France,regional,FRE,Hauts-de-France,R2F27,rp_cost,Income Quintile 4,NA,25
 France,regional,FRF,Grand Est,R2F27,rp_cost,Income Quintile 3,NA,29
-France,regional,FRF,Grand Est,R2F27,rp_cost,Income Quintile 4,NA,28
+France,regional,FRF,Grand Est,R2F27,rp_cost,Income Quintile 4,NA,27
 France,regional,FRG,Loire Region,R2F27,rp_cost,Income Quintile 1,NA,25
 France,regional,FRG,Loire Region,R2F27,rp_cost,Income Quintile 2,NA,27
 France,regional,FRI,New Aquitaine,R2F27,rp_cost,Income Quintile 2,NA,27
 France,regional,FRJ,Occitania,R2F27,rp_cost,Income Quintile 4,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F27,rp_cost,Income Quintile 1,NA,23
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F27,rp_cost,Income Quintile 2,NA,29
+France,regional,FRK,Auvergne-Rhône-Alpes,R2F27,rp_cost,Income Quintile 2,NA,28
 France,regional,FRL,PACA,R2F27,rp_cost,Income Quintile 1,NA,27
 France,regional,FRM,Corsica ,R2F27,rp_cost,Income Quintile 1,NA,6
 France,regional,FRM,Corsica ,R2F27,rp_cost,Income Quintile 2,NA,13
@@ -14199,7 +14209,7 @@ France,regional,FRM,Corsica ,R2F27,rp_cost,Income Quintile 3,NA,14
 France,regional,FRM,Corsica ,R2F27,rp_cost,Income Quintile 4,NA,12
 France,regional,FRM,Corsica ,R2F27,rp_cost,Income Quintile 5,NA,10
 Germany,regional,DE1,Baden-Württemberg,R2F27,rp_cost,Income Quintile 1,NA,28
-Germany,regional,DE1,Baden-Württemberg,R2F27,rp_cost,Income Quintile 4,NA,28
+Germany,regional,DE1,Baden-Württemberg,R2F27,rp_cost,Income Quintile 4,NA,27
 Germany,regional,DE1,Baden-Württemberg,R2F27,rp_cost,Income Quintile 5,NA,24
 Germany,regional,DE2,Bavaria,R2F27,rp_cost,Income Quintile 5,NA,29
 Germany,regional,DE4,Brandenburg,R2F27,rp_cost,Income Quintile 1,NA,22
@@ -14214,15 +14224,15 @@ Germany,regional,DE7,Hessen,R2F27,rp_cost,Income Quintile 1,NA,25
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F27,rp_cost,Income Quintile 1,NA,28
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F27,rp_cost,Income Quintile 5,NA,19
 Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,Income Quintile 4,NA,19
-Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,Income Quintile 5,NA,25
-Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,Income Quintile 1,NA,23
+Germany,regional,DE9,Lower Saxony,R2F27,rp_cost,Income Quintile 5,NA,24
+Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,Income Quintile 1,NA,22
 Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,Income Quintile 4,NA,26
 Germany,regional,DEB,Rhineland-Palatinate,R2F27,rp_cost,Income Quintile 5,NA,26
 Germany,regional,DEC,Saarland,R2F27,rp_cost,Income Quintile 1,NA,24
 Germany,regional,DEC,Saarland,R2F27,rp_cost,Income Quintile 5,NA,27
 Germany,regional,DED,Saxony,R2F27,rp_cost,Income Quintile 5,NA,18
 Germany,regional,DEE,Saxony-Anhalt,R2F27,rp_cost,Income Quintile 5,NA,18
-Germany,regional,DEG,Thuringia,R2F27,rp_cost,Income Quintile 4,NA,28
+Germany,regional,DEG,Thuringia,R2F27,rp_cost,Income Quintile 4,NA,27
 Germany,regional,DEG,Thuringia,R2F27,rp_cost,Income Quintile 5,NA,23
 Greece,regional,EL3,Attica,R2F27,rp_cost,Income Quintile 1,NA,20
 Greece,regional,EL3,Attica,R2F27,rp_cost,Income Quintile 4,NA,26
@@ -14307,7 +14317,7 @@ Portugal,regional,PT3,Madeira,R2F27,rp_cost,Income Quintile 3,NA,19
 Portugal,regional,PT3,Madeira,R2F27,rp_cost,Income Quintile 4,NA,24
 Portugal,regional,PT3,Madeira,R2F27,rp_cost,Income Quintile 5,NA,15
 Romania,regional,RO1,Macroregion One,R2F27,rp_cost,Income Quintile 1,NA,17
-Romania,regional,RO1,Macroregion One,R2F27,rp_cost,Income Quintile 2,NA,23
+Romania,regional,RO1,Macroregion One,R2F27,rp_cost,Income Quintile 2,NA,22
 Romania,regional,RO1,Macroregion One,R2F27,rp_cost,Income Quintile 4,NA,19
 Romania,regional,RO1,Macroregion One,R2F27,rp_cost,Income Quintile 5,NA,5
 Romania,regional,RO2,Macroregion Two,R2F27,rp_cost,Income Quintile 1,NA,17
@@ -14323,12 +14333,12 @@ Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,Income Quintile 2,NA,16
 Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,Income Quintile 3,NA,19
 Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,Income Quintile 4,NA,19
 Romania,regional,RO4,Macroregion Four,R2F27,rp_cost,Income Quintile 5,NA,7
-Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,Income Quintile 1,NA,19
+Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,Income Quintile 1,NA,18
 Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,Income Quintile 3,NA,23
 Slovakia,regional,SK01,Bratislava,R2F27,rp_cost,Income Quintile 4,NA,21
 Slovakia,regional,SK02,West Slovakia,R2F27,rp_cost,Income Quintile 4,NA,29
 Slovakia,regional,SK04,East Slovakia,R2F27,rp_cost,Income Quintile 1,NA,26
-Slovakia,regional,SK04,East Slovakia,R2F27,rp_cost,Income Quintile 4,NA,24
+Slovakia,regional,SK04,East Slovakia,R2F27,rp_cost,Income Quintile 4,NA,23
 Slovenia,regional,SI03,East Slovenia,R2F27,rp_cost,Income Quintile 1,NA,20
 Slovenia,regional,SI03,East Slovenia,R2F27,rp_cost,Income Quintile 5,NA,24
 Spain,regional,ES1,North-West,R2F27,rp_cost,Income Quintile 1,NA,18
@@ -14350,9 +14360,9 @@ Sweden,regional,SE2,Southern Sweden,R2F27,rp_cost,Income Quintile 5,NA,22
 Sweden,regional,SE3,Northern Sweden,R2F27,rp_cost,Income Quintile 1,NA,13
 Sweden,regional,SE3,Northern Sweden,R2F27,rp_cost,Income Quintile 4,NA,22
 Belgium,regional,BE2,Flemish Region,R2F27,rp_cost,Rural,NA,10
-Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Rural,NA,17
+Bulgaria,regional,BG3,North and South-East,R2F27,rp_cost,Rural,NA,15
 Denmark,regional,DK01,Capital (region),R2F27,rp_cost,Rural,NA,5
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,Rural,NA,13
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F27,rp_cost,Rural,NA,12
 Finland,regional,FI1C20,South Finland and Åland,R2F27,rp_cost,Rural,NA,27
 France,regional,FR1,Île-de-France,R2F27,rp_cost,Rural,NA,6
 France,regional,FRL,PACA,R2F27,rp_cost,Rural,NA,26
@@ -14363,7 +14373,7 @@ Germany,regional,DEC,Saarland,R2F27,rp_cost,Rural,NA,21
 Germany,regional,DED,Saxony,R2F27,rp_cost,Rural,NA,29
 Greece,regional,EL5,North Greece,R2F27,rp_cost,Rural,NA,22
 Hungary,regional,HU1,Central Hungary,R2F27,rp_cost,Rural,NA,27
-Italy,regional,ITC,North-West,R2F27,rp_cost,Rural,NA,24
+Italy,regional,ITC,North-West,R2F27,rp_cost,Rural,NA,23
 Italy,regional,ITG,Islands,R2F27,rp_cost,Rural,NA,19
 Malta,regional,MT00,Malta,R2F27,rp_cost,Rural,NA,10
 Netherlands,regional,NL2,East Netherlands,R2F27,rp_cost,Rural,NA,6
@@ -14373,7 +14383,7 @@ Poland,regional,PL2,Southern,R2F27,rp_cost,Rural,NA,17
 Portugal,regional,PT1,Continental Portugal,R2F27,rp_cost,Rural,NA,12
 Portugal,regional,PT2,Azores,R2F27,rp_cost,Rural,NA,3
 Romania,regional,RO3,Macroregion Three,R2F27,rp_cost,Rural,NA,13
-Spain,regional,ES1,North-West,R2F27,rp_cost,Rural,NA,22
+Spain,regional,ES1,North-West,R2F27,rp_cost,Rural,NA,21
 Spain,regional,ES2,North-East,R2F27,rp_cost,Rural,NA,17
 Spain,regional,ES3,Madrid,R2F27,rp_cost,Rural,NA,4
 Spain,regional,ES5,East,R2F27,rp_cost,Rural,NA,21
@@ -14384,18 +14394,18 @@ Belgium,regional,BE1,Brussels Region,R2F28,rp_fair,+65,NA,18
 Belgium,regional,BE1,Brussels Region,R2F28,rp_fair,18-24,NA,26
 Belgium,regional,BE1,Brussels Region,R2F28,rp_fair,55-64,NA,11
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,+65,NA,26
-Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,18-24,NA,20
+Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,18-24,NA,19
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,25-34,NA,22
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,35-44,NA,23
-Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,45-54,NA,28
+Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,45-54,NA,27
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,55-64,NA,27
-Belgium,regional,BE3,Walloon Region,R2F28,rp_fair,18-24,NA,23
-Belgium,regional,BE3,Walloon Region,R2F28,rp_fair,55-64,NA,27
+Belgium,regional,BE3,Walloon Region,R2F28,rp_fair,18-24,NA,22
+Belgium,regional,BE3,Walloon Region,R2F28,rp_fair,55-64,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,+65,NA,18
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,18-24,NA,6
-Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,25-34,NA,8
+Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,25-34,NA,7
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,35-44,NA,16
-Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,45-54,NA,14
+Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,45-54,NA,13
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,55-64,NA,12
 Bulgaria,regional,BG4,South -West/-Central,R2F28,rp_fair,+65,NA,26
 Bulgaria,regional,BG4,South -West/-Central,R2F28,rp_fair,18-24,NA,18
@@ -14423,7 +14433,7 @@ Croatia,regional,HR06,Northern Croatia,R2F28,rp_fair,25-34,NA,26
 Croatia,regional,HR06,Northern Croatia,R2F28,rp_fair,35-44,NA,21
 Croatia,regional,HR06,Northern Croatia,R2F28,rp_fair,55-64,NA,21
 Cyprus,regional,CY0,Cyprus,R2F28,rp_fair,+65,NA,23
-Cyprus,regional,CY0,Cyprus,R2F28,rp_fair,18-24,NA,27
+Cyprus,regional,CY0,Cyprus,R2F28,rp_fair,18-24,NA,26
 Czechia,regional,CZ01,Prague,R2F28,rp_fair,+65,NA,16
 Czechia,regional,CZ01,Prague,R2F28,rp_fair,18-24,NA,5
 Czechia,regional,CZ01,Prague,R2F28,rp_fair,25-34,NA,13
@@ -14433,7 +14443,7 @@ Czechia,regional,CZ01,Prague,R2F28,rp_fair,55-64,NA,12
 Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,+65,NA,26
 Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,18-24,NA,22
 Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,45-54,NA,29
-Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,55-64,NA,28
+Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,55-64,NA,27
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F28,rp_fair,18-24,NA,23
 Denmark,regional,DK01,Capital (region),R2F28,rp_fair,+65,NA,19
 Denmark,regional,DK01,Capital (region),R2F28,rp_fair,18-24,NA,21
@@ -14478,7 +14488,7 @@ France,regional,FR1,Île-de-France,R2F28,rp_fair,45-54,NA,28
 France,regional,FR1,Île-de-France,R2F28,rp_fair,55-64,NA,27
 France,regional,FRB,Centre-Val de Loire,R2F28,rp_fair,18-24,NA,24
 France,regional,FRB,Centre-Val de Loire,R2F28,rp_fair,25-34,NA,29
-France,regional,FRB,Centre-Val de Loire,R2F28,rp_fair,45-54,NA,24
+France,regional,FRB,Centre-Val de Loire,R2F28,rp_fair,45-54,NA,23
 France,regional,FRC,Burgundy-Franche-Comté,R2F28,rp_fair,18-24,NA,22
 France,regional,FRC,Burgundy-Franche-Comté,R2F28,rp_fair,55-64,NA,20
 France,regional,FRD,Normandy,R2F28,rp_fair,18-24,NA,18
@@ -14501,7 +14511,7 @@ France,regional,FRI,New Aquitaine,R2F28,rp_fair,18-24,NA,22
 France,regional,FRI,New Aquitaine,R2F28,rp_fair,25-34,NA,22
 France,regional,FRI,New Aquitaine,R2F28,rp_fair,35-44,NA,25
 France,regional,FRJ,Occitania,R2F28,rp_fair,18-24,NA,16
-France,regional,FRJ,Occitania,R2F28,rp_fair,25-34,NA,25
+France,regional,FRJ,Occitania,R2F28,rp_fair,25-34,NA,24
 France,regional,FRJ,Occitania,R2F28,rp_fair,55-64,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F28,rp_fair,18-24,NA,22
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F28,rp_fair,25-34,NA,23
@@ -14518,6 +14528,7 @@ France,regional,FRM,Corsica ,R2F28,rp_fair,55-64,NA,4
 Germany,regional,DE1,Baden-Württemberg,R2F28,rp_fair,18-24,NA,10
 Germany,regional,DE2,Bavaria,R2F28,rp_fair,18-24,NA,21
 Germany,regional,DE2,Bavaria,R2F28,rp_fair,55-64,NA,29
+Germany,regional,DE3,Berlin,R2F28,rp_fair,+65,NA,29
 Germany,regional,DE3,Berlin,R2F28,rp_fair,18-24,NA,17
 Germany,regional,DE4,Brandenburg,R2F28,rp_fair,18-24,NA,14
 Germany,regional,DE4,Brandenburg,R2F28,rp_fair,25-34,NA,27
@@ -14541,10 +14552,10 @@ Germany,regional,DE9,Lower Saxony,R2F28,rp_fair,35-44,NA,25
 Germany,regional,DE9,Lower Saxony,R2F28,rp_fair,45-54,NA,28
 Germany,regional,DEA,North Rhine-Westphalia,R2F28,rp_fair,18-24,NA,23
 Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,18-24,NA,20
-Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,25-34,NA,21
+Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,25-34,NA,20
 Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,35-44,NA,26
-Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,45-54,NA,29
-Germany,regional,DEC,Saarland,R2F28,rp_fair,+65,NA,27
+Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,45-54,NA,28
+Germany,regional,DEC,Saarland,R2F28,rp_fair,+65,NA,26
 Germany,regional,DEC,Saarland,R2F28,rp_fair,18-24,NA,21
 Germany,regional,DED,Saxony,R2F28,rp_fair,18-24,NA,19
 Germany,regional,DED,Saxony,R2F28,rp_fair,35-44,NA,27
@@ -14650,8 +14661,8 @@ Portugal,regional,PT3,Madeira,R2F28,rp_fair,55-64,NA,25
 Romania,regional,RO1,Macroregion One,R2F28,rp_fair,18-24,NA,15
 Romania,regional,RO1,Macroregion One,R2F28,rp_fair,25-34,NA,22
 Romania,regional,RO1,Macroregion One,R2F28,rp_fair,35-44,NA,20
-Romania,regional,RO1,Macroregion One,R2F28,rp_fair,45-54,NA,24
-Romania,regional,RO1,Macroregion One,R2F28,rp_fair,55-64,NA,21
+Romania,regional,RO1,Macroregion One,R2F28,rp_fair,45-54,NA,23
+Romania,regional,RO1,Macroregion One,R2F28,rp_fair,55-64,NA,20
 Romania,regional,RO2,Macroregion Two,R2F28,rp_fair,+65,NA,29
 Romania,regional,RO2,Macroregion Two,R2F28,rp_fair,18-24,NA,12
 Romania,regional,RO2,Macroregion Two,R2F28,rp_fair,25-34,NA,16
@@ -14670,7 +14681,7 @@ Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,25-34,NA,16
 Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,35-44,NA,23
 Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,45-54,NA,26
 Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,55-64,NA,13
-Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,+65,NA,29
+Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,+65,NA,28
 Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,18-24,NA,4
 Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,55-64,NA,14
 Slovakia,regional,SK02,West Slovakia,R2F28,rp_fair,+65,NA,25
@@ -14678,12 +14689,12 @@ Slovakia,regional,SK02,West Slovakia,R2F28,rp_fair,18-24,NA,16
 Slovakia,regional,SK03,Central Slovakia,R2F28,rp_fair,+65,NA,25
 Slovakia,regional,SK03,Central Slovakia,R2F28,rp_fair,18-24,NA,26
 Slovakia,regional,SK04,East Slovakia,R2F28,rp_fair,+65,NA,20
-Slovakia,regional,SK04,East Slovakia,R2F28,rp_fair,18-24,NA,14
+Slovakia,regional,SK04,East Slovakia,R2F28,rp_fair,18-24,NA,12
 Slovenia,regional,SI03,East Slovenia,R2F28,rp_fair,18-24,NA,23
 Slovenia,regional,SI04,West Slovenia,R2F28,rp_fair,18-24,NA,23
 Spain,regional,ES1,North-West,R2F28,rp_fair,18-24,NA,24
 Spain,regional,ES2,North-East,R2F28,rp_fair,18-24,NA,26
-Spain,regional,ES3,Madrid,R2F28,rp_fair,18-24,NA,22
+Spain,regional,ES3,Madrid,R2F28,rp_fair,18-24,NA,21
 Spain,regional,ES3,Madrid,R2F28,rp_fair,55-64,NA,25
 Spain,regional,ES4,Centre,R2F28,rp_fair,25-34,NA,29
 Spain,regional,ES5,East,R2F28,rp_fair,+65,NA,29
@@ -14719,12 +14730,12 @@ Belgium,regional,BE1,Brussels Region,R2F28,rp_fair,Income Quintile 5,NA,24
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Income Quintile 1,NA,23
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Income Quintile 2,NA,28
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Income Quintile 3,NA,24
-Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Income Quintile 4,NA,26
+Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Income Quintile 4,NA,25
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Income Quintile 5,NA,24
 Belgium,regional,BE3,Walloon Region,R2F28,rp_fair,Income Quintile 5,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Income Quintile 1,NA,10
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Income Quintile 2,NA,11
-Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Income Quintile 3,NA,12
+Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Income Quintile 3,NA,10
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Income Quintile 4,NA,15
 Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Income Quintile 5,NA,26
 Bulgaria,regional,BG4,South -West/-Central,R2F28,rp_fair,Income Quintile 1,NA,13
@@ -14736,7 +14747,7 @@ Croatia,regional,HR02,Pannonian Croatia,R2F28,rp_fair,Income Quintile 3,NA,13
 Croatia,regional,HR02,Pannonian Croatia,R2F28,rp_fair,Income Quintile 4,NA,20
 Croatia,regional,HR03,Adriatic Croatia,R2F28,rp_fair,Income Quintile 1,NA,11
 Croatia,regional,HR03,Adriatic Croatia,R2F28,rp_fair,Income Quintile 2,NA,16
-Croatia,regional,HR03,Adriatic Croatia,R2F28,rp_fair,Income Quintile 3,NA,11
+Croatia,regional,HR03,Adriatic Croatia,R2F28,rp_fair,Income Quintile 3,NA,10
 Croatia,regional,HR03,Adriatic Croatia,R2F28,rp_fair,Income Quintile 4,NA,26
 Croatia,regional,HR05,Zagreb,R2F28,rp_fair,Income Quintile 1,NA,18
 Croatia,regional,HR05,Zagreb,R2F28,rp_fair,Income Quintile 2,NA,18
@@ -14754,7 +14765,7 @@ Czechia,regional,CZ01,Prague,R2F28,rp_fair,Income Quintile 4,NA,24
 Czechia,regional,CZ01,Prague,R2F28,rp_fair,Income Quintile 5,NA,27
 Czechia,regional,CZ020304,Western and Central Bohemia,R2F28,rp_fair,Income Quintile 1,NA,24
 Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,Income Quintile 1,NA,17
-Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,Income Quintile 2,NA,25
+Czechia,regional,CZ0506,North-East and South-East,R2F28,rp_fair,Income Quintile 2,NA,24
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F28,rp_fair,Income Quintile 1,NA,25
 Denmark,regional,DK01,Capital (region),R2F28,rp_fair,Income Quintile 1,NA,17
 Denmark,regional,DK01,Capital (region),R2F28,rp_fair,Income Quintile 2,NA,23
@@ -14779,7 +14790,7 @@ Estonia,regional,EE0,Estonia,R2F28,rp_fair,Income Quintile 1,NA,15
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F28,rp_fair,Income Quintile 1,NA,20
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F28,rp_fair,Income Quintile 2,NA,22
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F28,rp_fair,Income Quintile 5,NA,29
-Finland,regional,FI1C20,South Finland and Åland,R2F28,rp_fair,Income Quintile 2,NA,29
+Finland,regional,FI1C20,South Finland and Åland,R2F28,rp_fair,Income Quintile 2,NA,28
 Finland,regional,FI1D,North and East Finland,R2F28,rp_fair,Income Quintile 1,NA,27
 Finland,regional,FI1D,North and East Finland,R2F28,rp_fair,Income Quintile 3,NA,28
 Finland,regional,FI1D,North and East Finland,R2F28,rp_fair,Income Quintile 4,NA,26
@@ -14790,13 +14801,13 @@ France,regional,FRD,Normandy,R2F28,rp_fair,Income Quintile 2,NA,27
 France,regional,FRE,Hauts-de-France,R2F28,rp_fair,Income Quintile 1,NA,23
 France,regional,FRE,Hauts-de-France,R2F28,rp_fair,Income Quintile 3,NA,29
 France,regional,FRE,Hauts-de-France,R2F28,rp_fair,Income Quintile 4,NA,24
-France,regional,FRF,Grand Est,R2F28,rp_fair,Income Quintile 4,NA,28
+France,regional,FRF,Grand Est,R2F28,rp_fair,Income Quintile 4,NA,27
 France,regional,FRG,Loire Region,R2F28,rp_fair,Income Quintile 1,NA,25
 France,regional,FRG,Loire Region,R2F28,rp_fair,Income Quintile 2,NA,27
 France,regional,FRI,New Aquitaine,R2F28,rp_fair,Income Quintile 2,NA,26
 France,regional,FRJ,Occitania,R2F28,rp_fair,Income Quintile 4,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F28,rp_fair,Income Quintile 1,NA,22
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F28,rp_fair,Income Quintile 2,NA,29
+France,regional,FRK,Auvergne-Rhône-Alpes,R2F28,rp_fair,Income Quintile 2,NA,28
 France,regional,FRL,PACA,R2F28,rp_fair,Income Quintile 1,NA,27
 France,regional,FRM,Corsica ,R2F28,rp_fair,Income Quintile 1,NA,6
 France,regional,FRM,Corsica ,R2F28,rp_fair,Income Quintile 2,NA,14
@@ -14815,15 +14826,15 @@ Germany,regional,DE7,Hessen,R2F28,rp_fair,Income Quintile 1,NA,24
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F28,rp_fair,Income Quintile 1,NA,28
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F28,rp_fair,Income Quintile 5,NA,22
 Germany,regional,DE9,Lower Saxony,R2F28,rp_fair,Income Quintile 4,NA,20
-Germany,regional,DE9,Lower Saxony,R2F28,rp_fair,Income Quintile 5,NA,27
-Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,Income Quintile 1,NA,25
+Germany,regional,DE9,Lower Saxony,R2F28,rp_fair,Income Quintile 5,NA,26
+Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,Income Quintile 1,NA,24
 Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,Income Quintile 4,NA,28
 Germany,regional,DEB,Rhineland-Palatinate,R2F28,rp_fair,Income Quintile 5,NA,26
 Germany,regional,DEC,Saarland,R2F28,rp_fair,Income Quintile 1,NA,25
 Germany,regional,DEC,Saarland,R2F28,rp_fair,Income Quintile 5,NA,27
 Germany,regional,DED,Saxony,R2F28,rp_fair,Income Quintile 5,NA,18
 Germany,regional,DEE,Saxony-Anhalt,R2F28,rp_fair,Income Quintile 5,NA,19
-Germany,regional,DEG,Thuringia,R2F28,rp_fair,Income Quintile 4,NA,29
+Germany,regional,DEG,Thuringia,R2F28,rp_fair,Income Quintile 4,NA,28
 Germany,regional,DEG,Thuringia,R2F28,rp_fair,Income Quintile 5,NA,23
 Greece,regional,EL3,Attica,R2F28,rp_fair,Income Quintile 1,NA,20
 Greece,regional,EL3,Attica,R2F28,rp_fair,Income Quintile 4,NA,26
@@ -14905,7 +14916,7 @@ Portugal,regional,PT3,Madeira,R2F28,rp_fair,Income Quintile 1,NA,13
 Portugal,regional,PT3,Madeira,R2F28,rp_fair,Income Quintile 3,NA,23
 Portugal,regional,PT3,Madeira,R2F28,rp_fair,Income Quintile 5,NA,23
 Romania,regional,RO1,Macroregion One,R2F28,rp_fair,Income Quintile 1,NA,16
-Romania,regional,RO1,Macroregion One,R2F28,rp_fair,Income Quintile 2,NA,23
+Romania,regional,RO1,Macroregion One,R2F28,rp_fair,Income Quintile 2,NA,22
 Romania,regional,RO1,Macroregion One,R2F28,rp_fair,Income Quintile 4,NA,19
 Romania,regional,RO1,Macroregion One,R2F28,rp_fair,Income Quintile 5,NA,5
 Romania,regional,RO2,Macroregion Two,R2F28,rp_fair,Income Quintile 1,NA,16
@@ -14922,11 +14933,11 @@ Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,Income Quintile 2,NA,16
 Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,Income Quintile 3,NA,20
 Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,Income Quintile 4,NA,19
 Romania,regional,RO4,Macroregion Four,R2F28,rp_fair,Income Quintile 5,NA,7
-Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,Income Quintile 1,NA,20
+Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,Income Quintile 1,NA,19
 Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,Income Quintile 3,NA,24
 Slovakia,regional,SK01,Bratislava,R2F28,rp_fair,Income Quintile 4,NA,23
 Slovakia,regional,SK04,East Slovakia,R2F28,rp_fair,Income Quintile 1,NA,29
-Slovakia,regional,SK04,East Slovakia,R2F28,rp_fair,Income Quintile 4,NA,25
+Slovakia,regional,SK04,East Slovakia,R2F28,rp_fair,Income Quintile 4,NA,24
 Slovenia,regional,SI03,East Slovenia,R2F28,rp_fair,Income Quintile 1,NA,23
 Slovenia,regional,SI03,East Slovenia,R2F28,rp_fair,Income Quintile 5,NA,24
 Slovenia,regional,SI04,West Slovenia,R2F28,rp_fair,Income Quintile 1,NA,29
@@ -14947,7 +14958,7 @@ Sweden,regional,SE2,Southern Sweden,R2F28,rp_fair,Income Quintile 5,NA,22
 Sweden,regional,SE3,Northern Sweden,R2F28,rp_fair,Income Quintile 1,NA,12
 Sweden,regional,SE3,Northern Sweden,R2F28,rp_fair,Income Quintile 4,NA,21
 Belgium,regional,BE2,Flemish Region,R2F28,rp_fair,Rural,NA,9
-Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Rural,NA,17
+Bulgaria,regional,BG3,North and South-East,R2F28,rp_fair,Rural,NA,15
 Denmark,regional,DK01,Capital (region),R2F28,rp_fair,Rural,NA,6
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F28,rp_fair,Rural,NA,14
 Finland,regional,FI1C20,South Finland and Åland,R2F28,rp_fair,Rural,NA,29
@@ -14960,7 +14971,7 @@ Germany,regional,DEC,Saarland,R2F28,rp_fair,Rural,NA,21
 Germany,regional,DED,Saxony,R2F28,rp_fair,Rural,NA,28
 Greece,regional,EL5,North Greece,R2F28,rp_fair,Rural,NA,23
 Hungary,regional,HU1,Central Hungary,R2F28,rp_fair,Rural,NA,29
-Italy,regional,ITC,North-West,R2F28,rp_fair,Rural,NA,24
+Italy,regional,ITC,North-West,R2F28,rp_fair,Rural,NA,23
 Italy,regional,ITG,Islands,R2F28,rp_fair,Rural,NA,20
 Malta,regional,MT00,Malta,R2F28,rp_fair,Rural,NA,10
 Netherlands,regional,NL2,East Netherlands,R2F28,rp_fair,Rural,NA,6
@@ -14971,7 +14982,7 @@ Poland,regional,PL8,Eastern,R2F28,rp_fair,Urban,NA,29
 Portugal,regional,PT1,Continental Portugal,R2F28,rp_fair,Rural,NA,13
 Portugal,regional,PT2,Azores,R2F28,rp_fair,Rural,NA,4
 Romania,regional,RO3,Macroregion Three,R2F28,rp_fair,Rural,NA,13
-Spain,regional,ES1,North-West,R2F28,rp_fair,Rural,NA,22
+Spain,regional,ES1,North-West,R2F28,rp_fair,Rural,NA,21
 Spain,regional,ES2,North-East,R2F28,rp_fair,Rural,NA,17
 Spain,regional,ES3,Madrid,R2F28,rp_fair,Rural,NA,5
 Spain,regional,ES5,East,R2F28,rp_fair,Rural,NA,20
@@ -14982,18 +14993,18 @@ Belgium,regional,BE1,Brussels Region,R2F29,rp_outcome,+65,NA,19
 Belgium,regional,BE1,Brussels Region,R2F29,rp_outcome,18-24,NA,27
 Belgium,regional,BE1,Brussels Region,R2F29,rp_outcome,55-64,NA,12
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,+65,NA,26
-Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,18-24,NA,21
+Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,18-24,NA,20
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,25-34,NA,22
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,35-44,NA,23
-Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,45-54,NA,29
+Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,45-54,NA,28
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,55-64,NA,27
-Belgium,regional,BE3,Walloon Region,R2F29,rp_outcome,18-24,NA,24
-Belgium,regional,BE3,Walloon Region,R2F29,rp_outcome,55-64,NA,27
+Belgium,regional,BE3,Walloon Region,R2F29,rp_outcome,18-24,NA,23
+Belgium,regional,BE3,Walloon Region,R2F29,rp_outcome,55-64,NA,26
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,+65,NA,18
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,18-24,NA,6
-Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,25-34,NA,9
+Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,25-34,NA,8
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,35-44,NA,16
-Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,45-54,NA,14
+Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,45-54,NA,13
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,55-64,NA,12
 Bulgaria,regional,BG4,South -West/-Central,R2F29,rp_outcome,+65,NA,27
 Bulgaria,regional,BG4,South -West/-Central,R2F29,rp_outcome,18-24,NA,18
@@ -15021,7 +15032,7 @@ Croatia,regional,HR06,Northern Croatia,R2F29,rp_outcome,25-34,NA,27
 Croatia,regional,HR06,Northern Croatia,R2F29,rp_outcome,35-44,NA,21
 Croatia,regional,HR06,Northern Croatia,R2F29,rp_outcome,55-64,NA,21
 Cyprus,regional,CY0,Cyprus,R2F29,rp_outcome,+65,NA,23
-Cyprus,regional,CY0,Cyprus,R2F29,rp_outcome,18-24,NA,28
+Cyprus,regional,CY0,Cyprus,R2F29,rp_outcome,18-24,NA,27
 Czechia,regional,CZ01,Prague,R2F29,rp_outcome,+65,NA,17
 Czechia,regional,CZ01,Prague,R2F29,rp_outcome,18-24,NA,5
 Czechia,regional,CZ01,Prague,R2F29,rp_outcome,25-34,NA,13
@@ -15030,14 +15041,14 @@ Czechia,regional,CZ01,Prague,R2F29,rp_outcome,45-54,NA,14
 Czechia,regional,CZ01,Prague,R2F29,rp_outcome,55-64,NA,12
 Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,+65,NA,27
 Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,18-24,NA,23
-Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,55-64,NA,29
+Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,55-64,NA,28
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F29,rp_outcome,18-24,NA,23
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,+65,NA,20
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,18-24,NA,22
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,35-44,NA,25
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,45-54,NA,19
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,55-64,NA,13
-Denmark,regional,DK02,Zealand,R2F29,rp_outcome,+65,NA,20
+Denmark,regional,DK02,Zealand,R2F29,rp_outcome,+65,NA,19
 Denmark,regional,DK02,Zealand,R2F29,rp_outcome,18-24,NA,13
 Denmark,regional,DK02,Zealand,R2F29,rp_outcome,25-34,NA,29
 Denmark,regional,DK02,Zealand,R2F29,rp_outcome,35-44,NA,22
@@ -15062,7 +15073,7 @@ Denmark,regional,DK05,North Jutland,R2F29,rp_outcome,45-54,NA,23
 Denmark,regional,DK05,North Jutland,R2F29,rp_outcome,55-64,NA,22
 Finland,regional,FI19,West Finland,R2F29,rp_outcome,18-24,NA,18
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,18-24,NA,17
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,45-54,NA,27
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,45-54,NA,26
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,55-64,NA,28
 Finland,regional,FI1C20,South Finland and Åland,R2F29,rp_outcome,18-24,NA,25
 Finland,regional,FI1D,North and East Finland,R2F29,rp_outcome,18-24,NA,17
@@ -15074,7 +15085,7 @@ France,regional,FR1,Île-de-France,R2F29,rp_outcome,25-34,NA,28
 France,regional,FR1,Île-de-France,R2F29,rp_outcome,45-54,NA,29
 France,regional,FR1,Île-de-France,R2F29,rp_outcome,55-64,NA,27
 France,regional,FRB,Centre-Val de Loire,R2F29,rp_outcome,18-24,NA,25
-France,regional,FRB,Centre-Val de Loire,R2F29,rp_outcome,45-54,NA,24
+France,regional,FRB,Centre-Val de Loire,R2F29,rp_outcome,45-54,NA,23
 France,regional,FRC,Burgundy-Franche-Comté,R2F29,rp_outcome,18-24,NA,22
 France,regional,FRC,Burgundy-Franche-Comté,R2F29,rp_outcome,55-64,NA,20
 France,regional,FRD,Normandy,R2F29,rp_outcome,18-24,NA,18
@@ -15097,7 +15108,7 @@ France,regional,FRI,New Aquitaine,R2F29,rp_outcome,18-24,NA,22
 France,regional,FRI,New Aquitaine,R2F29,rp_outcome,25-34,NA,23
 France,regional,FRI,New Aquitaine,R2F29,rp_outcome,35-44,NA,25
 France,regional,FRJ,Occitania,R2F29,rp_outcome,18-24,NA,17
-France,regional,FRJ,Occitania,R2F29,rp_outcome,25-34,NA,27
+France,regional,FRJ,Occitania,R2F29,rp_outcome,25-34,NA,26
 France,regional,FRJ,Occitania,R2F29,rp_outcome,55-64,NA,28
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F29,rp_outcome,18-24,NA,23
 France,regional,FRK,Auvergne-Rhône-Alpes,R2F29,rp_outcome,25-34,NA,24
@@ -15136,11 +15147,11 @@ Germany,regional,DE9,Lower Saxony,R2F29,rp_outcome,35-44,NA,25
 Germany,regional,DE9,Lower Saxony,R2F29,rp_outcome,45-54,NA,28
 Germany,regional,DEA,North Rhine-Westphalia,R2F29,rp_outcome,18-24,NA,23
 Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,18-24,NA,20
-Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,25-34,NA,21
+Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,25-34,NA,20
 Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,35-44,NA,26
-Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,45-54,NA,29
-Germany,regional,DEC,Saarland,R2F29,rp_outcome,+65,NA,28
-Germany,regional,DEC,Saarland,R2F29,rp_outcome,18-24,NA,22
+Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,45-54,NA,28
+Germany,regional,DEC,Saarland,R2F29,rp_outcome,+65,NA,27
+Germany,regional,DEC,Saarland,R2F29,rp_outcome,18-24,NA,21
 Germany,regional,DED,Saxony,R2F29,rp_outcome,18-24,NA,19
 Germany,regional,DED,Saxony,R2F29,rp_outcome,35-44,NA,27
 Germany,regional,DED,Saxony,R2F29,rp_outcome,45-54,NA,29
@@ -15171,13 +15182,13 @@ Greece,regional,EL6,Central Greece,R2F29,rp_outcome,45-54,NA,17
 Hungary,regional,HU1,Central Hungary,R2F29,rp_outcome,18-24,NA,21
 Hungary,regional,HU2,Transdanubia ,R2F29,rp_outcome,18-24,NA,16
 Hungary,regional,HU3,Great Plain and North,R2F29,rp_outcome,18-24,NA,26
-Italy,regional,ITC,North-West,R2F29,rp_outcome,18-24,NA,19
+Italy,regional,ITC,North-West,R2F29,rp_outcome,18-24,NA,18
 Italy,regional,ITF,South,R2F29,rp_outcome,18-24,NA,29
 Italy,regional,ITH,North-East,R2F29,rp_outcome,18-24,NA,22
 Italy,regional,ITI,Centre,R2F29,rp_outcome,18-24,NA,26
 Latvia,regional,LV00,Latvia,R2F29,rp_outcome,18-24,NA,21
 Lithuania,regional,LT02,Central/Western Region,R2F29,rp_outcome,18-24,NA,22
-Luxembourg,regional,LU00,Luxembourg,R2F29,rp_outcome,+65,NA,26
+Luxembourg,regional,LU00,Luxembourg,R2F29,rp_outcome,+65,NA,25
 Luxembourg,regional,LU00,Luxembourg,R2F29,rp_outcome,18-24,NA,19
 Luxembourg,regional,LU00,Luxembourg,R2F29,rp_outcome,45-54,NA,26
 Luxembourg,regional,LU00,Luxembourg,R2F29,rp_outcome,55-64,NA,26
@@ -15245,8 +15256,8 @@ Portugal,regional,PT3,Madeira,R2F29,rp_outcome,55-64,NA,26
 Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,18-24,NA,15
 Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,25-34,NA,22
 Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,35-44,NA,21
-Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,45-54,NA,26
-Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,55-64,NA,22
+Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,45-54,NA,25
+Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,55-64,NA,21
 Romania,regional,RO2,Macroregion Two,R2F29,rp_outcome,18-24,NA,12
 Romania,regional,RO2,Macroregion Two,R2F29,rp_outcome,25-34,NA,18
 Romania,regional,RO2,Macroregion Two,R2F29,rp_outcome,35-44,NA,22
@@ -15264,6 +15275,7 @@ Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,25-34,NA,17
 Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,35-44,NA,24
 Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,45-54,NA,27
 Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,55-64,NA,16
+Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,+65,NA,28
 Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,18-24,NA,4
 Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,55-64,NA,14
 Slovakia,regional,SK02,West Slovakia,R2F29,rp_outcome,+65,NA,27
@@ -15271,12 +15283,12 @@ Slovakia,regional,SK02,West Slovakia,R2F29,rp_outcome,18-24,NA,16
 Slovakia,regional,SK03,Central Slovakia,R2F29,rp_outcome,+65,NA,25
 Slovakia,regional,SK03,Central Slovakia,R2F29,rp_outcome,18-24,NA,26
 Slovakia,regional,SK04,East Slovakia,R2F29,rp_outcome,+65,NA,20
-Slovakia,regional,SK04,East Slovakia,R2F29,rp_outcome,18-24,NA,14
+Slovakia,regional,SK04,East Slovakia,R2F29,rp_outcome,18-24,NA,12
 Slovenia,regional,SI03,East Slovenia,R2F29,rp_outcome,18-24,NA,23
 Slovenia,regional,SI04,West Slovenia,R2F29,rp_outcome,18-24,NA,23
 Spain,regional,ES1,North-West,R2F29,rp_outcome,18-24,NA,24
 Spain,regional,ES2,North-East,R2F29,rp_outcome,18-24,NA,26
-Spain,regional,ES3,Madrid,R2F29,rp_outcome,18-24,NA,22
+Spain,regional,ES3,Madrid,R2F29,rp_outcome,18-24,NA,21
 Spain,regional,ES3,Madrid,R2F29,rp_outcome,55-64,NA,25
 Spain,regional,ES5,East,R2F29,rp_outcome,18-24,NA,28
 Spain,regional,ES5,East,R2F29,rp_outcome,55-64,NA,25
@@ -15307,12 +15319,12 @@ Belgium,regional,BE1,Brussels Region,R2F29,rp_outcome,Income Quintile 5,NA,26
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Income Quintile 1,NA,25
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Income Quintile 2,NA,28
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Income Quintile 3,NA,24
-Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Income Quintile 4,NA,26
+Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Income Quintile 4,NA,25
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Income Quintile 5,NA,24
 Belgium,regional,BE3,Walloon Region,R2F29,rp_outcome,Income Quintile 5,NA,23
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Income Quintile 1,NA,10
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Income Quintile 2,NA,11
-Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Income Quintile 3,NA,12
+Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Income Quintile 3,NA,10
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Income Quintile 4,NA,15
 Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Income Quintile 5,NA,27
 Bulgaria,regional,BG4,South -West/-Central,R2F29,rp_outcome,Income Quintile 1,NA,14
@@ -15324,7 +15336,7 @@ Croatia,regional,HR02,Pannonian Croatia,R2F29,rp_outcome,Income Quintile 3,NA,13
 Croatia,regional,HR02,Pannonian Croatia,R2F29,rp_outcome,Income Quintile 4,NA,20
 Croatia,regional,HR03,Adriatic Croatia,R2F29,rp_outcome,Income Quintile 1,NA,11
 Croatia,regional,HR03,Adriatic Croatia,R2F29,rp_outcome,Income Quintile 2,NA,17
-Croatia,regional,HR03,Adriatic Croatia,R2F29,rp_outcome,Income Quintile 3,NA,11
+Croatia,regional,HR03,Adriatic Croatia,R2F29,rp_outcome,Income Quintile 3,NA,10
 Croatia,regional,HR03,Adriatic Croatia,R2F29,rp_outcome,Income Quintile 4,NA,26
 Croatia,regional,HR05,Zagreb,R2F29,rp_outcome,Income Quintile 1,NA,18
 Croatia,regional,HR05,Zagreb,R2F29,rp_outcome,Income Quintile 2,NA,19
@@ -15342,13 +15354,13 @@ Czechia,regional,CZ01,Prague,R2F29,rp_outcome,Income Quintile 4,NA,24
 Czechia,regional,CZ01,Prague,R2F29,rp_outcome,Income Quintile 5,NA,27
 Czechia,regional,CZ020304,Western and Central Bohemia,R2F29,rp_outcome,Income Quintile 1,NA,26
 Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,Income Quintile 1,NA,17
-Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,Income Quintile 2,NA,25
+Czechia,regional,CZ0506,North-East and South-East,R2F29,rp_outcome,Income Quintile 2,NA,24
 Czechia,regional,CZ0708,Central Moravia and Silesia,R2F29,rp_outcome,Income Quintile 1,NA,25
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,Income Quintile 1,NA,18
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,Income Quintile 2,NA,23
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,Income Quintile 5,NA,14
 Denmark,regional,DK02,Zealand,R2F29,rp_outcome,Income Quintile 1,NA,24
-Denmark,regional,DK02,Zealand,R2F29,rp_outcome,Income Quintile 2,NA,20
+Denmark,regional,DK02,Zealand,R2F29,rp_outcome,Income Quintile 2,NA,19
 Denmark,regional,DK02,Zealand,R2F29,rp_outcome,Income Quintile 4,NA,28
 Denmark,regional,DK02,Zealand,R2F29,rp_outcome,Income Quintile 5,NA,15
 Denmark,regional,DK03,South Denmark,R2F29,rp_outcome,Income Quintile 1,NA,13
@@ -15367,7 +15379,7 @@ Estonia,regional,EE0,Estonia,R2F29,rp_outcome,Income Quintile 1,NA,15
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,Income Quintile 1,NA,20
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,Income Quintile 2,NA,25
 Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,Income Quintile 5,NA,29
-Finland,regional,FI1C20,South Finland and Åland,R2F29,rp_outcome,Income Quintile 2,NA,29
+Finland,regional,FI1C20,South Finland and Åland,R2F29,rp_outcome,Income Quintile 2,NA,28
 Finland,regional,FI1D,North and East Finland,R2F29,rp_outcome,Income Quintile 1,NA,27
 Finland,regional,FI1D,North and East Finland,R2F29,rp_outcome,Income Quintile 3,NA,28
 Finland,regional,FI1D,North and East Finland,R2F29,rp_outcome,Income Quintile 4,NA,26
@@ -15377,7 +15389,7 @@ France,regional,FRC,Burgundy-Franche-Comté,R2F29,rp_outcome,Income Quintile 1,N
 France,regional,FRD,Normandy,R2F29,rp_outcome,Income Quintile 2,NA,27
 France,regional,FRE,Hauts-de-France,R2F29,rp_outcome,Income Quintile 1,NA,24
 France,regional,FRE,Hauts-de-France,R2F29,rp_outcome,Income Quintile 4,NA,25
-France,regional,FRF,Grand Est,R2F29,rp_outcome,Income Quintile 4,NA,28
+France,regional,FRF,Grand Est,R2F29,rp_outcome,Income Quintile 4,NA,27
 France,regional,FRG,Loire Region,R2F29,rp_outcome,Income Quintile 1,NA,28
 France,regional,FRG,Loire Region,R2F29,rp_outcome,Income Quintile 2,NA,28
 France,regional,FRI,New Aquitaine,R2F29,rp_outcome,Income Quintile 2,NA,27
@@ -15401,15 +15413,15 @@ Germany,regional,DE7,Hessen,R2F29,rp_outcome,Income Quintile 1,NA,25
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F29,rp_outcome,Income Quintile 1,NA,29
 Germany,regional,DE8,Mecklenburg-Vorpommern,R2F29,rp_outcome,Income Quintile 5,NA,22
 Germany,regional,DE9,Lower Saxony,R2F29,rp_outcome,Income Quintile 4,NA,20
-Germany,regional,DE9,Lower Saxony,R2F29,rp_outcome,Income Quintile 5,NA,27
-Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,Income Quintile 1,NA,25
+Germany,regional,DE9,Lower Saxony,R2F29,rp_outcome,Income Quintile 5,NA,26
+Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,Income Quintile 1,NA,24
 Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,Income Quintile 4,NA,28
 Germany,regional,DEB,Rhineland-Palatinate,R2F29,rp_outcome,Income Quintile 5,NA,26
 Germany,regional,DEC,Saarland,R2F29,rp_outcome,Income Quintile 1,NA,26
 Germany,regional,DEC,Saarland,R2F29,rp_outcome,Income Quintile 5,NA,27
 Germany,regional,DED,Saxony,R2F29,rp_outcome,Income Quintile 5,NA,19
 Germany,regional,DEE,Saxony-Anhalt,R2F29,rp_outcome,Income Quintile 5,NA,19
-Germany,regional,DEG,Thuringia,R2F29,rp_outcome,Income Quintile 4,NA,29
+Germany,regional,DEG,Thuringia,R2F29,rp_outcome,Income Quintile 4,NA,28
 Germany,regional,DEG,Thuringia,R2F29,rp_outcome,Income Quintile 5,NA,23
 Greece,regional,EL3,Attica,R2F29,rp_outcome,Income Quintile 1,NA,20
 Greece,regional,EL3,Attica,R2F29,rp_outcome,Income Quintile 4,NA,26
@@ -15489,7 +15501,7 @@ Portugal,regional,PT3,Madeira,R2F29,rp_outcome,Income Quintile 1,NA,13
 Portugal,regional,PT3,Madeira,R2F29,rp_outcome,Income Quintile 3,NA,24
 Portugal,regional,PT3,Madeira,R2F29,rp_outcome,Income Quintile 5,NA,23
 Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,Income Quintile 1,NA,17
-Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,Income Quintile 2,NA,23
+Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,Income Quintile 2,NA,22
 Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,Income Quintile 4,NA,20
 Romania,regional,RO1,Macroregion One,R2F29,rp_outcome,Income Quintile 5,NA,5
 Romania,regional,RO2,Macroregion Two,R2F29,rp_outcome,Income Quintile 1,NA,17
@@ -15505,10 +15517,10 @@ Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,Income Quintile 2,NA,17
 Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,Income Quintile 3,NA,20
 Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,Income Quintile 4,NA,19
 Romania,regional,RO4,Macroregion Four,R2F29,rp_outcome,Income Quintile 5,NA,7
-Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,Income Quintile 1,NA,20
+Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,Income Quintile 1,NA,19
 Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,Income Quintile 3,NA,24
 Slovakia,regional,SK01,Bratislava,R2F29,rp_outcome,Income Quintile 4,NA,23
-Slovakia,regional,SK04,East Slovakia,R2F29,rp_outcome,Income Quintile 4,NA,25
+Slovakia,regional,SK04,East Slovakia,R2F29,rp_outcome,Income Quintile 4,NA,24
 Slovenia,regional,SI03,East Slovenia,R2F29,rp_outcome,Income Quintile 1,NA,24
 Slovenia,regional,SI03,East Slovenia,R2F29,rp_outcome,Income Quintile 5,NA,24
 Spain,regional,ES1,North-West,R2F29,rp_outcome,Income Quintile 1,NA,19
@@ -15528,9 +15540,9 @@ Sweden,regional,SE2,Southern Sweden,R2F29,rp_outcome,Income Quintile 5,NA,23
 Sweden,regional,SE3,Northern Sweden,R2F29,rp_outcome,Income Quintile 1,NA,13
 Sweden,regional,SE3,Northern Sweden,R2F29,rp_outcome,Income Quintile 4,NA,22
 Belgium,regional,BE2,Flemish Region,R2F29,rp_outcome,Rural,NA,10
-Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Rural,NA,17
+Bulgaria,regional,BG3,North and South-East,R2F29,rp_outcome,Rural,NA,15
 Denmark,regional,DK01,Capital (region),R2F29,rp_outcome,Rural,NA,6
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,Rural,NA,15
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F29,rp_outcome,Rural,NA,14
 Finland,regional,FI1C20,South Finland and Åland,R2F29,rp_outcome,Rural,NA,29
 France,regional,FR1,Île-de-France,R2F29,rp_outcome,Rural,NA,6
 France,regional,FRL,PACA,R2F29,rp_outcome,Rural,NA,26
@@ -15539,7 +15551,7 @@ Germany,regional,DE1,Baden-Württemberg,R2F29,rp_outcome,Rural,NA,19
 Germany,regional,DEA,North Rhine-Westphalia,R2F29,rp_outcome,Rural,NA,9
 Germany,regional,DEC,Saarland,R2F29,rp_outcome,Rural,NA,21
 Greece,regional,EL5,North Greece,R2F29,rp_outcome,Rural,NA,23
-Italy,regional,ITC,North-West,R2F29,rp_outcome,Rural,NA,24
+Italy,regional,ITC,North-West,R2F29,rp_outcome,Rural,NA,23
 Italy,regional,ITG,Islands,R2F29,rp_outcome,Rural,NA,20
 Malta,regional,MT00,Malta,R2F29,rp_outcome,Rural,NA,10
 Netherlands,regional,NL2,East Netherlands,R2F29,rp_outcome,Rural,NA,6
@@ -15549,7 +15561,7 @@ Poland,regional,PL2,Southern,R2F29,rp_outcome,Rural,NA,18
 Portugal,regional,PT1,Continental Portugal,R2F29,rp_outcome,Rural,NA,13
 Portugal,regional,PT2,Azores,R2F29,rp_outcome,Rural,NA,4
 Romania,regional,RO3,Macroregion Three,R2F29,rp_outcome,Rural,NA,13
-Spain,regional,ES1,North-West,R2F29,rp_outcome,Rural,NA,24
+Spain,regional,ES1,North-West,R2F29,rp_outcome,Rural,NA,23
 Spain,regional,ES2,North-East,R2F29,rp_outcome,Rural,NA,17
 Spain,regional,ES3,Madrid,R2F29,rp_outcome,Rural,NA,5
 Spain,regional,ES5,East,R2F29,rp_outcome,Rural,NA,21
@@ -18591,855 +18603,223 @@ France,regional,FR1,Île-de-France,R2F56,SEC_walking,Rural,NA,23
 Germany,regional,DEA,North Rhine-Westphalia,R2F56,SEC_walking,Rural,NA,21
 Malta,regional,MT00,Malta,R2F56,SEC_walking,Rural,NA,20
 Spain,regional,ES3,Madrid,R2F56,SEC_walking,Rural,NA,19
-Austria,regional,AT1,East Austria,R2F57,psafe1,18-24,NA,10
-Austria,regional,AT1,East Austria,R2F57,psafe1,25-34,NA,25
-Austria,regional,AT1,East Austria,R2F57,psafe1,35-44,NA,22
-Austria,regional,AT2,South Austria,R2F57,psafe1,18-24,NA,13
-Austria,regional,AT3,West Austria,R2F57,psafe1,18-24,NA,17
-Austria,regional,AT3,West Austria,R2F57,psafe1,25-34,NA,28
-Austria,regional,AT3,West Austria,R2F57,psafe1,35-44,NA,26
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,+65,NA,20
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,18-24,NA,12
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,25-34,NA,22
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,35-44,NA,19
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,45-54,NA,15
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,55-64,NA,10
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,18-24,NA,5
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,25-34,NA,20
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,35-44,NA,21
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,45-54,NA,19
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,55-64,NA,9
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,+65,NA,17
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,18-24,NA,8
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,25-34,NA,11
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,35-44,NA,18
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,45-54,NA,16
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,55-64,NA,13
-Bulgaria,regional,BG3,North and South-East,R2F57,psafe1,18-24,NA,16
-Bulgaria,regional,BG3,North and South-East,R2F57,psafe1,25-34,NA,29
-Bulgaria,regional,BG4,South -West/-Central,R2F57,psafe1,18-24,NA,19
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,18-24,NA,16
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,25-34,NA,15
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,35-44,NA,20
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,45-54,NA,25
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,18-24,NA,13
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,25-34,NA,28
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,35-44,NA,28
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,45-54,NA,24
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,18-24,NA,3
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,35-44,NA,28
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,45-54,NA,25
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,55-64,NA,25
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,18-24,NA,12
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,25-34,NA,17
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,35-44,NA,19
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,45-54,NA,22
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,55-64,NA,25
-Czechia,regional,CZ01,Prague,R2F57,psafe1,+65,NA,7
-Czechia,regional,CZ01,Prague,R2F57,psafe1,18-24,NA,2
-Czechia,regional,CZ01,Prague,R2F57,psafe1,25-34,NA,7
-Czechia,regional,CZ01,Prague,R2F57,psafe1,35-44,NA,17
-Czechia,regional,CZ01,Prague,R2F57,psafe1,45-54,NA,12
-Czechia,regional,CZ01,Prague,R2F57,psafe1,55-64,NA,3
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,18-24,NA,10
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,25-34,NA,17
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,45-54,NA,29
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,55-64,NA,20
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,+65,NA,23
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,18-24,NA,5
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,25-34,NA,16
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,35-44,NA,21
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,45-54,NA,21
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,55-64,NA,16
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,+65,NA,21
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,18-24,NA,4
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,25-34,NA,20
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,35-44,NA,18
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,45-54,NA,21
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,55-64,NA,16
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,18-24,NA,18
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,35-44,NA,17
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,45-54,NA,23
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,55-64,NA,28
-Denmark,regional,DK02,Zealand,R2F57,psafe1,18-24,NA,10
-Denmark,regional,DK02,Zealand,R2F57,psafe1,25-34,NA,20
-Denmark,regional,DK02,Zealand,R2F57,psafe1,35-44,NA,24
-Denmark,regional,DK02,Zealand,R2F57,psafe1,45-54,NA,20
-Denmark,regional,DK02,Zealand,R2F57,psafe1,55-64,NA,21
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,18-24,NA,14
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,25-34,NA,18
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,35-44,NA,17
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,55-64,NA,23
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,18-24,NA,19
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,25-34,NA,22
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,35-44,NA,13
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,45-54,NA,24
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,55-64,NA,23
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,18-24,NA,9
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,25-34,NA,16
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,35-44,NA,15
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,45-54,NA,20
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,55-64,NA,21
-Estonia,regional,EE0,Estonia,R2F57,psafe1,18-24,NA,26
-Finland,regional,FI19,West Finland,R2F57,psafe1,18-24,NA,20
-Finland,regional,FI19,West Finland,R2F57,psafe1,35-44,NA,25
-Finland,regional,FI19,West Finland,R2F57,psafe1,55-64,NA,24
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,18-24,NA,20
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,35-44,NA,26
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,45-54,NA,24
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,55-64,NA,20
-Finland,regional,FI1C20,South Finland and Åland,R2F57,psafe1,18-24,NA,13
-Finland,regional,FI1D,North and East Finland,R2F57,psafe1,18-24,NA,15
-Finland,regional,FI1D,North and East Finland,R2F57,psafe1,25-34,NA,18
-Finland,regional,FI1D,North and East Finland,R2F57,psafe1,35-44,NA,25
-Finland,regional,FI1D,North and East Finland,R2F57,psafe1,45-54,NA,24
-France,regional,FR1,Île-de-France,R2F57,psafe1,18-24,NA,10
-France,regional,FR1,Île-de-France,R2F57,psafe1,25-34,NA,17
-France,regional,FR1,Île-de-France,R2F57,psafe1,35-44,NA,19
-France,regional,FR1,Île-de-France,R2F57,psafe1,45-54,NA,21
-France,regional,FR1,Île-de-France,R2F57,psafe1,55-64,NA,9
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,18-24,NA,4
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,25-34,NA,6
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,35-44,NA,15
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,45-54,NA,19
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,55-64,NA,24
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,+65,NA,28
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,18-24,NA,6
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,25-34,NA,15
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,35-44,NA,12
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,45-54,NA,22
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,55-64,NA,19
-France,regional,FRD,Normandy,R2F57,psafe1,+65,NA,27
-France,regional,FRD,Normandy,R2F57,psafe1,18-24,NA,9
-France,regional,FRD,Normandy,R2F57,psafe1,25-34,NA,15
-France,regional,FRD,Normandy,R2F57,psafe1,35-44,NA,24
-France,regional,FRD,Normandy,R2F57,psafe1,45-54,NA,13
-France,regional,FRD,Normandy,R2F57,psafe1,55-64,NA,23
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,18-24,NA,5
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,25-34,NA,14
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,35-44,NA,13
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,45-54,NA,20
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,55-64,NA,18
-France,regional,FRF,Grand Est,R2F57,psafe1,18-24,NA,7
-France,regional,FRF,Grand Est,R2F57,psafe1,25-34,NA,16
-France,regional,FRF,Grand Est,R2F57,psafe1,35-44,NA,13
-France,regional,FRF,Grand Est,R2F57,psafe1,45-54,NA,17
-France,regional,FRF,Grand Est,R2F57,psafe1,55-64,NA,24
-France,regional,FRG,Loire Region,R2F57,psafe1,18-24,NA,3
-France,regional,FRG,Loire Region,R2F57,psafe1,25-34,NA,8
-France,regional,FRG,Loire Region,R2F57,psafe1,35-44,NA,19
-France,regional,FRG,Loire Region,R2F57,psafe1,45-54,NA,17
-France,regional,FRG,Loire Region,R2F57,psafe1,55-64,NA,9
-France,regional,FRH,Brittany ,R2F57,psafe1,+65,NA,23
-France,regional,FRH,Brittany ,R2F57,psafe1,18-24,NA,7
-France,regional,FRH,Brittany ,R2F57,psafe1,25-34,NA,7
-France,regional,FRH,Brittany ,R2F57,psafe1,35-44,NA,10
-France,regional,FRH,Brittany ,R2F57,psafe1,45-54,NA,18
-France,regional,FRH,Brittany ,R2F57,psafe1,55-64,NA,16
-France,regional,FRI,New Aquitaine,R2F57,psafe1,18-24,NA,9
-France,regional,FRI,New Aquitaine,R2F57,psafe1,25-34,NA,14
-France,regional,FRI,New Aquitaine,R2F57,psafe1,35-44,NA,14
-France,regional,FRI,New Aquitaine,R2F57,psafe1,45-54,NA,21
-France,regional,FRI,New Aquitaine,R2F57,psafe1,55-64,NA,20
-France,regional,FRJ,Occitania,R2F57,psafe1,18-24,NA,8
-France,regional,FRJ,Occitania,R2F57,psafe1,25-34,NA,11
-France,regional,FRJ,Occitania,R2F57,psafe1,35-44,NA,16
-France,regional,FRJ,Occitania,R2F57,psafe1,45-54,NA,12
-France,regional,FRJ,Occitania,R2F57,psafe1,55-64,NA,17
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,+65,NA,28
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,18-24,NA,6
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,25-34,NA,8
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,35-44,NA,13
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,45-54,NA,16
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,55-64,NA,23
-France,regional,FRL,PACA,R2F57,psafe1,18-24,NA,6
-France,regional,FRL,PACA,R2F57,psafe1,25-34,NA,11
-France,regional,FRL,PACA,R2F57,psafe1,35-44,NA,8
-France,regional,FRL,PACA,R2F57,psafe1,45-54,NA,21
-France,regional,FRL,PACA,R2F57,psafe1,55-64,NA,23
-France,regional,FRM,Corsica ,R2F57,psafe1,+65,NA,15
-France,regional,FRM,Corsica ,R2F57,psafe1,18-24,NA,3
-France,regional,FRM,Corsica ,R2F57,psafe1,25-34,NA,6
-France,regional,FRM,Corsica ,R2F57,psafe1,35-44,NA,10
-France,regional,FRM,Corsica ,R2F57,psafe1,45-54,NA,4
-France,regional,FRM,Corsica ,R2F57,psafe1,55-64,NA,6
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,18-24,NA,2
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,25-34,NA,16
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,35-44,NA,27
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,45-54,NA,17
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,55-64,NA,24
-Germany,regional,DE2,Bavaria,R2F57,psafe1,18-24,NA,8
-Germany,regional,DE2,Bavaria,R2F57,psafe1,25-34,NA,15
-Germany,regional,DE2,Bavaria,R2F57,psafe1,35-44,NA,25
-Germany,regional,DE2,Bavaria,R2F57,psafe1,45-54,NA,23
-Germany,regional,DE2,Bavaria,R2F57,psafe1,55-64,NA,25
-Germany,regional,DE3,Berlin,R2F57,psafe1,18-24,NA,10
-Germany,regional,DE3,Berlin,R2F57,psafe1,25-34,NA,26
-Germany,regional,DE3,Berlin,R2F57,psafe1,35-44,NA,25
-Germany,regional,DE3,Berlin,R2F57,psafe1,45-54,NA,17
-Germany,regional,DE3,Berlin,R2F57,psafe1,55-64,NA,21
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,18-24,NA,6
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,25-34,NA,11
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,35-44,NA,22
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,45-54,NA,26
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,55-64,NA,26
-Germany,regional,DE5,Bremen,R2F57,psafe1,+65,NA,12
-Germany,regional,DE5,Bremen,R2F57,psafe1,18-24,NA,6
-Germany,regional,DE5,Bremen,R2F57,psafe1,25-34,NA,12
-Germany,regional,DE5,Bremen,R2F57,psafe1,35-44,NA,16
-Germany,regional,DE5,Bremen,R2F57,psafe1,45-54,NA,16
-Germany,regional,DE5,Bremen,R2F57,psafe1,55-64,NA,17
-Germany,regional,DE6,Hamburg,R2F57,psafe1,18-24,NA,12
-Germany,regional,DE6,Hamburg,R2F57,psafe1,25-34,NA,16
-Germany,regional,DE6,Hamburg,R2F57,psafe1,35-44,NA,23
-Germany,regional,DE6,Hamburg,R2F57,psafe1,45-54,NA,24
-Germany,regional,DE6,Hamburg,R2F57,psafe1,55-64,NA,25
-Germany,regional,DE7,Hessen,R2F57,psafe1,18-24,NA,13
-Germany,regional,DE7,Hessen,R2F57,psafe1,25-34,NA,20
-Germany,regional,DE7,Hessen,R2F57,psafe1,35-44,NA,15
-Germany,regional,DE7,Hessen,R2F57,psafe1,45-54,NA,25
-Germany,regional,DE7,Hessen,R2F57,psafe1,55-64,NA,28
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,18-24,NA,3
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,25-34,NA,19
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,35-44,NA,20
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,45-54,NA,20
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,55-64,NA,29
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,18-24,NA,10
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,25-34,NA,12
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,35-44,NA,14
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,45-54,NA,24
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,55-64,NA,28
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,18-24,NA,10
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,25-34,NA,15
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,35-44,NA,22
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,45-54,NA,15
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,55-64,NA,26
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,18-24,NA,10
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,25-34,NA,19
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,35-44,NA,22
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,45-54,NA,23
-Germany,regional,DEC,Saarland,R2F57,psafe1,18-24,NA,5
-Germany,regional,DEC,Saarland,R2F57,psafe1,25-34,NA,12
-Germany,regional,DEC,Saarland,R2F57,psafe1,35-44,NA,20
-Germany,regional,DEC,Saarland,R2F57,psafe1,45-54,NA,26
-Germany,regional,DED,Saxony,R2F57,psafe1,18-24,NA,11
-Germany,regional,DED,Saxony,R2F57,psafe1,25-34,NA,11
-Germany,regional,DED,Saxony,R2F57,psafe1,35-44,NA,17
-Germany,regional,DED,Saxony,R2F57,psafe1,45-54,NA,23
-Germany,regional,DED,Saxony,R2F57,psafe1,55-64,NA,23
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,18-24,NA,7
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,25-34,NA,8
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,35-44,NA,16
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,45-54,NA,24
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,18-24,NA,8
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,25-34,NA,15
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,35-44,NA,10
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,45-54,NA,25
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,55-64,NA,28
-Germany,regional,DEG,Thuringia,R2F57,psafe1,18-24,NA,3
-Germany,regional,DEG,Thuringia,R2F57,psafe1,25-34,NA,15
-Germany,regional,DEG,Thuringia,R2F57,psafe1,35-44,NA,18
-Germany,regional,DEG,Thuringia,R2F57,psafe1,45-54,NA,28
-Germany,regional,DEG,Thuringia,R2F57,psafe1,55-64,NA,21
-Greece,regional,EL3,Attica,R2F57,psafe1,+65,NA,16
-Greece,regional,EL3,Attica,R2F57,psafe1,18-24,NA,8
-Greece,regional,EL3,Attica,R2F57,psafe1,25-34,NA,24
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,+65,NA,23
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,18-24,NA,13
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,25-34,NA,15
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,35-44,NA,25
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,55-64,NA,20
-Greece,regional,EL5,North Greece,R2F57,psafe1,18-24,NA,9
-Greece,regional,EL5,North Greece,R2F57,psafe1,25-34,NA,15
-Greece,regional,EL5,North Greece,R2F57,psafe1,45-54,NA,15
-Greece,regional,EL5,North Greece,R2F57,psafe1,55-64,NA,18
-Greece,regional,EL6,Central Greece,R2F57,psafe1,+65,NA,18
-Greece,regional,EL6,Central Greece,R2F57,psafe1,18-24,NA,9
-Greece,regional,EL6,Central Greece,R2F57,psafe1,25-34,NA,13
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,18-24,NA,4
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,25-34,NA,20
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,55-64,NA,16
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,+65,NA,21
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,18-24,NA,6
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,25-34,NA,17
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,35-44,NA,21
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,45-54,NA,15
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,55-64,NA,14
-Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,18-24,NA,14
-Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,25-34,NA,22
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,+65,NA,15
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,18-24,NA,8
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,25-34,NA,14
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,35-44,NA,17
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,45-54,NA,22
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,55-64,NA,13
-Ireland,regional,IE05,Southern,R2F57,psafe1,+65,NA,20
-Ireland,regional,IE05,Southern,R2F57,psafe1,18-24,NA,9
-Ireland,regional,IE05,Southern,R2F57,psafe1,25-34,NA,14
-Ireland,regional,IE05,Southern,R2F57,psafe1,35-44,NA,18
-Ireland,regional,IE05,Southern,R2F57,psafe1,45-54,NA,25
-Ireland,regional,IE05,Southern,R2F57,psafe1,55-64,NA,19
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,+65,NA,17
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,18-24,NA,18
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,25-34,NA,16
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,45-54,NA,22
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,55-64,NA,12
-Italy,regional,ITC,North-West,R2F57,psafe1,18-24,NA,12
-Italy,regional,ITC,North-West,R2F57,psafe1,25-34,NA,26
-Italy,regional,ITF,South,R2F57,psafe1,18-24,NA,19
-Italy,regional,ITF,South,R2F57,psafe1,25-34,NA,25
-Italy,regional,ITG,Islands,R2F57,psafe1,18-24,NA,21
-Italy,regional,ITG,Islands,R2F57,psafe1,25-34,NA,12
-Italy,regional,ITH,North-East,R2F57,psafe1,18-24,NA,14
-Italy,regional,ITH,North-East,R2F57,psafe1,25-34,NA,22
-Italy,regional,ITI,Centre,R2F57,psafe1,18-24,NA,11
-Italy,regional,ITI,Centre,R2F57,psafe1,25-34,NA,19
-Latvia,regional,LV00,Latvia,R2F57,psafe1,18-24,NA,18
-Lithuania,regional,LT01,Capital Region,R2F57,psafe1,18-24,NA,16
-Lithuania,regional,LT02,Central/Western Region,R2F57,psafe1,18-24,NA,20
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,+65,NA,27
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,18-24,NA,12
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,25-34,NA,22
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,35-44,NA,27
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,45-54,NA,17
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,55-64,NA,25
-Malta,regional,MT00,Malta,R2F57,psafe1,+65,NA,28
-Malta,regional,MT00,Malta,R2F57,psafe1,18-24,NA,16
-Malta,regional,MT00,Malta,R2F57,psafe1,25-34,NA,28
-Malta,regional,MT00,Malta,R2F57,psafe1,35-44,NA,27
-Malta,regional,MT00,Malta,R2F57,psafe1,45-54,NA,23
-Malta,regional,MT00,Malta,R2F57,psafe1,55-64,NA,24
-Netherlands,regional,NL1,North Netherlands,R2F57,psafe1,18-24,NA,17
-Netherlands,regional,NL1,North Netherlands,R2F57,psafe1,25-34,NA,27
-Netherlands,regional,NL1,North Netherlands,R2F57,psafe1,35-44,NA,21
-Netherlands,regional,NL1,North Netherlands,R2F57,psafe1,45-54,NA,29
-Netherlands,regional,NL2,East Netherlands,R2F57,psafe1,18-24,NA,28
-Netherlands,regional,NL2,East Netherlands,R2F57,psafe1,25-34,NA,25
-Netherlands,regional,NL3,West Netherlands,R2F57,psafe1,18-24,NA,20
-Netherlands,regional,NL3,West Netherlands,R2F57,psafe1,55-64,NA,28
-Netherlands,regional,NL4,South Netherlands,R2F57,psafe1,18-24,NA,15
-Netherlands,regional,NL4,South Netherlands,R2F57,psafe1,25-34,NA,25
-Poland,regional,PL2,Southern,R2F57,psafe1,18-24,NA,14
-Poland,regional,PL4,North-Western,R2F57,psafe1,18-24,NA,19
-Poland,regional,PL4,North-Western,R2F57,psafe1,25-34,NA,29
-Poland,regional,PL4,North-Western,R2F57,psafe1,45-54,NA,29
-Poland,regional,PL5,South-Western,R2F57,psafe1,18-24,NA,18
-Poland,regional,PL5,South-Western,R2F57,psafe1,35-44,NA,29
-Poland,regional,PL6,Northern,R2F57,psafe1,18-24,NA,22
-Poland,regional,PL7,Central,R2F57,psafe1,18-24,NA,17
-Poland,regional,PL7,Central,R2F57,psafe1,25-34,NA,22
-Poland,regional,PL7,Central,R2F57,psafe1,45-54,NA,29
-Poland,regional,PL7,Central,R2F57,psafe1,55-64,NA,25
-Poland,regional,PL8,Eastern,R2F57,psafe1,18-24,NA,11
-Poland,regional,PL8,Eastern,R2F57,psafe1,25-34,NA,22
-Poland,regional,PL8,Eastern,R2F57,psafe1,45-54,NA,23
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,18-24,NA,15
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,55-64,NA,20
-Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,18-24,NA,14
-Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,25-34,NA,23
-Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,45-54,NA,25
-Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,55-64,NA,16
-Portugal,regional,PT2,Azores,R2F57,psafe1,18-24,NA,20
-Portugal,regional,PT2,Azores,R2F57,psafe1,35-44,NA,29
-Portugal,regional,PT2,Azores,R2F57,psafe1,55-64,NA,23
-Portugal,regional,PT3,Madeira,R2F57,psafe1,18-24,NA,18
-Portugal,regional,PT3,Madeira,R2F57,psafe1,25-34,NA,27
-Portugal,regional,PT3,Madeira,R2F57,psafe1,35-44,NA,29
-Romania,regional,RO1,Macroregion One,R2F57,psafe1,18-24,NA,25
-Romania,regional,RO1,Macroregion One,R2F57,psafe1,25-34,NA,29
-Romania,regional,RO2,Macroregion Two,R2F57,psafe1,18-24,NA,17
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,18-24,NA,14
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,25-34,NA,24
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,35-44,NA,29
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,55-64,NA,22
-Romania,regional,RO4,Macroregion Four,R2F57,psafe1,18-24,NA,14
-Romania,regional,RO4,Macroregion Four,R2F57,psafe1,25-34,NA,27
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,+65,NA,11
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,18-24,NA,1
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,25-34,NA,18
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,35-44,NA,20
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,45-54,NA,23
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,55-64,NA,11
-Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,+65,NA,24
-Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,18-24,NA,7
-Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,55-64,NA,21
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,+65,NA,23
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,18-24,NA,7
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,25-34,NA,24
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,55-64,NA,16
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,+65,NA,11
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,18-24,NA,8
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,25-34,NA,24
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,35-44,NA,22
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,55-64,NA,24
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,18-24,NA,10
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,25-34,NA,21
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,35-44,NA,20
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,45-54,NA,15
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,55-64,NA,22
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,18-24,NA,12
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,25-34,NA,16
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,35-44,NA,22
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,45-54,NA,21
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,55-64,NA,17
-Spain,regional,ES1,North-West,R2F57,psafe1,18-24,NA,7
-Spain,regional,ES1,North-West,R2F57,psafe1,25-34,NA,14
-Spain,regional,ES1,North-West,R2F57,psafe1,35-44,NA,17
-Spain,regional,ES2,North-East,R2F57,psafe1,18-24,NA,12
-Spain,regional,ES2,North-East,R2F57,psafe1,25-34,NA,13
-Spain,regional,ES2,North-East,R2F57,psafe1,35-44,NA,17
-Spain,regional,ES2,North-East,R2F57,psafe1,45-54,NA,21
-Spain,regional,ES2,North-East,R2F57,psafe1,55-64,NA,24
-Spain,regional,ES3,Madrid,R2F57,psafe1,18-24,NA,15
-Spain,regional,ES3,Madrid,R2F57,psafe1,25-34,NA,20
-Spain,regional,ES3,Madrid,R2F57,psafe1,35-44,NA,27
-Spain,regional,ES3,Madrid,R2F57,psafe1,45-54,NA,24
-Spain,regional,ES3,Madrid,R2F57,psafe1,55-64,NA,25
-Spain,regional,ES4,Centre,R2F57,psafe1,18-24,NA,10
-Spain,regional,ES4,Centre,R2F57,psafe1,25-34,NA,16
-Spain,regional,ES4,Centre,R2F57,psafe1,35-44,NA,28
-Spain,regional,ES4,Centre,R2F57,psafe1,45-54,NA,25
-Spain,regional,ES4,Centre,R2F57,psafe1,55-64,NA,25
-Spain,regional,ES5,East,R2F57,psafe1,18-24,NA,8
-Spain,regional,ES5,East,R2F57,psafe1,25-34,NA,20
-Spain,regional,ES5,East,R2F57,psafe1,35-44,NA,26
-Spain,regional,ES5,East,R2F57,psafe1,45-54,NA,23
-Spain,regional,ES5,East,R2F57,psafe1,55-64,NA,27
-Spain,regional,ES6,South,R2F57,psafe1,18-24,NA,4
-Spain,regional,ES6,South,R2F57,psafe1,25-34,NA,20
-Spain,regional,ES6,South,R2F57,psafe1,35-44,NA,20
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,+65,NA,19
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,18-24,NA,13
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,25-34,NA,16
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,35-44,NA,22
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,45-54,NA,26
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,55-64,NA,27
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,+65,NA,29
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,18-24,NA,17
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,25-34,NA,23
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,35-44,NA,19
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,45-54,NA,24
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,55-64,NA,21
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,18-24,NA,7
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,25-34,NA,15
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,35-44,NA,22
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,45-54,NA,25
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,55-64,NA,15
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,18-24,NA,8
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,25-34,NA,19
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,35-44,NA,20
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,45-54,NA,23
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,55-64,NA,21
-Czechia,regional,CZ01,Prague,R2F57,psafe1,Female,NA,16
-France,regional,FRM,Corsica ,R2F57,psafe1,Female,NA,21
-France,regional,FRM,Corsica ,R2F57,psafe1,Male,NA,23
-Austria,regional,AT1,East Austria,R2F57,psafe1,Income Quintile 1,NA,19
-Austria,regional,AT2,South Austria,R2F57,psafe1,Income Quintile 1,NA,17
-Austria,regional,AT3,West Austria,R2F57,psafe1,Income Quintile 1,NA,4
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,Income Quintile 1,NA,17
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,Income Quintile 2,NA,25
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,Income Quintile 3,NA,21
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,Income Quintile 4,NA,11
-Belgium,regional,BE1,Brussels Region,R2F57,psafe1,Income Quintile 5,NA,17
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Income Quintile 1,NA,17
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Income Quintile 2,NA,29
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Income Quintile 3,NA,22
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Income Quintile 4,NA,18
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Income Quintile 5,NA,17
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,Income Quintile 1,NA,15
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,Income Quintile 2,NA,22
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,Income Quintile 3,NA,13
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,Income Quintile 4,NA,18
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,Income Quintile 5,NA,10
-Bulgaria,regional,BG3,North and South-East,R2F57,psafe1,Income Quintile 1,NA,23
-Bulgaria,regional,BG4,South -West/-Central,R2F57,psafe1,Income Quintile 1,NA,29
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,Income Quintile 1,NA,23
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,Income Quintile 2,NA,19
-Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,Income Quintile 3,NA,11
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 1,NA,17
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 2,NA,13
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 3,NA,14
-Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 4,NA,25
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,Income Quintile 1,NA,26
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,Income Quintile 2,NA,25
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,Income Quintile 3,NA,14
-Croatia,regional,HR05,Zagreb,R2F57,psafe1,Income Quintile 4,NA,22
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 1,NA,20
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 2,NA,15
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 3,NA,14
-Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 4,NA,8
-Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 2,NA,10
-Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 3,NA,10
-Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 4,NA,11
-Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 5,NA,15
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,Income Quintile 1,NA,12
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,Income Quintile 2,NA,28
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,Income Quintile 3,NA,27
-Czechia,regional,CZ020304,Western and Central Bohemia,R2F57,psafe1,Income Quintile 5,NA,28
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,Income Quintile 1,NA,8
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,Income Quintile 2,NA,19
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,Income Quintile 3,NA,17
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,Income Quintile 4,NA,28
-Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,Income Quintile 5,NA,23
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,Income Quintile 1,NA,12
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,Income Quintile 2,NA,20
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,Income Quintile 3,NA,19
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,Income Quintile 4,NA,24
-Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,Income Quintile 5,NA,20
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,Income Quintile 1,NA,18
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,Income Quintile 2,NA,21
-Denmark,regional,DK02,Zealand,R2F57,psafe1,Income Quintile 1,NA,14
-Denmark,regional,DK02,Zealand,R2F57,psafe1,Income Quintile 2,NA,28
-Denmark,regional,DK02,Zealand,R2F57,psafe1,Income Quintile 4,NA,23
-Denmark,regional,DK02,Zealand,R2F57,psafe1,Income Quintile 5,NA,23
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,Income Quintile 1,NA,16
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,Income Quintile 2,NA,24
-Denmark,regional,DK03,South Denmark,R2F57,psafe1,Income Quintile 5,NA,19
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,Income Quintile 1,NA,16
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,Income Quintile 2,NA,17
-Denmark,regional,DK04,Central Jutland,R2F57,psafe1,Income Quintile 5,NA,14
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,Income Quintile 1,NA,14
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,Income Quintile 2,NA,16
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,Income Quintile 4,NA,27
-Denmark,regional,DK05,North Jutland,R2F57,psafe1,Income Quintile 5,NA,18
-Estonia,regional,EE0,Estonia,R2F57,psafe1,Income Quintile 1,NA,9
-Finland,regional,FI19,West Finland,R2F57,psafe1,Income Quintile 1,NA,24
-Finland,regional,FI19,West Finland,R2F57,psafe1,Income Quintile 3,NA,23
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,Income Quintile 1,NA,21
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,Income Quintile 2,NA,22
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,Income Quintile 4,NA,26
-Finland,regional,FI1C20,South Finland and Åland,R2F57,psafe1,Income Quintile 1,NA,25
-Finland,regional,FI1C20,South Finland and Åland,R2F57,psafe1,Income Quintile 2,NA,23
-Finland,regional,FI1D,North and East Finland,R2F57,psafe1,Income Quintile 1,NA,20
-Finland,regional,FI1D,North and East Finland,R2F57,psafe1,Income Quintile 3,NA,27
-France,regional,FR1,Île-de-France,R2F57,psafe1,Income Quintile 1,NA,12
-France,regional,FR1,Île-de-France,R2F57,psafe1,Income Quintile 2,NA,22
-France,regional,FR1,Île-de-France,R2F57,psafe1,Income Quintile 3,NA,19
-France,regional,FR1,Île-de-France,R2F57,psafe1,Income Quintile 4,NA,20
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,Income Quintile 1,NA,16
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,Income Quintile 2,NA,20
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,Income Quintile 3,NA,16
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,Income Quintile 4,NA,22
-France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,Income Quintile 5,NA,24
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,Income Quintile 1,NA,14
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,Income Quintile 2,NA,22
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,Income Quintile 3,NA,20
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,Income Quintile 4,NA,18
-France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,Income Quintile 5,NA,24
-France,regional,FRD,Normandy,R2F57,psafe1,Income Quintile 1,NA,20
-France,regional,FRD,Normandy,R2F57,psafe1,Income Quintile 2,NA,16
-France,regional,FRD,Normandy,R2F57,psafe1,Income Quintile 3,NA,15
-France,regional,FRD,Normandy,R2F57,psafe1,Income Quintile 4,NA,25
-France,regional,FRD,Normandy,R2F57,psafe1,Income Quintile 5,NA,27
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,Income Quintile 1,NA,19
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,Income Quintile 2,NA,17
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,Income Quintile 3,NA,17
-France,regional,FRE,Hauts-de-France,R2F57,psafe1,Income Quintile 4,NA,10
-France,regional,FRF,Grand Est,R2F57,psafe1,Income Quintile 2,NA,12
-France,regional,FRF,Grand Est,R2F57,psafe1,Income Quintile 3,NA,21
-France,regional,FRF,Grand Est,R2F57,psafe1,Income Quintile 4,NA,17
-France,regional,FRF,Grand Est,R2F57,psafe1,Income Quintile 5,NA,24
-France,regional,FRG,Loire Region,R2F57,psafe1,Income Quintile 1,NA,10
-France,regional,FRG,Loire Region,R2F57,psafe1,Income Quintile 2,NA,8
-France,regional,FRG,Loire Region,R2F57,psafe1,Income Quintile 3,NA,18
-France,regional,FRG,Loire Region,R2F57,psafe1,Income Quintile 4,NA,23
-France,regional,FRG,Loire Region,R2F57,psafe1,Income Quintile 5,NA,20
-France,regional,FRH,Brittany ,R2F57,psafe1,Income Quintile 1,NA,10
-France,regional,FRH,Brittany ,R2F57,psafe1,Income Quintile 2,NA,17
-France,regional,FRH,Brittany ,R2F57,psafe1,Income Quintile 3,NA,12
-France,regional,FRH,Brittany ,R2F57,psafe1,Income Quintile 4,NA,18
-France,regional,FRH,Brittany ,R2F57,psafe1,Income Quintile 5,NA,17
-France,regional,FRI,New Aquitaine,R2F57,psafe1,Income Quintile 1,NA,17
-France,regional,FRI,New Aquitaine,R2F57,psafe1,Income Quintile 2,NA,18
-France,regional,FRI,New Aquitaine,R2F57,psafe1,Income Quintile 3,NA,25
-France,regional,FRI,New Aquitaine,R2F57,psafe1,Income Quintile 4,NA,19
-France,regional,FRI,New Aquitaine,R2F57,psafe1,Income Quintile 5,NA,28
-France,regional,FRJ,Occitania,R2F57,psafe1,Income Quintile 1,NA,20
-France,regional,FRJ,Occitania,R2F57,psafe1,Income Quintile 2,NA,22
-France,regional,FRJ,Occitania,R2F57,psafe1,Income Quintile 3,NA,18
-France,regional,FRJ,Occitania,R2F57,psafe1,Income Quintile 4,NA,16
-France,regional,FRJ,Occitania,R2F57,psafe1,Income Quintile 5,NA,24
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,Income Quintile 1,NA,11
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,Income Quintile 2,NA,16
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,Income Quintile 3,NA,16
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,Income Quintile 4,NA,22
-France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,Income Quintile 5,NA,20
-France,regional,FRL,PACA,R2F57,psafe1,Income Quintile 1,NA,20
-France,regional,FRL,PACA,R2F57,psafe1,Income Quintile 2,NA,25
-France,regional,FRL,PACA,R2F57,psafe1,Income Quintile 3,NA,15
-France,regional,FRL,PACA,R2F57,psafe1,Income Quintile 4,NA,13
-France,regional,FRL,PACA,R2F57,psafe1,Income Quintile 5,NA,28
-France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 1,NA,6
-France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 2,NA,7
-France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 3,NA,6
-France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 4,NA,12
-France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 5,NA,10
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,Income Quintile 1,NA,22
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,Income Quintile 3,NA,24
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,Income Quintile 4,NA,21
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,Income Quintile 5,NA,18
-Germany,regional,DE2,Bavaria,R2F57,psafe1,Income Quintile 1,NA,23
-Germany,regional,DE2,Bavaria,R2F57,psafe1,Income Quintile 4,NA,29
-Germany,regional,DE2,Bavaria,R2F57,psafe1,Income Quintile 5,NA,24
-Germany,regional,DE3,Berlin,R2F57,psafe1,Income Quintile 1,NA,23
-Germany,regional,DE3,Berlin,R2F57,psafe1,Income Quintile 2,NA,25
-Germany,regional,DE3,Berlin,R2F57,psafe1,Income Quintile 3,NA,21
-Germany,regional,DE3,Berlin,R2F57,psafe1,Income Quintile 5,NA,27
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,Income Quintile 1,NA,21
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,Income Quintile 2,NA,27
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,Income Quintile 4,NA,22
-Germany,regional,DE4,Brandenburg,R2F57,psafe1,Income Quintile 5,NA,25
-Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 1,NA,9
-Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 2,NA,21
-Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 3,NA,15
-Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 4,NA,13
-Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 5,NA,15
-Germany,regional,DE6,Hamburg,R2F57,psafe1,Income Quintile 1,NA,24
-Germany,regional,DE6,Hamburg,R2F57,psafe1,Income Quintile 2,NA,27
-Germany,regional,DE6,Hamburg,R2F57,psafe1,Income Quintile 3,NA,26
-Germany,regional,DE6,Hamburg,R2F57,psafe1,Income Quintile 4,NA,26
-Germany,regional,DE6,Hamburg,R2F57,psafe1,Income Quintile 5,NA,26
-Germany,regional,DE7,Hessen,R2F57,psafe1,Income Quintile 1,NA,17
-Germany,regional,DE7,Hessen,R2F57,psafe1,Income Quintile 5,NA,20
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,Income Quintile 1,NA,26
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,Income Quintile 3,NA,29
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,Income Quintile 4,NA,25
-Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,Income Quintile 5,NA,15
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,Income Quintile 1,NA,28
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,Income Quintile 3,NA,29
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,Income Quintile 4,NA,20
-Germany,regional,DE9,Lower Saxony,R2F57,psafe1,Income Quintile 5,NA,17
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,Income Quintile 1,NA,22
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,Income Quintile 4,NA,25
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,Income Quintile 5,NA,23
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,Income Quintile 1,NA,20
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,Income Quintile 4,NA,26
-Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,Income Quintile 5,NA,24
-Germany,regional,DEC,Saarland,R2F57,psafe1,Income Quintile 1,NA,12
-Germany,regional,DEC,Saarland,R2F57,psafe1,Income Quintile 4,NA,22
-Germany,regional,DEC,Saarland,R2F57,psafe1,Income Quintile 5,NA,27
-Germany,regional,DED,Saxony,R2F57,psafe1,Income Quintile 1,NA,29
-Germany,regional,DED,Saxony,R2F57,psafe1,Income Quintile 2,NA,29
-Germany,regional,DED,Saxony,R2F57,psafe1,Income Quintile 3,NA,21
-Germany,regional,DED,Saxony,R2F57,psafe1,Income Quintile 4,NA,27
-Germany,regional,DED,Saxony,R2F57,psafe1,Income Quintile 5,NA,13
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,Income Quintile 2,NA,24
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,Income Quintile 3,NA,27
-Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,Income Quintile 4,NA,19
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,Income Quintile 1,NA,24
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,Income Quintile 2,NA,16
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,Income Quintile 3,NA,27
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,Income Quintile 4,NA,24
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,Income Quintile 5,NA,28
-Germany,regional,DEG,Thuringia,R2F57,psafe1,Income Quintile 1,NA,20
-Germany,regional,DEG,Thuringia,R2F57,psafe1,Income Quintile 4,NA,24
-Germany,regional,DEG,Thuringia,R2F57,psafe1,Income Quintile 5,NA,16
-Greece,regional,EL3,Attica,R2F57,psafe1,Income Quintile 1,NA,5
-Greece,regional,EL3,Attica,R2F57,psafe1,Income Quintile 2,NA,29
-Greece,regional,EL3,Attica,R2F57,psafe1,Income Quintile 4,NA,18
-Greece,regional,EL3,Attica,R2F57,psafe1,Income Quintile 5,NA,5
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,Income Quintile 1,NA,22
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,Income Quintile 3,NA,24
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,Income Quintile 4,NA,9
-Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,Income Quintile 5,NA,5
-Greece,regional,EL5,North Greece,R2F57,psafe1,Income Quintile 1,NA,23
-Greece,regional,EL5,North Greece,R2F57,psafe1,Income Quintile 3,NA,29
-Greece,regional,EL5,North Greece,R2F57,psafe1,Income Quintile 4,NA,13
-Greece,regional,EL5,North Greece,R2F57,psafe1,Income Quintile 5,NA,3
-Greece,regional,EL6,Central Greece,R2F57,psafe1,Income Quintile 1,NA,20
-Greece,regional,EL6,Central Greece,R2F57,psafe1,Income Quintile 4,NA,20
-Greece,regional,EL6,Central Greece,R2F57,psafe1,Income Quintile 5,NA,3
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 1,NA,5
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 2,NA,11
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 3,NA,9
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 4,NA,18
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 1,NA,8
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 2,NA,6
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 3,NA,10
-Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 4,NA,16
-Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,Income Quintile 1,NA,18
-Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,Income Quintile 2,NA,23
-Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,Income Quintile 3,NA,29
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Income Quintile 1,NA,17
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Income Quintile 2,NA,19
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Income Quintile 3,NA,22
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Income Quintile 4,NA,15
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Income Quintile 5,NA,11
-Ireland,regional,IE05,Southern,R2F57,psafe1,Income Quintile 1,NA,25
-Ireland,regional,IE05,Southern,R2F57,psafe1,Income Quintile 2,NA,25
-Ireland,regional,IE05,Southern,R2F57,psafe1,Income Quintile 3,NA,24
-Ireland,regional,IE05,Southern,R2F57,psafe1,Income Quintile 4,NA,13
-Ireland,regional,IE05,Southern,R2F57,psafe1,Income Quintile 5,NA,14
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,Income Quintile 1,NA,17
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,Income Quintile 2,NA,18
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,Income Quintile 5,NA,16
-Italy,regional,ITC,North-West,R2F57,psafe1,Income Quintile 1,NA,14
-Italy,regional,ITF,South,R2F57,psafe1,Income Quintile 5,NA,22
-Italy,regional,ITG,Islands,R2F57,psafe1,Income Quintile 1,NA,16
-Italy,regional,ITH,North-East,R2F57,psafe1,Income Quintile 1,NA,9
-Italy,regional,ITI,Centre,R2F57,psafe1,Income Quintile 1,NA,13
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,Income Quintile 1,NA,23
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,Income Quintile 3,NA,26
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,Income Quintile 4,NA,19
-Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,Income Quintile 5,NA,11
-Malta,regional,MT00,Malta,R2F57,psafe1,Income Quintile 2,NA,26
-Malta,regional,MT00,Malta,R2F57,psafe1,Income Quintile 3,NA,28
-Malta,regional,MT00,Malta,R2F57,psafe1,Income Quintile 4,NA,19
-Malta,regional,MT00,Malta,R2F57,psafe1,Income Quintile 5,NA,26
-Netherlands,regional,NL1,North Netherlands,R2F57,psafe1,Income Quintile 4,NA,26
-Netherlands,regional,NL1,North Netherlands,R2F57,psafe1,Income Quintile 5,NA,21
-Netherlands,regional,NL2,East Netherlands,R2F57,psafe1,Income Quintile 1,NA,26
-Netherlands,regional,NL3,West Netherlands,R2F57,psafe1,Income Quintile 1,NA,21
-Netherlands,regional,NL4,South Netherlands,R2F57,psafe1,Income Quintile 1,NA,21
-Netherlands,regional,NL4,South Netherlands,R2F57,psafe1,Income Quintile 5,NA,29
-Poland,regional,PL2,Southern,R2F57,psafe1,Income Quintile 2,NA,22
-Poland,regional,PL2,Southern,R2F57,psafe1,Income Quintile 3,NA,21
-Poland,regional,PL2,Southern,R2F57,psafe1,Income Quintile 4,NA,13
-Poland,regional,PL2,Southern,R2F57,psafe1,Income Quintile 5,NA,16
-Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 1,NA,5
-Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 2,NA,19
-Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 3,NA,15
-Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 4,NA,20
-Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 5,NA,27
-Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 1,NA,23
-Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 2,NA,17
-Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 4,NA,21
-Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 5,NA,10
-Poland,regional,PL6,Northern,R2F57,psafe1,Income Quintile 1,NA,25
-Poland,regional,PL6,Northern,R2F57,psafe1,Income Quintile 2,NA,21
-Poland,regional,PL6,Northern,R2F57,psafe1,Income Quintile 3,NA,19
-Poland,regional,PL6,Northern,R2F57,psafe1,Income Quintile 4,NA,20
-Poland,regional,PL6,Northern,R2F57,psafe1,Income Quintile 5,NA,8
-Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 1,NA,13
-Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 2,NA,12
-Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 3,NA,12
-Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 4,NA,8
-Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 5,NA,16
-Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 1,NA,6
-Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 2,NA,5
-Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 3,NA,9
-Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 4,NA,9
-Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 5,NA,2
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 1,NA,15
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 2,NA,11
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 3,NA,16
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 4,NA,20
-Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 5,NA,10
-Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,Income Quintile 1,NA,18
-Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,Income Quintile 5,NA,12
-Portugal,regional,PT2,Azores,R2F57,psafe1,Income Quintile 1,NA,19
-Portugal,regional,PT2,Azores,R2F57,psafe1,Income Quintile 2,NA,25
-Portugal,regional,PT2,Azores,R2F57,psafe1,Income Quintile 3,NA,26
-Portugal,regional,PT2,Azores,R2F57,psafe1,Income Quintile 5,NA,21
-Portugal,regional,PT3,Madeira,R2F57,psafe1,Income Quintile 1,NA,13
-Portugal,regional,PT3,Madeira,R2F57,psafe1,Income Quintile 2,NA,27
-Portugal,regional,PT3,Madeira,R2F57,psafe1,Income Quintile 4,NA,27
-Portugal,regional,PT3,Madeira,R2F57,psafe1,Income Quintile 5,NA,20
-Romania,regional,RO1,Macroregion One,R2F57,psafe1,Income Quintile 1,NA,11
-Romania,regional,RO1,Macroregion One,R2F57,psafe1,Income Quintile 2,NA,23
-Romania,regional,RO1,Macroregion One,R2F57,psafe1,Income Quintile 3,NA,24
-Romania,regional,RO1,Macroregion One,R2F57,psafe1,Income Quintile 5,NA,15
-Romania,regional,RO2,Macroregion Two,R2F57,psafe1,Income Quintile 5,NA,11
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,Income Quintile 1,NA,10
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,Income Quintile 2,NA,21
-Romania,regional,RO3,Macroregion Three,R2F57,psafe1,Income Quintile 5,NA,26
-Romania,regional,RO4,Macroregion Four,R2F57,psafe1,Income Quintile 1,NA,21
-Romania,regional,RO4,Macroregion Four,R2F57,psafe1,Income Quintile 2,NA,23
-Romania,regional,RO4,Macroregion Four,R2F57,psafe1,Income Quintile 5,NA,9
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Income Quintile 1,NA,12
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Income Quintile 2,NA,19
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Income Quintile 3,NA,13
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Income Quintile 4,NA,12
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Income Quintile 5,NA,20
-Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,Income Quintile 3,NA,17
-Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,Income Quintile 4,NA,22
-Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,Income Quintile 5,NA,28
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,Income Quintile 1,NA,27
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,Income Quintile 3,NA,22
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,Income Quintile 4,NA,20
-Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,Income Quintile 5,NA,15
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,Income Quintile 1,NA,25
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,Income Quintile 2,NA,26
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,Income Quintile 3,NA,28
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,Income Quintile 4,NA,11
-Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,Income Quintile 5,NA,19
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,Income Quintile 1,NA,16
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,Income Quintile 2,NA,25
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,Income Quintile 3,NA,25
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,Income Quintile 4,NA,21
-Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,Income Quintile 5,NA,17
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,Income Quintile 1,NA,17
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,Income Quintile 2,NA,23
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,Income Quintile 3,NA,21
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,Income Quintile 4,NA,21
-Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,Income Quintile 5,NA,21
-Spain,regional,ES1,North-West,R2F57,psafe1,Income Quintile 1,NA,10
-Spain,regional,ES1,North-West,R2F57,psafe1,Income Quintile 2,NA,27
-Spain,regional,ES1,North-West,R2F57,psafe1,Income Quintile 5,NA,21
-Spain,regional,ES2,North-East,R2F57,psafe1,Income Quintile 1,NA,9
-Spain,regional,ES2,North-East,R2F57,psafe1,Income Quintile 2,NA,19
-Spain,regional,ES2,North-East,R2F57,psafe1,Income Quintile 3,NA,24
-Spain,regional,ES3,Madrid,R2F57,psafe1,Income Quintile 1,NA,7
-Spain,regional,ES3,Madrid,R2F57,psafe1,Income Quintile 2,NA,25
-Spain,regional,ES3,Madrid,R2F57,psafe1,Income Quintile 3,NA,24
-Spain,regional,ES4,Centre,R2F57,psafe1,Income Quintile 1,NA,13
-Spain,regional,ES4,Centre,R2F57,psafe1,Income Quintile 5,NA,15
-Spain,regional,ES5,East,R2F57,psafe1,Income Quintile 1,NA,13
-Spain,regional,ES5,East,R2F57,psafe1,Income Quintile 2,NA,28
-Spain,regional,ES5,East,R2F57,psafe1,Income Quintile 3,NA,23
-Spain,regional,ES5,East,R2F57,psafe1,Income Quintile 5,NA,28
-Spain,regional,ES6,South,R2F57,psafe1,Income Quintile 1,NA,22
-Spain,regional,ES6,South,R2F57,psafe1,Income Quintile 5,NA,18
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,Income Quintile 1,NA,23
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,Income Quintile 3,NA,29
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,Income Quintile 4,NA,21
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,Income Quintile 5,NA,10
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,Income Quintile 1,NA,17
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,Income Quintile 2,NA,16
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,Income Quintile 3,NA,23
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,Income Quintile 1,NA,7
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,Income Quintile 2,NA,20
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,Income Quintile 3,NA,26
-Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,Income Quintile 5,NA,24
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,Income Quintile 1,NA,7
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,Income Quintile 3,NA,27
-Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,Income Quintile 5,NA,26
-Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Rural,NA,11
-Belgium,regional,BE3,Walloon Region,R2F57,psafe1,Rural,NA,18
-Denmark,regional,DK01,Capital (region),R2F57,psafe1,Rural,NA,9
-Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,Rural,NA,16
-France,regional,FR1,Île-de-France,R2F57,psafe1,Rural,NA,8
-France,regional,FRL,PACA,R2F57,psafe1,Rural,NA,18
-France,regional,FRM,Corsica ,R2F57,psafe1,Rural,NA,24
-France,regional,FRM,Corsica ,R2F57,psafe1,Urban,NA,20
-Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,Rural,NA,12
-Germany,regional,DE7,Hessen,R2F57,psafe1,Rural,NA,28
-Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,Rural,NA,4
-Germany,regional,DEC,Saarland,R2F57,psafe1,Rural,NA,16
-Germany,regional,DED,Saxony,R2F57,psafe1,Rural,NA,19
-Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,Rural,NA,17
-Greece,regional,EL3,Attica,R2F57,psafe1,Rural,NA,13
-Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Rural,NA,12
-Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Urban,NA,15
-Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,Rural,NA,14
-Italy,regional,ITC,North-West,R2F57,psafe1,Rural,NA,21
-Italy,regional,ITF,South,R2F57,psafe1,Rural,NA,23
-Italy,regional,ITG,Islands,R2F57,psafe1,Rural,NA,15
-Italy,regional,ITI,Centre,R2F57,psafe1,Rural,NA,19
-Malta,regional,MT00,Malta,R2F57,psafe1,Rural,NA,7
-Netherlands,regional,NL2,East Netherlands,R2F57,psafe1,Rural,NA,11
-Netherlands,regional,NL3,West Netherlands,R2F57,psafe1,Rural,NA,11
-Netherlands,regional,NL4,South Netherlands,R2F57,psafe1,Rural,NA,20
-Portugal,regional,PT2,Azores,R2F57,psafe1,Rural,NA,25
-Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Rural,NA,14
-Spain,regional,ES1,North-West,R2F57,psafe1,Rural,NA,21
-Spain,regional,ES2,North-East,R2F57,psafe1,Rural,NA,13
-Spain,regional,ES3,Madrid,R2F57,psafe1,Rural,NA,2
-Spain,regional,ES4,Centre,R2F57,psafe1,Rural,NA,28
-Spain,regional,ES5,East,R2F57,psafe1,Rural,NA,14
-Spain,regional,ES6,South,R2F57,psafe1,Rural,NA,12
-Spain,regional,ES7,Canary Islands,R2F57,psafe1,Rural,NA,8
-Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,Rural,NA,12
+Belgium,regional,BE2,Flemish Region,R2F57,psafe1,18-24,NA,24
+Bulgaria,regional,BG3,North and South-East,R2F57,psafe1,18-24,NA,24
+Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,18-24,NA,29
+Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,18-24,NA,17
+Croatia,regional,HR05,Zagreb,R2F57,psafe1,18-24,NA,15
+Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,18-24,NA,25
+Czechia,regional,CZ01,Prague,R2F57,psafe1,+65,NA,23
+Czechia,regional,CZ01,Prague,R2F57,psafe1,18-24,NA,9
+Czechia,regional,CZ01,Prague,R2F57,psafe1,25-34,NA,23
+Czechia,regional,CZ01,Prague,R2F57,psafe1,45-54,NA,23
+Czechia,regional,CZ01,Prague,R2F57,psafe1,55-64,NA,12
+Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,18-24,NA,20
+Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,18-24,NA,19
+Denmark,regional,DK02,Zealand,R2F57,psafe1,18-24,NA,26
+Denmark,regional,DK05,North Jutland,R2F57,psafe1,18-24,NA,15
+Finland,regional,FI1C20,South Finland and Åland,R2F57,psafe1,18-24,NA,23
+Finland,regional,FI1D,North and East Finland,R2F57,psafe1,18-24,NA,24
+France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,18-24,NA,22
+France,regional,FRB,Centre-Val de Loire,R2F57,psafe1,25-34,NA,26
+France,regional,FRC,Burgundy-Franche-Comté,R2F57,psafe1,18-24,NA,22
+France,regional,FRD,Normandy,R2F57,psafe1,18-24,NA,21
+France,regional,FRF,Grand Est,R2F57,psafe1,18-24,NA,20
+France,regional,FRG,Loire Region,R2F57,psafe1,18-24,NA,19
+France,regional,FRH,Brittany ,R2F57,psafe1,18-24,NA,25
+France,regional,FRH,Brittany ,R2F57,psafe1,25-34,NA,24
+France,regional,FRI,New Aquitaine,R2F57,psafe1,18-24,NA,25
+France,regional,FRJ,Occitania,R2F57,psafe1,18-24,NA,22
+France,regional,FRJ,Occitania,R2F57,psafe1,25-34,NA,24
+France,regional,FRK,Auvergne-Rhône-Alpes,R2F57,psafe1,18-24,NA,18
+France,regional,FRL,PACA,R2F57,psafe1,18-24,NA,27
+France,regional,FRL,PACA,R2F57,psafe1,25-34,NA,29
+France,regional,FRL,PACA,R2F57,psafe1,35-44,NA,29
+France,regional,FRM,Corsica ,R2F57,psafe1,+65,NA,29
+France,regional,FRM,Corsica ,R2F57,psafe1,18-24,NA,9
+France,regional,FRM,Corsica ,R2F57,psafe1,25-34,NA,13
+France,regional,FRM,Corsica ,R2F57,psafe1,35-44,NA,16
+France,regional,FRM,Corsica ,R2F57,psafe1,45-54,NA,14
+France,regional,FRM,Corsica ,R2F57,psafe1,55-64,NA,16
+Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,18-24,NA,14
+Germany,regional,DE2,Bavaria,R2F57,psafe1,18-24,NA,22
+Germany,regional,DE3,Berlin,R2F57,psafe1,18-24,NA,27
+Germany,regional,DE3,Berlin,R2F57,psafe1,45-54,NA,29
+Germany,regional,DE4,Brandenburg,R2F57,psafe1,18-24,NA,19
+Germany,regional,DE4,Brandenburg,R2F57,psafe1,25-34,NA,27
+Germany,regional,DE5,Bremen,R2F57,psafe1,+65,NA,22
+Germany,regional,DE5,Bremen,R2F57,psafe1,18-24,NA,14
+Germany,regional,DE5,Bremen,R2F57,psafe1,45-54,NA,24
+Germany,regional,DE6,Hamburg,R2F57,psafe1,18-24,NA,23
+Germany,regional,DE7,Hessen,R2F57,psafe1,18-24,NA,29
+Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,18-24,NA,12
+Germany,regional,DE9,Lower Saxony,R2F57,psafe1,18-24,NA,25
+Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,18-24,NA,24
+Germany,regional,DEB,Rhineland-Palatinate,R2F57,psafe1,18-24,NA,21
+Germany,regional,DEC,Saarland,R2F57,psafe1,18-24,NA,19
+Germany,regional,DED,Saxony,R2F57,psafe1,18-24,NA,20
+Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,18-24,NA,18
+Germany,regional,DEE,Saxony-Anhalt,R2F57,psafe1,25-34,NA,24
+Germany,regional,DEF,Schleswig-Holstein,R2F57,psafe1,18-24,NA,19
+Germany,regional,DEG,Thuringia,R2F57,psafe1,18-24,NA,16
+Greece,regional,EL3,Attica,R2F57,psafe1,18-24,NA,17
+Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,18-24,NA,23
+Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,25-34,NA,26
+Greece,regional,EL5,North Greece,R2F57,psafe1,18-24,NA,19
+Greece,regional,EL6,Central Greece,R2F57,psafe1,18-24,NA,18
+Greece,regional,EL6,Central Greece,R2F57,psafe1,25-34,NA,22
+Hungary,regional,HU1,Central Hungary,R2F57,psafe1,18-24,NA,17
+Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,18-24,NA,17
+Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,18-24,NA,28
+Ireland,regional,IE04,Northern and Western,R2F57,psafe1,+65,NA,29
+Ireland,regional,IE04,Northern and Western,R2F57,psafe1,18-24,NA,10
+Ireland,regional,IE04,Northern and Western,R2F57,psafe1,25-34,NA,29
+Ireland,regional,IE05,Southern,R2F57,psafe1,18-24,NA,25
+Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,18-24,NA,28
+Italy,regional,ITF,South,R2F57,psafe1,18-24,NA,29
+Lithuania,regional,LT01,Capital Region,R2F57,psafe1,18-24,NA,28
+Malta,regional,MT00,Malta,R2F57,psafe1,18-24,NA,25
+Poland,regional,PL2,Southern,R2F57,psafe1,18-24,NA,24
+Poland,regional,PL5,South-Western,R2F57,psafe1,18-24,NA,27
+Poland,regional,PL8,Eastern,R2F57,psafe1,18-24,NA,28
+Poland,regional,PL9,Mazowieckie,R2F57,psafe1,18-24,NA,27
+Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,18-24,NA,25
+Portugal,regional,PT2,Azores,R2F57,psafe1,18-24,NA,28
+Romania,regional,RO3,Macroregion Three,R2F57,psafe1,18-24,NA,28
+Romania,regional,RO4,Macroregion Four,R2F57,psafe1,18-24,NA,25
+Slovakia,regional,SK01,Bratislava,R2F57,psafe1,+65,NA,29
+Slovakia,regional,SK01,Bratislava,R2F57,psafe1,18-24,NA,9
+Slovakia,regional,SK01,Bratislava,R2F57,psafe1,55-64,NA,23
+Slovakia,regional,SK02,West Slovakia,R2F57,psafe1,18-24,NA,24
+Slovakia,regional,SK03,Central Slovakia,R2F57,psafe1,18-24,NA,24
+Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,18-24,NA,28
+Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,18-24,NA,26
+Slovenia,regional,SI04,West Slovenia,R2F57,psafe1,18-24,NA,28
+Spain,regional,ES1,North-West,R2F57,psafe1,18-24,NA,19
+Spain,regional,ES1,North-West,R2F57,psafe1,25-34,NA,25
+Spain,regional,ES2,North-East,R2F57,psafe1,18-24,NA,25
+Spain,regional,ES3,Madrid,R2F57,psafe1,18-24,NA,28
+Spain,regional,ES4,Centre,R2F57,psafe1,18-24,NA,21
+Spain,regional,ES5,East,R2F57,psafe1,18-24,NA,19
+Spain,regional,ES6,South,R2F57,psafe1,18-24,NA,19
+Spain,regional,ES7,Canary Islands,R2F57,psafe1,+65,NA,27
+Spain,regional,ES7,Canary Islands,R2F57,psafe1,18-24,NA,25
+Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,18-24,NA,23
+Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,18-24,NA,20
+Austria,regional,AT3,West Austria,R2F57,psafe1,Income Quintile 1,NA,19
+Croatia,regional,HR02,Pannonian Croatia,R2F57,psafe1,Income Quintile 3,NA,23
+Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 1,NA,28
+Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 2,NA,23
+Croatia,regional,HR03,Adriatic Croatia,R2F57,psafe1,Income Quintile 3,NA,22
+Croatia,regional,HR05,Zagreb,R2F57,psafe1,Income Quintile 3,NA,22
+Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 1,NA,29
+Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 2,NA,26
+Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 3,NA,23
+Croatia,regional,HR06,Northern Croatia,R2F57,psafe1,Income Quintile 4,NA,22
+Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 1,NA,2
+Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 2,NA,27
+Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 3,NA,21
+Czechia,regional,CZ01,Prague,R2F57,psafe1,Income Quintile 4,NA,28
+Czechia,regional,CZ0506,North-East and South-East,R2F57,psafe1,Income Quintile 1,NA,29
+Czechia,regional,CZ0708,Central Moravia and Silesia,R2F57,psafe1,Income Quintile 1,NA,25
+Denmark,regional,DK01,Capital (region),R2F57,psafe1,Income Quintile 1,NA,28
+Denmark,regional,DK02,Zealand,R2F57,psafe1,Income Quintile 1,NA,24
+Denmark,regional,DK03,South Denmark,R2F57,psafe1,Income Quintile 5,NA,28
+Denmark,regional,DK04,Central Jutland,R2F57,psafe1,Income Quintile 5,NA,25
+Denmark,regional,DK05,North Jutland,R2F57,psafe1,Income Quintile 1,NA,24
+Estonia,regional,EE0,Estonia,R2F57,psafe1,Income Quintile 1,NA,25
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,Income Quintile 1,NA,28
+France,regional,FRG,Loire Region,R2F57,psafe1,Income Quintile 1,NA,21
+France,regional,FRH,Brittany ,R2F57,psafe1,Income Quintile 1,NA,28
+France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 1,NA,12
+France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 2,NA,18
+France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 3,NA,20
+France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 4,NA,18
+France,regional,FRM,Corsica ,R2F57,psafe1,Income Quintile 5,NA,20
+Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 1,NA,23
+Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 3,NA,27
+Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 4,NA,26
+Germany,regional,DE5,Bremen,R2F57,psafe1,Income Quintile 5,NA,29
+Germany,regional,DE8,Mecklenburg-Vorpommern,R2F57,psafe1,Income Quintile 5,NA,27
+Germany,regional,DEC,Saarland,R2F57,psafe1,Income Quintile 1,NA,27
+Germany,regional,DED,Saxony,R2F57,psafe1,Income Quintile 5,NA,24
+Greece,regional,EL3,Attica,R2F57,psafe1,Income Quintile 1,NA,16
+Greece,regional,EL3,Attica,R2F57,psafe1,Income Quintile 5,NA,10
+Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,Income Quintile 4,NA,18
+Greece,regional,EL4,"Aegean Islands, Crete",R2F57,psafe1,Income Quintile 5,NA,10
+Greece,regional,EL5,North Greece,R2F57,psafe1,Income Quintile 5,NA,5
+Greece,regional,EL6,Central Greece,R2F57,psafe1,Income Quintile 4,NA,24
+Greece,regional,EL6,Central Greece,R2F57,psafe1,Income Quintile 5,NA,7
+Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 1,NA,9
+Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 2,NA,20
+Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Income Quintile 3,NA,23
+Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 1,NA,11
+Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 2,NA,13
+Hungary,regional,HU2,Transdanubia ,R2F57,psafe1,Income Quintile 3,NA,26
+Hungary,regional,HU3,Great Plain and North,R2F57,psafe1,Income Quintile 1,NA,28
+Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Income Quintile 5,NA,17
+Italy,regional,ITH,North-East,R2F57,psafe1,Income Quintile 1,NA,23
+Italy,regional,ITI,Centre,R2F57,psafe1,Income Quintile 1,NA,27
+Luxembourg,regional,LU00,Luxembourg,R2F57,psafe1,Income Quintile 5,NA,28
+Poland,regional,PL2,Southern,R2F57,psafe1,Income Quintile 4,NA,23
+Poland,regional,PL2,Southern,R2F57,psafe1,Income Quintile 5,NA,24
+Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 1,NA,15
+Poland,regional,PL4,North-Western,R2F57,psafe1,Income Quintile 2,NA,28
+Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 2,NA,27
+Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 4,NA,27
+Poland,regional,PL5,South-Western,R2F57,psafe1,Income Quintile 5,NA,21
+Poland,regional,PL6,Northern,R2F57,psafe1,Income Quintile 5,NA,21
+Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 1,NA,20
+Poland,regional,PL7,Central,R2F57,psafe1,Income Quintile 2,NA,26
+Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 1,NA,15
+Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 2,NA,15
+Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 3,NA,16
+Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 4,NA,14
+Poland,regional,PL8,Eastern,R2F57,psafe1,Income Quintile 5,NA,5
+Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 1,NA,23
+Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 2,NA,20
+Poland,regional,PL9,Mazowieckie,R2F57,psafe1,Income Quintile 5,NA,25
+Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,Income Quintile 1,NA,28
+Portugal,regional,PT1,Continental Portugal,R2F57,psafe1,Income Quintile 5,NA,17
+Portugal,regional,PT2,Azores,R2F57,psafe1,Income Quintile 1,NA,26
+Portugal,regional,PT2,Azores,R2F57,psafe1,Income Quintile 5,NA,23
+Portugal,regional,PT3,Madeira,R2F57,psafe1,Income Quintile 1,NA,26
+Romania,regional,RO1,Macroregion One,R2F57,psafe1,Income Quintile 1,NA,25
+Romania,regional,RO1,Macroregion One,R2F57,psafe1,Income Quintile 5,NA,24
+Romania,regional,RO2,Macroregion Two,R2F57,psafe1,Income Quintile 5,NA,12
+Romania,regional,RO3,Macroregion Three,R2F57,psafe1,Income Quintile 1,NA,27
+Romania,regional,RO4,Macroregion Four,R2F57,psafe1,Income Quintile 5,NA,16
+Slovakia,regional,SK01,Bratislava,R2F57,psafe1,Income Quintile 1,NA,23
+Slovakia,regional,SK04,East Slovakia,R2F57,psafe1,Income Quintile 4,NA,27
+Slovenia,regional,SI03,East Slovenia,R2F57,psafe1,Income Quintile 5,NA,28
+Spain,regional,ES1,North-West,R2F57,psafe1,Income Quintile 1,NA,21
+Spain,regional,ES2,North-East,R2F57,psafe1,Income Quintile 1,NA,15
+Spain,regional,ES3,Madrid,R2F57,psafe1,Income Quintile 1,NA,15
+Spain,regional,ES4,Centre,R2F57,psafe1,Income Quintile 1,NA,25
+Spain,regional,ES5,East,R2F57,psafe1,Income Quintile 1,NA,26
+Spain,regional,ES7,Canary Islands,R2F57,psafe1,Income Quintile 5,NA,16
+Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,Income Quintile 1,NA,26
+Sweden,regional,SE2,Southern Sweden,R2F57,psafe1,Income Quintile 1,NA,21
+Sweden,regional,SE3,Northern Sweden,R2F57,psafe1,Income Quintile 1,NA,17
+Belgium,regional,BE2,Flemish Region,R2F57,psafe1,Rural,NA,20
+Denmark,regional,DK01,Capital (region),R2F57,psafe1,Rural,NA,10
+Finland,regional,FI1B,Helsinki-Uusimaa,R2F57,psafe1,Rural,NA,22
+France,regional,FR1,Île-de-France,R2F57,psafe1,Rural,NA,14
+Germany,regional,DE1,Baden-Württemberg,R2F57,psafe1,Rural,NA,21
+Germany,regional,DEA,North Rhine-Westphalia,R2F57,psafe1,Rural,NA,10
+Greece,regional,EL3,Attica,R2F57,psafe1,Rural,NA,14
+Hungary,regional,HU1,Central Hungary,R2F57,psafe1,Rural,NA,26
+Ireland,regional,IE04,Northern and Western,R2F57,psafe1,Urban,NA,27
+Ireland,regional,IE06,Eastern and Midland,R2F57,psafe1,Rural,NA,27
+Malta,regional,MT00,Malta,R2F57,psafe1,Rural,NA,11
+Netherlands,regional,NL2,East Netherlands,R2F57,psafe1,Rural,NA,19
+Netherlands,regional,NL3,West Netherlands,R2F57,psafe1,Rural,NA,20
+Spain,regional,ES2,North-East,R2F57,psafe1,Rural,NA,21
+Spain,regional,ES3,Madrid,R2F57,psafe1,Rural,NA,7
+Spain,regional,ES5,East,R2F57,psafe1,Rural,NA,27
+Spain,regional,ES6,South,R2F57,psafe1,Rural,NA,24
+Spain,regional,ES7,Canary Islands,R2F57,psafe1,Rural,NA,15
+Sweden,regional,SE1,Eastern Sweden,R2F57,psafe1,Rural,NA,28
 Czechia,regional,CZ01,Prague,R3F2,COR_parliament,18-24,NA,17
 France,regional,FRM,Corsica ,R3F2,COR_parliament,18-24,NA,17
 France,regional,FRM,Corsica ,R3F2,COR_parliament,25-34,NA,26
