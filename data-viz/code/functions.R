@@ -620,10 +620,10 @@ addSpecial <- function(data){
       
       # Triviality of problem
       non_trivial_problem = case_when(
+        is.na(sev_problem_selected) ~ NA_real_,
         sev_problem_selected <= 3  ~ 0,
         sev_problem_selected <= 10 ~ 1,
-        sev_problem_selected <= 99 ~ 0,
-        is.na(sev_problem_selected) ~ NA_real_,
+        sev_problem_selected <= 99 ~ 0
       ),
       
       # Legal vulnerability: official proof of identity
@@ -641,25 +641,31 @@ addSpecial <- function(data){
       
       # Access to appropriate information and advice
       access2info = case_when(
-        AJE_infosource <= 2  & non_trivial_problem == 1  ~ 1,
-        AJE_infosource <= 98 & non_trivial_problem == 1  ~ 0
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
+        AJE_infosource <= 2        ~ 1,
+        AJE_infosource <= 98       ~ 0
       ),
       
       # Access to appropriate assistance and representation
       access2rep = case_when(
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
         AJD_inst_advice == 1 & (
           AJD_adviser_2 == 1 | AJD_adviser_3 == 1 | AJD_adviser_4 == 1 | 
             AJD_adviser_5 == 1 | AJD_adviser_6 == 1 | AJD_adviser_8 == 1
-        ) & non_trivial_problem == 1 ~ 1,
-        # AJD_inst_advice == 1 & AJD_adviser_1 == 1 & AJD_expert_adviser == 1 & non_trivial_problem == 1 ~ 1, # Friend/Family with legal background
-        AJD_inst_advice == 2 & (AJD_noadvice_reason %in% c(1,3)) & non_trivial_problem == 1 ~ 1,  
-        (AJD_inst_advice == 2 | AJD_inst_advice == 98) & non_trivial_problem == 1           ~ 0
+        ) ~ 1,
+        # AJD_inst_advice == 1 & AJD_adviser_1 == 1 & AJD_expert_adviser == 1 ~ 1, # Friend/Family with legal background
+        AJD_inst_advice == 2 & (AJD_noadvice_reason %in% c(1,3)) ~ 1,  
+        AJD_inst_advice == 2 | AJD_inst_advice == 98 ~ 0
       ),
       
       # Access to a dispute resolution mechanism
       access2drm = case_when(
-        AJR_resolution == 1 & non_trivial_problem == 1 ~ 1,
-        AJR_resolution == 2 & (AJR_noresol_reason %in% c(3,5,6,7,8)) & non_trivial_problem == 1 ~ 0
+        is.na(non_trivial_problem) ~ NA_real_,
+        non_trivial_problem == 0   ~ NA_real_,
+        AJR_resolution == 1        ~ 1,
+        AJR_resolution == 2 & (AJR_noresol_reason %in% c(3,5,6,7,8)) ~ 0
         # AJR_resolution == 98 (We don't know if they really needed the DRM, so we exclude 98s)
       ),
       
