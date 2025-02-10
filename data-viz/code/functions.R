@@ -590,6 +590,7 @@ addSpecial <- function(data){
         answer == 2 ~ 0
       ),
       prevalence2 = case_when(
+        answer == 99 ~ NA_real_,
         answer == 1 & severity >= 4 ~ 1,
         answer == 1 & severity  < 4 ~ 0,
         answer == 2 ~ 0
@@ -634,6 +635,7 @@ addSpecial <- function(data){
       access2info = case_when(
         is.na(sev_problem_selected) ~ NA_real_,
         sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJE_infosource <= 2  ~ 1,
         AJE_infosource <= 98 ~ 0
       ),
@@ -641,7 +643,8 @@ addSpecial <- function(data){
       # Access to appropriate assistance and representation
       access2rep = case_when(
         is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected <= 3   ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJD_inst_advice == 1 & (
           AJD_adviser_2 == 1 | AJD_adviser_3 == 1 | AJD_adviser_4 == 1 | 
             AJD_adviser_5 == 1 | AJD_adviser_6 == 1 | AJD_adviser_8 == 1
@@ -654,7 +657,8 @@ addSpecial <- function(data){
       # Access to a dispute resolution mechanism
       access2drm = case_when(
         is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected <= 3   ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJR_resolution == 1 ~ 1,
         AJR_resolution == 2 & (AJR_noresol_reason %in% c(3,5,6,7,8)) ~ 0
         # AJR_resolution == 98 (We don't know if they really needed the DRM, so we exclude 98s)
@@ -665,7 +669,8 @@ addSpecial <- function(data){
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected <= 3   ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJR_solvingtime == -9999    ~ NA_real_,
         AJR_solvingtime == -8888    ~ 0,
         AJR_solvingtime >  12       ~ 0,
@@ -677,7 +682,8 @@ addSpecial <- function(data){
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected <= 3   ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJR_solvingcosts == 2       ~ 1,
         AJR_solvingcosts == 1 & (AJR_costdiff %in% c(1,2)) ~ 1,
         AJR_solvingcosts == 1 & (AJR_costdiff %in% c(3,4,98)) ~ 0
@@ -688,7 +694,8 @@ addSpecial <- function(data){
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol  %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected <= 3   ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJR_fair == 1               ~ 1,
         AJR_fair %in% c(2,98)       ~ 0
       ),
@@ -698,7 +705,8 @@ addSpecial <- function(data){
         AJR_state_resol    %in% c(1,2,98,99) ~ NA_real_,
         AJR_state_noresol %in% c(1,2,98,99) ~ NA_real_,
         is.na(sev_problem_selected) ~ NA_real_,
-        sev_problem_selected <=3    ~ NA_real_,
+        sev_problem_selected <= 3   ~ NA_real_,
+        sev_problem_selected == 99  ~ NA_real_,
         AJR_state_resol    == 3     ~ 0,
         AJR_state_resol    == 4     ~ 1,
         AJR_state_noresol  == 3     ~ 0,
