@@ -590,9 +590,10 @@ addSpecial <- function(data){
         answer == 2 ~ 0
       ),
       prevalence2 = case_when(
-        answer == 99 ~ NA_real_,
-        answer == 1 & severity >= 4 ~ 1,
-        answer == 1 & severity  < 4 ~ 0,
+        answer == 1 & severity == 99 ~ NA_real_, # we don't know if the problem was non-trivial or not
+        answer == 1 & severity == 98 ~ 0,
+        answer == 1 & severity >= 4  ~ 1,
+        answer == 1 & severity  < 4  ~ 0,
         answer == 2 ~ 0
       )
     ) %>%
