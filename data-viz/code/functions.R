@@ -752,7 +752,7 @@ addSpecial <- function(data){
       vulnerability1, vulnerability2, 
       access2info, access2rep, access2drm,
       rp_time, rp_cost, rp_fair, rp_outcome,
-      psafe1, bribery1
+      psafe1, bribery1, non_trivial_problem
     )
   
   # Listing individual data
@@ -1090,19 +1090,20 @@ wrangleMostFrequent <- function(figid) {
 
 wrangle_PrevalenceByCategory <- function(figid){
   legalProblems <- c(
-    "A1", "A2", "A3", "B1", "B2", "B3", "B4", "C1", "C2", "C3", "C4", 
-    "D1", "D2", "D3", "D4", "D5", "D6", "E1", "E2", "E3", "F1", "F2", 
-    "G1", "G2", "G3", "H1", "H2", "H3", "I1", "J1", "J2", "J3", "J4", 
-    "K1", "K2", "K3", "L1", "L2"
-  )
+    "F1", "F2", "J1", "J2", "J3", "E3", "C3", "A1", "A2", 
+    "A3", "G1", "G2", "G3", "E1", "E2", "D1", "D2", "D3",
+    "D4", "D5", "D6", "C1", "C2", "C4", "B1", "B2", "B3",
+    "B4", "I1", "L1", "L2", "K1", "K2", "K3", "H1", "H2",
+    "H3", "J4"
+    )
   legprob_bin <- paste0("AJP_", legalProblems, "_bin")
   
   # categories for each legal problem
   legalProblemCategories <- c(
-    rep("consumer", 3), rep("land", 4), rep("housing", 4), rep("family", 6),
-    rep("education", 3), rep("injury", 2), rep("employment", 3), rep("public services", 3),
-    rep("law enforcement", 1), rep("citizenship and ID", 4), rep("community", 3),
-    rep("money and debt", 2)
+   rep("Accidental Illness and Injury", 2), rep("Citizenship and ID", 3),
+   rep("Community", 2), rep("Consumer", 3), rep("Employment", 3),
+   rep("Education ", 2), rep("Family", 6), rep("Housing", 3), rep("Land and Property", 4),
+   rep("Law Enforcement", 1), rep("Money and Debt", 5), rep("Public Services", 4)
   )
   names(legalProblemCategories) <- legprob_bin
   
@@ -1112,9 +1113,9 @@ wrangle_PrevalenceByCategory <- function(figid){
              ~ ifelse(. == 1, 1, 0))
     )
   
-  legal_problem_summary <- master_data_gpp %>%
+  legal_problem_summary <- master_data_gpp %>% filter(non_trivial_problem == 1) %>%
     group_by(
-      country_name_ltn) %>%
+      nuts_id) %>%
     summarise(
       across(all_of(legprob_bin),
              \(x) sum(x, na.rm = T)), 
@@ -1127,17 +1128,21 @@ wrangle_PrevalenceByCategory <- function(figid){
       category = legalProblemCategories[legal_problem]
     ) %>%
     group_by(
-      country_name_ltn,
+      nuts_id,
       category) %>%
     summarise(
       total_count = sum(count),
       .groups = "drop") %>%
     group_by(
-      country_name_ltn) %>%
+      nuts_id) %>%
     mutate(total_incidents = sum(total_count)) %>%
-    mutate(value2plot = (total_count / total_incidents) * 100) %>%
+    mutate(value2plot = (total_count / total_incidents)) %>%
+    left_join(region_names, by = 'nuts_id') %>%
+    mutate(value2plot = value2plot * pop_weight) %>%
+    group_by(country_name_ltn, category) %>%
+    summarise(value2plot = sum(value2plot)*100) %>%
     ungroup() %>%
-    select(country_name_ltn, category, total_count, total_incidents, value2plot) %>%
+    select(country_name_ltn, category, value2plot) %>%
     mutate(chartid = figid)
   
   return(legal_problem_summary)
