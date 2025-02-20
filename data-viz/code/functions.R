@@ -1100,10 +1100,17 @@ wrangle_PrevalenceByCategory <- function(figid){
   
   # categories for each legal problem
   legalProblemCategories <- c(
-   rep("Accidental Illness and Injury", 2), rep("Citizenship and ID", 3),
-   rep("Community", 2), rep("Consumer", 3), rep("Employment", 3),
-   rep("Education ", 2), rep("Family", 6), rep("Housing", 3), rep("Land and Property", 4),
-   rep("Law Enforcement", 1), rep("Money and Debt", 5), rep("Public Services", 4)
+    rep("consumer", 3),                              # A
+    rep("land", 4),                                  # B 
+    rep("housing", 2), "community", "housing",       # C 
+    rep("family", 6),                                # D
+    rep("education", 2), "community",                # E
+    rep("injury", 2),                                # F
+    rep("employment", 3),                            # G
+    rep("public services", 3),                       # H
+    rep("law enforcement", 1),                       # I
+    rep("citizenship and ID", 3), "public services", # J
+    rep("money and debt", 5)                         # K & L
   )
   names(legalProblemCategories) <- legprob_bin
   
