@@ -1095,62 +1095,79 @@ wrangle_PrevalenceByCategory <- function(figid){
     "D4", "D5", "D6", "C1", "C2", "C4", "B1", "B2", "B3",
     "B4", "I1", "L1", "L2", "K1", "K2", "K3", "H1", "H2",
     "H3", "J4"
-    )
-  legprob_bin <- paste0("AJP_", legalProblems, "_bin")
-  
-  # categories for each legal problem
-  legalProblemCategories <- c(
-    rep("consumer", 3),                              # A
-    rep("land", 4),                                  # B 
-    rep("housing", 2), "community", "housing",       # C 
-    rep("family", 6),                                # D
-    rep("education", 2), "community",                # E
-    rep("injury", 2),                                # F
-    rep("employment", 3),                            # G
-    rep("public services", 3),                       # H
-    rep("law enforcement", 1),                       # I
-    rep("citizenship and ID", 3), "public services", # J
-    rep("money and debt", 5)                         # K & L
   )
-  names(legalProblemCategories) <- legprob_bin
+  legprob_bin <- paste0("AJP_", legalProblems, "_bin")
+  legprob_sev <- paste0("AJP_", legalProblems, "_sev")
   
-  master_data_gpp <- master_data_gpp %>%
+  # convert severity to 0/1
+  master_sev <- master_data_gpp %>%
     mutate(
-      across(all_of(legprob_bin),
-             ~ ifelse(. == 1, 1, 0))
+      across(
+        all_of(legprob_sev),
+        ~ ifelse(. > 3 & . < 98, 1,
+                 ifelse(. < 4, 0, NA_real_))
+      )
     )
   
-  legal_problem_summary <- master_data_gpp %>% filter(non_trivial_problem == 1) %>%
-    group_by(
-      nuts_id) %>%
-    summarise(
-      across(all_of(legprob_bin),
-             \(x) sum(x, na.rm = T)), 
-      .groups = "drop") %>%
-    pivot_longer(
-      cols = all_of(legprob_bin), 
-      names_to = "legal_problem", 
-      values_to = "count") %>%
+  master_sev <- master_sev %>%
     mutate(
-      category = legalProblemCategories[legal_problem]
-    ) %>%
-    group_by(
-      nuts_id,
-      category) %>%
+      problem_cat_consumer    = if_else(AJP_A1_sev == 1 | AJP_A2_sev == 1 | AJP_A3_sev == 1, 1, 0),
+      problem_cat_land        = if_else(AJP_B1_sev == 1 | AJP_B2_sev == 1 | AJP_B3_sev == 1 | AJP_B4_sev == 1, 1, 0),
+      problem_cat_housing     = if_else(AJP_C1_sev == 1 | AJP_C2_sev == 1 | AJP_C4_sev == 1, 1, 0),
+      problem_cat_family      = if_else(AJP_D1_sev == 1 | AJP_D2_sev == 1 | AJP_D3_sev == 1 | 
+                                          AJP_D4_sev == 1 | AJP_D5_sev == 1 | AJP_D6_sev == 1, 1, 0),
+      problem_cat_education   = if_else(AJP_E1_sev == 1 | AJP_E2_sev == 1, 1, 0),
+      problem_cat_accidental  = if_else(AJP_F1_sev == 1 | AJP_F2_sev == 1, 1, 0),
+      problem_cat_employment  = if_else(AJP_G1_sev == 1 | AJP_G2_sev == 1 | AJP_G3_sev == 1, 1, 0),
+      problem_cat_public      = if_else(AJP_H1_sev == 1 | AJP_H2_sev == 1 | AJP_H3_sev == 1 | AJP_J4_sev == 1, 1, 0),
+      problem_cat_law         = if_else(AJP_I1_sev == 1, 1, 0),
+      problem_cat_id          = if_else(AJP_J1_sev == 1 | AJP_J2_sev == 1 | AJP_J3_sev == 1, 1, 0),
+      problem_cat_money       = if_else(AJP_K1_sev == 1 | AJP_K2_sev == 1 | AJP_K3_sev == 1 |
+                                          AJP_L1_sev == 1 | AJP_L2_sev == 1, 1, 0),
+      problem_cat_community   = if_else(AJP_E3_sev == 1 | AJP_C3_sev == 1, 1, 0)
+    )
+  
+  cat_by_region <- master_sev %>%
+    left_join(region_names, by = c("country_name_ltn", "nuts_id")) %>%
+    group_by(country_name_ltn, nuts_id) %>%
     summarise(
-      total_count = sum(count),
-      .groups = "drop") %>%
-    group_by(
-      nuts_id) %>%
-    mutate(total_incidents = sum(total_count)) %>%
-    mutate(value2plot = (total_count / total_incidents)) %>%
-    left_join(region_names, by = 'nuts_id') %>%
-    mutate(value2plot = value2plot * pop_weight) %>%
-    group_by(country_name_ltn, category) %>%
-    summarise(value2plot = sum(value2plot)*100) %>%
-    ungroup() %>%
-    select(country_name_ltn, category, value2plot) %>%
-    mutate(chartid = figid)
+      total_sample = n(),
+      problem_cat_consumer    = sum(problem_cat_consumer, na.rm = TRUE)/total_sample,
+      problem_cat_land        = sum(problem_cat_land, na.rm = TRUE)/total_sample,
+      problem_cat_housing     = sum(problem_cat_housing, na.rm = TRUE)/total_sample,
+      problem_cat_family      = sum(problem_cat_family, na.rm = TRUE)/total_sample,
+      problem_cat_education   = sum(problem_cat_education, na.rm = TRUE)/total_sample,
+      problem_cat_accidental  = sum(problem_cat_accidental, na.rm = TRUE)/total_sample,
+      problem_cat_employment  = sum(problem_cat_employment, na.rm = TRUE)/total_sample,
+      problem_cat_public      = sum(problem_cat_public, na.rm = TRUE)/total_sample,
+      problem_cat_law         = sum(problem_cat_law, na.rm = TRUE)/total_sample,
+      problem_cat_id          = sum(problem_cat_id, na.rm = TRUE)/total_sample,
+      problem_cat_money       = sum(problem_cat_money, na.rm = TRUE)/total_sample,
+      problem_cat_community   = sum(problem_cat_community, na.rm = TRUE)/total_sample,
+      pop_weight              = mean(pop_weight, na.rm = TRUE),
+      .groups = "drop"
+    ) %>%
+    # multiply by pop weight
+    mutate(
+      across(starts_with("problem_cat_"), ~.x * pop_weight)
+    )
+  
+  cat_by_country <- cat_by_region %>%
+    group_by(country_name_ltn) %>%
+    summarise(
+      across(starts_with("problem_cat_"), sum, na.rm = TRUE),
+      .groups = "drop"
+    ) %>%
+    filter(country_name_ltn != "Ireland") %>%
+    mutate(across(starts_with("problem_cat_"), ~ . * 100))
+  
+  legal_problem_summary <- cat_by_country %>%
+    pivot_longer(
+      cols = starts_with("problem_cat_"),
+      names_to = "category",
+      values_to = "value2plot"
+    ) %>% mutate(chartid = figid)
+  
   
   return(legal_problem_summary)
 }

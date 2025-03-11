@@ -43,7 +43,8 @@ create_discrete_legend <- function() {
 genTable <- function(data) {
   # Pivot and mutate data for table creation
   table_data <- data %>%
-    select(country = country_name_ltn, category, value2plot) %>%
+    # select(country_name_ltn, category, value2plot) %>%
+    rename(country = country_name_ltn) %>%
     pivot_wider(names_from = category, values_from = value2plot) %>%
     mutate(across(everything(), ~ ifelse(is.na(.), 0, .)))
   
@@ -58,18 +59,18 @@ genTable <- function(data) {
     align_text_col(align = "left", header = FALSE) %>%
     set_header_labels(
       country = " ",
-      `citizenship and ID` = "Citizenship \nand ID",
-      `community` = "Community",
-      consumer = 'Consumer',
-      education = "Education",
-      employment = "Employment",
-      family = "Family",
-      housing = "Housing",
-      injury = "Injury",
-      land = "Land",
-      `law enforcement` = "Law \nEnforcement",
-      `money and debt` = "Money \nand Debt",
-      `public services` = "Public \nServices"
+      `problem_cat_consumer` = "Consumer",
+      `problem_cat_land` = "Land",
+      problem_cat_housing = 'Housing',
+      problem_cat_family = "Family",
+      problem_cat_education = "Education",
+      problem_cat_accidental = "Accidental",
+      problem_cat_employment = "Employment",
+      problem_cat_public = "Public Services",
+      problem_cat_law = "Law Enforcement",
+      problem_cat_id = "Citizenship and ID",
+      problem_cat_money = "Money \nand Debt",
+      problem_cat_community = "Community"
     ) %>%
     bold(part = "header") %>%
     fontsize(j = 2:ncol(table_data), size = 25, part = "body") %>%

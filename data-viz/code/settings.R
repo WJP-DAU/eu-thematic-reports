@@ -55,9 +55,9 @@ if (Sys.info()["user"] == "ctoruno") {
 } else if (Sys.info()["user"]=="carlostoruno"){
   path2EU <- "/Users/carlostoruno/Library/CloudStorage/OneDrive-WorldJusticeProject/EU Subnational"
   path2DA <- "/Users/carlostoruno/Library/CloudStorage/OneDrive-WorldJusticeProject/Data Analytics"
-} else if(Sys.info()["user"] == "icoddington"){
-  path2EU <- "/Users/icoddington/OneDrive - World Justice Project/EU Subnational"
-  path2DA <- "/Users/icoddington/OneDrive - World Justice Project/Data Analytics"
+} else if(Sys.info()["user"] == "izzycoddington"){
+  path2EU <- "/Users/izzycoddington/Documents/OneDrive - World Justice Project/EU Subnational"
+  path2DA <- "/Users/izzycoddington/Documents/OneDrive - World Justice Project/Data Analytics"
 } else {
   path2EU <- paste0("/Users/santiagopardo/OneDrive - World Justice Project/EU Subnational")
   path2DA <- paste0("/Users/santiagopardo/OneDrive - World Justice Project/Data Analytics")
