@@ -285,10 +285,6 @@ data_points_extended <- lapply(
   }
 )
 
-
-
-
-
 # Bind all demographic-specific results into a single data frame and replace value2plot
 # with complement when direction is negative
 data_points_extended_df <- bind_rows(data_points_extended)
@@ -453,8 +449,8 @@ ggsave(
   plot = plot,
   filename = file.path(path2EU, 
                        "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Economic_dev_gpp.svg"),
-  width = 186,
-  height = 125,
+  width = 255.8627,
+  height = 128.6343,
   units = "mm"
 )
 # Insight 2: Trust ----------------------------------
@@ -608,8 +604,8 @@ ggsave(
   plot = plot,
   filename = file.path(path2EU, 
                        "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Trust.svg"),
-  width = 186,
-  height = 125,
+  width = 255.8627,
+  height = 128.6343,
   units = "mm"
 )
 
@@ -671,8 +667,8 @@ plot <- ggplot(data2plot, aes(y = between_countries_var, x = avg_between_region_
 ggsave(
   plot = plot,
   filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Variance.svg"),
-  width = 186,
-  height = 125,
+  width = 255.8627,
+  height = 128.6343,
   units = "mm"
 )
 # Insight 4: Rural vs Urban ----------------------------------
@@ -755,8 +751,8 @@ plot <- ggplot(merged_data, aes(y = value2plot_urban, x = value2plot_rural)) +
 ggsave(
   plot = plot,
   filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Regions.svg"),
-  width = 186,
-  height = 125,
+  width = 255.8627,
+  height = 128.6343,
   units = "mm"
 )
 # Insight 5: Male vs Female ----------------------------------
@@ -881,8 +877,8 @@ ggsave(
   plot = plot,
   filename = file.path(path2EU, 
                        "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/Gender.svg"),
-  width = 186,
-  height = 125,
+  width = 255.8627,
+  height = 128.6343,
   units = "mm"
 )
 
@@ -1006,7 +1002,8 @@ plot <- ggplot(merged_data, aes(y = value2plot_more, x = value2plot_less)) +
 ggsave(
   plot = plot,
   filename = file.path(path2EU, "EU-S Data/reports/eu-thematic-reports/data-viz/output/regional_insights/economic_dev_qrq.svg"),
-  width = 186,
-  height = 125,
+  width = 255.8627,
+  height = 128.6343,
   units = "mm"
 )
+
