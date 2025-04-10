@@ -201,46 +201,63 @@ replace access2rep=1 if AJD_inst_advice==1 & (AJD_adviser_2 == 1 | AJD_adviser_3
 replace access2rep=. if non_trivial==.
 replace access2rep=. if non_trivial==0
 
-
 *- Type of advisor 
+
+//Appropriate advice (only the people that went to 2-8 advisers)
+gen adv=. 
+replace adv=1 if AJD_inst_advice==1 & AJD_adviser_1==1 & AJD_expert_adviser==1
+replace adv=1 if AJD_inst_advice==1 & (AJD_adviser_2 == 1 | AJD_adviser_3 ==1 | AJD_adviser_4 == 1 | AJD_adviser_5 == 1 | AJD_adviser_6 == 1 | AJD_adviser_7 == 1 | AJD_adviser_8 == 1) 
+
 gen friendfamily=.
-replace friendfamily=1 if AJD_adviser_1==1
-replace friendfamily=0 if AJD_adviser_1==2
-replace friendfamily=. if non_trivial==0 | non_trivial==.
+replace friendfamily=1 if AJD_adviser_1==1 & AJD_expert_adviser==1
+replace friendfamily=0 if AJD_adviser_1==1 & AJD_expert_adviser==2
+replace friendfamily=0 if AJD_adviser_1==1 & AJD_expert_adviser==98
+replace friendfamily=0 if AJD_adviser_1==1 & AJD_expert_adviser==99
+replace friendfamily=0 if AJD_adviser_1==1 & AJD_expert_adviser==.
+replace friendfamily=0 if AJD_adviser_1==2 
+replace friendfamily=. if adv!=1 | (non_trivial==0 | non_trivial==.)
+
 
 gen lawyer=.
 replace lawyer=1 if AJD_adviser_2==1
 replace lawyer=0 if AJD_adviser_2==2
+replace lawyer=. if adv!=1
 replace lawyer=. if non_trivial==0 | non_trivial==.
 
 gen govlegalaid=. 
 replace govlegalaid=1 if AJD_adviser_3==1
 replace govlegalaid=0 if AJD_adviser_3==2
+replace govlegalaid=. if adv!=1
 replace govlegalaid=. if non_trivial==0 | non_trivial==.
 
 gen courtgovbody=.
 replace courtgovbody=1 if AJD_adviser_4==1
 replace courtgovbody=0 if AJD_adviser_4==2 
+replace courtgovbody=. if adv!=1
 replace courtgovbody=. if non_trivial==0 | non_trivial==.
 
 gen healthprof=.
 replace healthprof=1 if AJD_adviser_5==1
 replace healthprof=0 if AJD_adviser_5==2
+replace healthprof=. if adv!=1
 replace healthprof=. if non_trivial==0 | non_trivial==.
 
 gen tradeunion=.
 replace tradeunion=1 if AJD_adviser_6==1 
 replace tradeunion=0 if AJD_adviser_6==2
+replace tradeunion=. if adv!=1
 replace tradeunion=. if non_trivial==0 | non_trivial==.
 
 gen religious=.
 replace religious=1 if AJD_adviser_7==1
 replace religious=0 if AJD_adviser_7==2
+replace religious=. if adv!=1
 replace religious=. if non_trivial==0 | non_trivial==. 
 
 gen civilsoc=.
 replace civilsoc=1 if AJD_adviser_8==1
 replace civilsoc=0 if AJD_adviser_8==2
+replace civilsoc=. if adv!=1
 replace civilsoc=. if non_trivial==0 | non_trivial==. 
 
 gen otherorg=.
@@ -463,7 +480,7 @@ global a2j "prevalence2
 Consumer Family Employment law_enf MoneyDebt Community 
 Land Housing Education Govt_payment Govt_other Injury 
 access2rep 
-friendfamily lawyer courtgovbody tradeunion healthprof civilsoc govlegalaid religious otherorg 
+friendfamily lawyer courtgovbody tradeunion healthprof civilsoc govlegalaid religious 
 access2info access2drm no_access no_access_dk no_access_v2 
 done_fully done_partially too_early done_dk ongoing rp_outcome
 rp_fair slow expensive
