@@ -277,10 +277,7 @@ write_csv(
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # Calling the visualizer for each chart
-# charts <- lapply(
-#   # outline %>%
-#   #   filter(thematic_reports == T) %>%
-#   #   pull(chart_id),
-#   c("R2F26", "R2F27", "R2F28", "R2F29"),
-#   callVisualizer
-# )
+charts <- lapply(
+  c("R2F19", "R2F20", "R2F23", "R2F24", "R2F25", "R2F26", "R2F27", "R2F28", "R2F29"),
+  callVisualizer
+)

@@ -49,13 +49,11 @@ apply an averaging function which calculates weighted means for each chart at th
 and a simple mean for the EU level.
 3. Data Visualization: In this section of the code we call the appropriate visualization function by extracting the relevant parameters from the outline and grabbing the data points for that chart. The resulting charts are saved to the outputs directory in an SVG format.
 
-Finally, the static charts are passed to the SVG handler, which uses a class to assign interactivity to the visualizations depending on their attributes. 
-
-The following charts need to be reduced manually at the [SVGOMG GUI](https://jakearchibald.github.io/svgomg/): R1F41, R1F67, R1F68, R1F79, R1F80, R1F82, R2F31, R2F35, R2F39, R2F48, R3F31
+Once the static charts have been produced, these are passed to the SVG handler, which uses a class to assign interactivity to the visualizations depending on their attributes. Then, as a last step to prep the visualizations, there are two Node.js routines that need to be run in order to optimize the XMLE tree of the SVG files. These two routines will significantly reduce the size of the SVG files.
 
 ### HTML Production
 
-For the html production, we use a docker app to render each report dynamically. The app was developed by [Gabierno Facil](https://github.com/GobiernoFacil).
+For the html production, we use a docker app to render each report dynamically. The app was developed by [Gobierno Facil](https://github.com/GobiernoFacil).
 For inputs, the application takes a csv (named RX-csv-schema.csv) which contains report content for each section. The respective schema csv's for each of the 
 three reports can be found in the R1, R2 and R3 sub-directories of 'html'.
 
