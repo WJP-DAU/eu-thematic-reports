@@ -119,9 +119,10 @@ gen_bars <- function(data, direction, static = FALSE) {
       legend.justification = "left",
       legend.location      = "plot", 
       legend.margin        = margin(2,0,0,0),
-      panel.grid.major.x   = element_line(size     = 0.25,
-                                          colour   = "#a0a0a0",
-                                          linetype = "dashed"),  
+      # panel.grid.major.x   = element_line(size     = 0.25,
+      #                                     colour   = "#a0a0a0",
+      #                                     linetype = "dashed"),
+      panel.grid.major.y   = element_blank(),
       panel.grid.minor     = element_blank(),  
       panel.background     = element_blank(),  
       plot.background      = element_blank()

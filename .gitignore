@@ -54,3 +54,9 @@ data-viz/output/Variance.svg
 data-viz/DRM.svg
 data-viz/code/EU_DRM.R
 html/R2/R2F25.png
+data-viz/output/counts_a2j_path.dta
+data-viz/output/national_a2j_path.dta
+data-viz/output/national_a2j_path.xlsx
+data-viz/output/regional_a2j_path.dta
+data-viz/output/justice_journey.xlsx
+html/__pycache__/text_input.cpython-313.pyc

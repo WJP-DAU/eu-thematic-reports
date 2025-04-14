@@ -93,7 +93,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 
 - People perceive justice as being too expensive. Malta is the only EU Member State where most people agree they can easily meet the costs of turning to a state dispute resolution mechanism when they face a legal problem.
 - People are not aware of their legal rights. Romania, Poland, and Greece are the only EU Member States in which the majority of respondents feel aware of their rights when facing a legal problem.
-- In 15 Member States\*, a majority of respondents experienced at least one non-trivial legal problem\*\* in the past two years. The prevalence of legal problems varies widely across the EU, as just 15.6% of respondents experienced a recent legal problem in Portugal, while 71.0% did in Hungary. Across the EU, the most common legal problems were related to consumer protection.
+- In 15 Member States\*, a majority of respondents experienced at least one non-trivial legal problem\*\* in the past two years. The prevalence of legal problems varies widely across the EU, as just 15.2% of respondents experienced a recent legal problem in Portugal, while 68.9% did in Hungary. Across the EU, the most common legal problems were related to consumer protection.
 - Most people who experienced legal problems\* got the advice they needed: Legal problems are ubiquitous across EU regions. People facing legal problems have access to quality information and advice, and, to a lesser extent, appropriate assistance and representation, with important variations between regions. 
 
 \*The module on legal needs covers 26 out of the 27 EU Member States; this data was not collected in Ireland.
@@ -231,10 +231,10 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 90,accordion_viz_image,R2F18.svg,88,
 91,accordion_viz_note,,88,
 92,sub_chapter,## WJP Global Legal Needs Survey module,14,
-93,html,"- In 15 Member States\*, over half  of respondents experienced one or more **non-trivial legal problems\*\* in the past two years**, with prevalence at the country-level ranging from 15.6% in Portugal to 71.0% in Hungary. Across the EU, the most **commonly reported legal problems** were related to consumer protection and housing.    
-- Among all respondents who reported experiencing non-trivial legal problems, at least half  had **access to good information and advice** and, in 18 Member States, the majority of respondents had **access to adequate assistance and representation**\*\*\*. However, Malta and Bulgaria were the only two Member States in which the majority of respondents, out of those who experienced a non-trivial legal problem and needed access, had **access to a dispute resolution mechanism**.       
-- Out of the people who experienced a non-trivial legal problem and whose problem's resolution process has concluded, in 25 Member States (all except for Czechia), six out of every ten respondents' **legal problems have been solved**.
-- In a majority of EU Member States, out of respondents who experienced a non-trivial legal problem and reported that the problem’s resolution process has concluded, over two-thirds said that the **resolution process concluded in less than a year** and that they were **able to afford the costs to solve their problem, or did not incur any costs at all**.  However, this group of respondents did not think their experiences were fair—in only five Member States did the majority of respondents agree that the **resolution process was fair, regardless of the outcome**.
+93,html,"- In 15 Member States\*, over half  of respondents experienced one or more **non-trivial legal problems\*\* in the past two years**, with prevalence at the country-level ranging from 15.2% in Portugal to 68.9% in Hungary. Across the EU, the most **commonly reported legal problems** were related to consumer protection and housing.    
+- In all Member States, at least half of respondents who experienced a non-trivial legal problem had **access to good information and advice** and, in 17 Member States, the majority of respondents had **access to adequate assistance and representation**\*\*\*. However, Malta, Greece, and Bulgaria were the only three Member States in which the majority of respondents, out of those who experienced a non-trivial legal problem and needed access, had **access to a dispute resolution mechanism**.       
+- Out of the people who experienced a non-trivial legal problem and whose problem's resolution process has concluded, in all Member States, six out of every ten respondents' **legal problems have been solved**.
+- In a majority of EU Member States, out of respondents who experienced a non-trivial legal problem and reported that the problem’s resolution process has concluded, over two-thirds said that the **resolution process concluded in less than a year** and that they were **able to afford the costs to solve their problem, or did not incur any costs at all**.  However, this group of respondents did not think their experiences were fair—in only four Member States did over two-thirds of respondents agree that the **resolution process was fair, regardless of the outcome**.
 
 \*The module on legal needs covers 26 out of the 27 EU member states; this data was not collected in Ireland.
 \*\*We understand non-trivial legal problems as those that respondents label with a severity larger than or equal to 4 on a scale of 0 to 10.
@@ -294,7 +294,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 ,accordion_viz_category,People's Voices,122,
 123,accordion_viz_description,"Percentage of respondents whose process concluded in less than a year, out of those who experienced a non-trivial legal problem in the previous two years and whose problem resolution process had concluded.",122,
 124,accordion_viz_image,R2F26.svg,122,
-125,accordion_viz_note,,122,
+125,accordion_viz_note,"The data for this indicator exhibits significant uncertainty in responses. As standard practice, all People's Voices indicators in this report incorporate ""Don't Know"" responses within the total response universe. For an alternative analysis that excludes uncertainty measurements, please refer to the <a href=""https://eurovoices.worldjusticeproject.org/reports/collection/justice-safety/index/pdf/justice-suplementary-material.pdf"">supplementary materials available online</a>.",122,
 126,accordion_viz,"
                         <span id=""R2F27"">Figure 24</span> Experiences of the costliness of dispute resolution processes
                         ",92,people
@@ -308,7 +308,7 @@ In conceptualizing safety and access to justice, WJP uses a people-centered appr
 ,accordion_viz_category,People's Voices,130,
 131,accordion_viz_description,"Percentage of respondents who think the process was fair, regardless of the outcome,  out of those who experienced a non-trivial legal problem in the previous two years and whose problem resolution process had concluded.",130,
 132,accordion_viz_image,R2F28.svg,130,
-133,accordion_viz_note,,130,
+133,accordion_viz_note,"The data for this indicator exhibits significant uncertainty in responses. As standard practice, all People's Voices indicators in this report incorporate ""Don't Know"" responses within the total response universe. For an alternative analysis that excludes uncertainty measurements, please refer to the <a href=""https://eurovoices.worldjusticeproject.org/reports/collection/justice-safety/index/pdf/justice-suplementary-material.pdf"">supplementary materials available online</a>.",130,
 134,accordion_viz,"
                         <span id=""R2F29"">Figure 26</span> Outcomes obtained by users of dispute resolution processes
                         ",92,people
@@ -556,7 +556,7 @@ respondents who agree with this statement ranges from 67.9% in Finland to 23.4% 
 264,accordion_viz_image,R2B2.png,262,
 265,accordion_viz_note,,262,
 266,sub_chapter,## Control of violence,254,
-267,html,"- In 24 Member States, the majority of respondents agree that **the police resolve safety problems in their communities and treat all people with kindness and respect**, with country-level figures ranging from 93.4% of respondents in Finland to 42.1% in Cyprus.",266,
+267,html,"- In only 6 Member States, the majority of respondents agree that **the police resolve safety problems in their communities and treat all people with kindness and respect**, with country-level figures ranging from 59.7% of respondents in Finland to 21.5% in Slovakia.",266,
 268,accordion_viz,"
                         <span id=""R2F57"">Figure 53</span> Police and community safety
                         ",266,people
