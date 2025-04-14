@@ -438,7 +438,7 @@ replace rp_cost=. if non_trivial==.
 *Hardship
 foreach v in AJE_health AJE_emotional AJE_income AJE_drugs {
 	gen `v'_n=`v'
-	recode `v'_n (2 =0) (98 =.) (99=.)
+	recode `v'_n (2 =0) (98 =0) (99=.)
 }
 
 egen hardship_n=rowtotal(AJE_health_n AJE_emotional_n AJE_income_n AJE_drugs_n)
